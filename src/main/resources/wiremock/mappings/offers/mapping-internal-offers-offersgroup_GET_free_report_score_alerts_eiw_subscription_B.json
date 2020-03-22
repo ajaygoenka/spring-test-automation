@@ -1,0 +1,16 @@
+{
+  "id" : "e1b6ad16-599e-307b-b0c1-4bf6df525e47",
+  "request" : {
+    "url" : "/internal/offers/offersgroup/87f416d1-a859-4dbd-9296-2385d04c571c",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "offers/body-internal-offers-offersgroup_GET_free_report_score_alerts_eiw_subscription_B.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+
+    }
+  },
+  "uuid" : "e1b6ad16-599e-307b-b0c1-4bf6df525e47"
+}

@@ -1,0 +1,23 @@
+{
+  "id" : "c7f3af8f-089a-3338-b1e8-0e093bbd6068",
+  "request" : {
+    "url" : "/api/credit/report/7688f650-4e12-409c-96c5-ccb80cafb2eb",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "credit/body-api-credit-report-7688f650-4e12-409c-96c5-ccb80cafb2eb-equifax.json",
+    "headers" : {
+      "Date" : "Mon, 01 Jul 2019 17:34:05 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "Cache-Control" : "private, no-cache, no-store, must-revalidate",
+      "Expires" : "-1",
+      "Pragma" : "no-cache",
+      "server" : "Kestrel"
+    }
+  },
+  "uuid" : "c7f3af8f-089a-3338-b1e8-0e093bbd6068"
+}

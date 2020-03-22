@@ -1,0 +1,16 @@
+{
+    "baseAmount": {{jsonPath request.body '$.baseAmount'}},
+    "finalAmount": {{jsonPath request.body '$.baseAmount'}},
+    "finalTaxAmount": 0.0,
+    "totalAmount": {{jsonPath request.body '$.baseAmount'}},
+    "taxAddress": {
+        "street": "13701 HUBBARD ST",
+        "city": "Sylmar",
+        "state": "CA",
+        "zip": "91342"
+    },
+    "areaTaxCode": "50371900",
+    "createDt": "2019-01-22T18:31:58.347+00:00",
+    "taxSource": "Vertex",
+    "taxQuoteId": "bcde103f-25eb-4c1d-b95c-8c82da1bba59"
+}

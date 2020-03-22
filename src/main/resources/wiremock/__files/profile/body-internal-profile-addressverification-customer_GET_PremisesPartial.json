@@ -1,0 +1,34 @@
+{
+    "verifyLevel": "PremisesPartial",
+    "fields": null,
+    "prompt": "Please confirm your Apt/Ste/Unit Number",
+    "results": [
+        {
+            "id": "762USA-cOUSADwPjBwAAAAAEAwEAAAABPxXnEgggAAAAAAAAAAD..2QAAAAA.....wAAAAAAAAAAAAAAAAAAADQ4MiBTIEtBTElTUEVMTCBXQVkgLEF1cm9yYSBDTyA4MDAxNwA-$QL36R6AbGXWSMv",
+            "text": "482 S Kalispell Way, Aurora CO 80017-2100",
+            "grouped": false,
+            "url": "/capture/v1/address-layout/762USA-cOUSADwPjBwAAAAAEAwEAAAABPxXnEgggAAAAAAAAAAD..2QAAAAA.....wAAAAAAAAAAAAAAAAAAADQ4MiBTIEtBTElTUEVMTCBXQVkgLEF1cm9yYSBDTyA4MDAxNwA-%24QL36R6AbGXWSMv/"
+        },
+        {
+            "id": "762USA-YOUSADwPjBwAAAAAEAwEAAAABPxXn0gggAAAAAAAAAAD..2QAAAAA.....wAAAAAAAAAAAAAAAAAAADQ4MiBTIEtBTElTUEVMTCBXQVkgLEF1cm9yYSBDTyA4MDAxNwA-$QL368XRTQ7n4sc",
+            "text": "482 S Kalispell Way Apt A ... F, Aurora CO 80017-2100",
+            "grouped": true,
+            "url": "/capture/v1/verify-address/text?country=USA&id=762USA-YOUSADwPjBwAAAAAEAwEAAAABPxXn0gggAAAAAAAAAAD..2QAAAAA.....wAAAAAAAAAAAAAAAAAAADQ4MiBTIEtBTElTUEVMTCBXQVkgLEF1cm9yYSBDTyA4MDAxNwA-%24QL368XRTQ7n4sc&query=Please%20enter%20refinement%20text"
+        }
+    ],
+    "currentAddress": {
+        "addressId": "b9fccdc8f18d46fb890cd179ecd9f148",
+        "streetType": null,
+        "street": "482 S KALISPELL WAY",
+        "line2": null,
+        "city": "Aurora",
+        "state": "CO",
+        "zip": "80017",
+        "streetNum": null,
+        "streetName": null,
+        "aptNo": null,
+        "suiteName": null,
+        "predirectional": null,
+        "addressType": "CurrentAddress"
+    }
+}

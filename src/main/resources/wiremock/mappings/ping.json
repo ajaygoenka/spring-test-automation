@@ -1,0 +1,9 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/internal/admin/ping"
+  },
+  "response": {
+    "status": 200
+  }
+}

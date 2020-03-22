@@ -1,0 +1,22 @@
+{
+  "id" : "d7f8ef7b-4996-34b2-be08-7ebbb1506080",
+  "request" : {
+    "urlPattern" : "/internal/report/([\\w\\d]*)/raw/201905160249575755",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "report/body-internal-report-512ed190dde248a282f12cc077fec184-raw-201905160249575755-USSor.json",
+    "headers" : {
+      "Date" : "Thu, 16 May 2019 22:30:10 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-store,no-cache",
+      "pragma" : "no-cache",
+      "server" : "Kestrel"
+    }
+  },
+  "uuid" : "d7f8ef7b-4996-34b2-be08-7ebbb1506080"
+}

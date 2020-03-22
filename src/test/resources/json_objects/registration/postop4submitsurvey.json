@@ -1,0 +1,12 @@
+{
+  "jsc": "sla44j1eJNlY5BSo9z4ofjb75PaK4Vpjt3Q9cUVlOrXTAxw63UYOKES5jfzmkflFfmczl998tp7ppfAaZ6m1CdC5MQjGejuTDRNziCvTDfWodQTPIHxRyrMqgXK_Pmtd0SHp815LyjaY2.rIkRQ9cAxw63QuyPB94UXuGlfUm7qKFz0Xnj3wMvsD7z5meTuCUMz_WMXWM_GzXJJIneGffLMC7EZ3QHPBirTYKUowRslzRQqwSM2dHqwoa_utxijhO3f9p_nH1zDz.ICMpwoNIw6CDr_0h8ncQlEReFKBLurZ36BuLQuyPBDjaY2ftckuyPBB2SCVZXnN9N74STgeieZxQsDhk6Hb9LarUqUdHz16rgPtFSL1kaW5DsQWug0JkKGmHb97SSr_JzIpUWuyxYMJ5tFSLDojLv1ZY5CljQlpRxvEWMZyr6U5lY6SGGY5BNBypj.lTC8rTZjnv_Ip3Dj_vEmxbsNUuNoklg9WN9DteXgdT5usDK48k0mbKT1f9MhVCDv8ekKRzeKNQ4FBc8rLLfjRckrHgJ10ibau6RAxyXiUSlKXVPgZ60_dyA3nt8I8.hWrUGOKiJ64XVA4.YQBgzEqwSMp3RPOozQZkA4.AOybWXmxOzDbxLPUd_ut8udCAA2KpU9iKJ9TiSG65aSEqtB5UUm2t2W65aR9QZkGpXVFf4.JgJ2f1a4Nc0X6ONc5jaYZtNc5jaYZtNc.45L9.JEOHlF4OdvA4.trs1OfSnjL9.L6B3Cb1PnHMxyAB4uy.1W3",
+  "pageId": "ecs.completeProfile",
+  "customer": {
+    "pin": "1111",
+    "emailOptIn": false,
+    "securityQuestions": {
+      "answer": "teacher",
+      "id": "1"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "b83342e2-1170-35c6-a5b2-dd083facfa0c",
+  "request": {
+    "url": "/internal/offers/offergroup",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"offerIds\":[\"880bf6az6c134ce4a88e47ace40ca821\"]}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offergroup_POST_1b1s_transactional_9_95.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "b83342e2-1170-35c6-a5b2-dd083facfa0c"
+}

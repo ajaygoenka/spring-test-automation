@@ -1,0 +1,10 @@
+{
+    "Email": "{{jsonPath request.body '$.email'}}",
+    "Certainty": null,
+    "Message": "OK",
+    "VerboseOutput": "acceptAll",
+    "message": "OK",
+    "verboseOutput": "acceptAll",
+    "certainty": null,
+    "email": "{{jsonPath request.body '$.email'}}"
+}

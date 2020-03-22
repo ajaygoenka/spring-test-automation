@@ -1,0 +1,37 @@
+{
+  "original_score": 669,
+  "target_score": 690,
+  "target_duration": 12,
+  "simulated_score": 699,
+  "simulated_duration": 12,
+  "statement": {
+    "code": "MS104",
+    "text": "A higher target FICO<sup>&reg;</sup> Score 8 of 699 could be met within 12 months with the following actions:",
+    "actions": [
+      {
+        "code": "AC011",
+        "text": "Pay all your bills on time for 12 months."
+      },
+      {
+        "code": "AC213",
+        "text": "Stay current on your payments so that your most recent delinquency ages to 1 year, 4 months."
+      },
+      {
+        "code": "AC230",
+        "text": "Do not open any new accounts, so that the time since your most recently opened account ages to 2 years."
+      },
+      {
+        "code": "AC214",
+        "text": "Do not open any new accounts, so that your average length of established history ages to 5 years, 8 months."
+      },
+      {
+        "code": "AC101",
+        "text": "Continue to make your monthly installment loan payments on time to reduce the total installment loan balances of $69,428 you owe."
+      },
+      {
+        "code": "AC057",
+        "text": "Do not apply for any new credit."
+      }
+    ]
+  }
+}

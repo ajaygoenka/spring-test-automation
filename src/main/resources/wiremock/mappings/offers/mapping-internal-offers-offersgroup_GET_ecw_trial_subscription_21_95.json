@@ -1,0 +1,15 @@
+{
+  "id": "3f4162ba-9f52-38d5-940b-5fe83fa7fa7c",
+  "request": {
+    "url": "/internal/offers/offersgroup/c8f90e9a-0c20-4587-b1dc-ffba0e16dbc5",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offersgroup_GET_ecw_trial_subscription_21_95.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "3f4162ba-9f52-38d5-940b-5fe83fa7fa7c"
+}

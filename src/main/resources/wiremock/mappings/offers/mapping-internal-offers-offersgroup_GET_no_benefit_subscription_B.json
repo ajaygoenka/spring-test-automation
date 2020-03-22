@@ -1,0 +1,15 @@
+{
+  "id": "91b42eb7-1208-3048-96b0-4b3f91e71693",
+  "request": {
+    "url": "/internal/offers/offersgroup/4b07e660-7b5a-4b9f-88b6-1c32ffebf8c8",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offersgroup_GET_no_benefit_subscription_B.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "91b42eb7-1208-3048-96b0-4b3f91e71693"
+}

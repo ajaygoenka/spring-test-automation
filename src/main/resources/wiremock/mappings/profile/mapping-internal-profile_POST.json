@@ -1,0 +1,15 @@
+{
+  "id" : "42532709-506d-3090-916b-dc6cb706832f",
+  "request" : {
+    "url" : "/internal/profile",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "profile/body-internal-profile_POST.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "42532709-506d-3090-916b-dc6cb706832f"
+}

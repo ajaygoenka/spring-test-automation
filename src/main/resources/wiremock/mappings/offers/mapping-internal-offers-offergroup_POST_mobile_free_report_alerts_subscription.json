@@ -1,0 +1,22 @@
+{
+  "id": "fe94d077-6255-36c5-acb3-638a34adc3c1",
+  "request": {
+    "url": "/internal/offers/offergroup",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"offerIds\":[\"e7325d3d927742ebaa72971e616909be\"]}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offergroup_POST_mobile_free_report_alerts_subscription.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "fe94d077-6255-36c5-acb3-638a34adc3c1"
+}

@@ -1,0 +1,11 @@
+{
+    "timestamp": 0,
+    "code": "NOT_FOUND",
+    "status": 404,
+    "fieldErrors": [
+        {
+            "field": "score",
+            "detail": "no latest scores found"
+        }
+    ]
+}

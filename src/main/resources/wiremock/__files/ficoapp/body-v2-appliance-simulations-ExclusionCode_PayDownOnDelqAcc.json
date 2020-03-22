@@ -1,0 +1,1 @@
+{"actions":[{"action_code":"pay_down_n_on_delq_rev_open_accounts","simulation_parameters":[{"name":"amount","value":500}]}],"exclusion_code":"no_delq_rev","exclusion_action_code":"pay_down_n_on_delq_rev_open_accounts"}

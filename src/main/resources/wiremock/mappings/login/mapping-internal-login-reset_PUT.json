@@ -1,0 +1,15 @@
+{
+    "id": "e5592aaf-7b9d-35df-a09f-dae713ea7a79",
+    "request": {
+        "url": "/internal/login/reset",
+        "method": "PUT"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "login/body-internal-login-reset_PUT.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    },
+    "uuid": "e5592aaf-7b9d-35df-a09f-dae713ea7a79"
+}

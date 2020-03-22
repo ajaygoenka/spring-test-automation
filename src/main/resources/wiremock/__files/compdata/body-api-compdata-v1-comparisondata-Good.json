@@ -1,0 +1,20 @@
+{
+  "request": {
+    "dateOfBirth": "1970-01-01",
+    "ficoRating": "Good",
+    "stateCode": "CA"
+  },
+  "childrenPresent": "Y",
+  "region": "West",
+  "vantageTier": "c.Near_Prime",
+  "incomeGroup": "C",
+  "ageGroup": "d.X=age35-49",
+  "openTrades": 7.137258037,
+  "tradesNeverLate": 73.64179893,
+  "openBankcard": 2.750560225,
+  "balanceBankcard": 8564.118184,
+  "creditRatioBankcard": 65.56630237,
+  "openRetail": 2.597008734,
+  "balanceRetail": 2349.728027,
+  "creditScore": 706
+}

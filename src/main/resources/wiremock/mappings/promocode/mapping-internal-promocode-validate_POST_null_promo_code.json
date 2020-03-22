@@ -1,0 +1,22 @@
+{
+  "id": "29598546-d479-383b-b616-7befc7f0506b",
+  "request": {
+    "url": "/internal/promocode/validate?lock=true",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"promoCode\":\"null\"}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "bodyFileName": "promocode/body-internal-promocode-validate_POST_null_promo_code.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "29598546-d479-383b-b616-7befc7f0506b"
+}

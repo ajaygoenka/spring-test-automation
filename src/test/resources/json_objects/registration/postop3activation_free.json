@@ -1,0 +1,12 @@
+{
+  "answers": {
+    "questionSetId": "questionSetId",
+    "answer3": 1,
+    "answer2": 1,
+    "answer4": 1,
+    "answer1": 1
+  },
+  "offerQuoteId": "offerQuoteId",
+  "pageId": "ecs.registration.op3"
+
+}

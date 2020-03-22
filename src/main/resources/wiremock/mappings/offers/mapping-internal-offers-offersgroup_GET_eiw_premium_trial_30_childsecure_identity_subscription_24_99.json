@@ -1,0 +1,15 @@
+{
+  "id": "539115d2-fab2-3d92-969c-2a0b72d1a1a0",
+  "request": {
+    "url": "/internal/offers/offersgroup/47c8f5fc-b38f-4d13-aa40-2a8a779d0ba6",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offersgroup_GET_eiw_premium_trial_30_childsecure_identity_subscription_24_99.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "539115d2-fab2-3d92-969c-2a0b72d1a1a0"
+}

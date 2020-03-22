@@ -1,0 +1,35 @@
+{
+  "actions": [
+    {
+      "action_code": "apply_and_receive_a_credit_card_with_limit_d",
+      "simulation_parameters": [
+        {
+          "name": "limit",
+          "value": 10000
+        }
+      ]
+    },
+    {
+      "action_code": "apply_and_receive_a_mortgage_of_d",
+      "simulation_parameters": [
+        {
+          "name": "amount",
+          "value": 3000000
+        }
+      ]
+    },
+    {
+      "action_code": "apply_and_receive_an_auto_loan_of_d",
+      "simulation_parameters": [
+        {
+          "name": "amount",
+          "value": 20000
+        }
+      ]
+    }
+  ],
+  "exclusion_code": "success",
+  "simulated_score_low": 690,
+  "simulated_score_high": 690,
+  "score_rating": "Good"
+}

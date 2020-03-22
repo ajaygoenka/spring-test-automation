@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/internal/securetoken/token"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "/securetoken/token_post_200.json"
+  }
+}

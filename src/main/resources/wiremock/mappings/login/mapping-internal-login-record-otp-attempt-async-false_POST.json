@@ -1,0 +1,25 @@
+{
+  "id": "244e9418-d973-333e-8ebc-eb5f1b297ec4",
+  "request": {
+    "url": "/internal/login/record/otp/attempt?async=false",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"attemptType\":\"OTPGenerated\"}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "login/body-internal-login-record-otp-attempt-async-false_POST_OTPGenerated.json",
+    "transformers": [
+      "response-template"
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "244e9418-d973-333e-8ebc-eb5f1b297ec4"
+}

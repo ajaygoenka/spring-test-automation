@@ -1,0 +1,23 @@
+{
+  "id" : "1875dbdd-0824-3344-b176-a8dedae953ff",
+  "request" : {
+    "url" : "/v2/appliance/simulations/content",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "ficoapp/body-v2-appliance-simulations-content-sfBj3.json",
+    "headers" : {
+      "Cache-Control" : "no-cache",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Date" : "Thu, 04 Apr 2019 19:06:26 GMT",
+      "Expires" : "-1",
+      "Pragma" : "no-cache",
+      "Server" : "Microsoft-IIS/8.5",
+      "X-AspNet-Version" : "4.0.30319",
+      "X-Powered-By" : "ASP.NET",
+      "Connection" : "keep-alive"
+    }
+  },
+  "uuid" : "1875dbdd-0824-3344-b176-a8dedae953ff"
+}

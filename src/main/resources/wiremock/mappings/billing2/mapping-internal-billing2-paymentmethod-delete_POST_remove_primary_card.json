@@ -1,0 +1,12 @@
+{
+  "id": "28008145-a208-35fb-9009-812cc9d3965c",
+  "request": {
+    "url": "/internal/billing2/paymentmethod/delete",
+    "method": "POST"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "billing2/body-internal-billing2-paymentmethod-delete_POST_remove_primary_card.txt"
+  },
+  "uuid": "28008145-a208-35fb-9009-812cc9d3965c"
+}

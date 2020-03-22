@@ -1,0 +1,23 @@
+{
+  "id" : "8db100dc-c8bf-32cf-908e-6917f10ffc58",
+  "request" : {
+    "url" : "/api/credit/attribute/5204e786-56cf-4a0b-9ff9-ebf88184ec3e",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "credit/body-api-credit-attribute-5204e786-56cf-4a0b-9ff9-ebf88184ec3e-experian.json",
+    "headers" : {
+      "Date" : "Mon, 01 Jul 2019 16:43:37 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "Cache-Control" : "private, no-cache, no-store, must-revalidate",
+      "Expires" : "-1",
+      "Pragma" : "no-cache",
+      "server" : "Kestrel"
+    }
+  },
+  "uuid" : "8db100dc-c8bf-32cf-908e-6917f10ffc58"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8e6a57d5-5261-3b70-ad7a-f7e60976a51f",
+  "request": {
+    "url": "/internal/offers/offergroup",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"offerIds\":[\"3dc23eb84bcc4ec98975cd4b7cd09219\"]}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offergroup_POST_eiw_premium_money_back_30_subscription_24_99.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "8e6a57d5-5261-3b70-ad7a-f7e60976a51f"
+}

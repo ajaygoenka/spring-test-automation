@@ -1,0 +1,46 @@
+{
+    "verifyLevel": "StreetPartial",
+    "fields": null,
+    "prompt": "Please confirm your building number",
+    "results": [
+        {
+            "id": "762USA-gOUSADwPjBwAAAAAEAwEAAAABPxV.UgggAAAAAAAAAAD..18AAAAA.....wAAAAAAAAAAAAAAAAAAADgyIFMgS0FMSVNQRUxMIFdBWSAsQXVyb3JhIENPIDgwMDE3AA--$QL3547sxdn_zi8",
+            "text": "301 ... 399 S Kalispell Way, Aurora CO   [odd] 80017-2155",
+            "grouped": true,
+            "url": "/capture/v1/verify-address/text?country=USA&id=762USA-gOUSADwPjBwAAAAAEAwEAAAABPxV.UgggAAAAAAAAAAD..18AAAAA.....wAAAAAAAAAAAAAAAAAAADgyIFMgS0FMSVNQRUxMIFdBWSAsQXVyb3JhIENPIDgwMDE3AA--%24QL3547sxdn_zi8&query=Please%20enter%20refinement%20text"
+        },
+        {
+            "id": "762USA-eOUSADwPjBwAAAAAEAwEAAAABPxWMUgghAAIAAAAAAAAAAAD..18AAAAA.....wAAAAAAAAAAAAAAAAAAADgyIFMgS0FMSVNQRUxMIFdBWSAsQXVyb3JhIENPIDgwMDE3AA--$QL35lDG6IlMBFP",
+            "text": "309 S Kalispell Way, Aurora CO 80017-3704",
+            "grouped": false,
+            "url": "/capture/v1/address-layout/762USA-eOUSADwPjBwAAAAAEAwEAAAABPxWMUgghAAIAAAAAAAAAAAD..18AAAAA.....wAAAAAAAAAAAAAAAAAAADgyIFMgS0FMSVNQRUxMIFdBWSAsQXVyb3JhIENPIDgwMDE3AA--%24QL35lDG6IlMBFP/"
+        },
+        {
+            "id": "762USA-FOUSADwPjBwAAAAAEAwEAAAABPxWQ0gghAAIAAAAAAAAAAAD..18AAAAA.....wAAAAAAAAAAAAAAAAAAADgyIFMgS0FMSVNQRUxMIFdBWSAsQXVyb3JhIENPIDgwMDE3AA--$QL35KzZ7-zu4ii",
+            "text": "349 S Kalispell Way, Aurora CO 80017-3719",
+            "grouped": false,
+            "url": "/capture/v1/address-layout/762USA-FOUSADwPjBwAAAAAEAwEAAAABPxWQ0gghAAIAAAAAAAAAAAD..18AAAAA.....wAAAAAAAAAAAAAAAAAAADgyIFMgS0FMSVNQRUxMIFdBWSAsQXVyb3JhIENPIDgwMDE3AA--%24QL35KzZ7-zu4ii/"
+        },
+        {
+            "id": "762USA-nOUSADwPjBwAAAAAEAwEAAAABPxWVUgghAAIAAAAAAAAAAAD..18AAAAA.....wAAAAAAAAAAAAAAAAAAADgyIFMgS0FMSVNQRUxMIFdBWSAsQXVyb3JhIENPIDgwMDE3AA--$QL352Mtlf-JaBF",
+            "text": "389 S Kalispell Way, Aurora CO 80017-3720",
+            "grouped": false,
+            "url": "/capture/v1/address-layout/762USA-nOUSADwPjBwAAAAAEAwEAAAABPxWVUgghAAIAAAAAAAAAAAD..18AAAAA.....wAAAAAAAAAAAAAAAAAAADgyIFMgS0FMSVNQRUxMIFdBWSAsQXVyb3JhIENPIDgwMDE3AA--%24QL352Mtlf-JaBF/"
+        }
+    ],
+    "currentAddress": {
+        "addressId": "44717afe8abb4993be6f9cc22cbba0db",
+        "streetType": null,
+        "street": "82 S KALISPELL WAY",
+        "line2": null,
+        "city": "Aurora",
+        "state": "CO",
+        "zip": "80017",
+        "streetNum": null,
+        "streetName": null,
+        "aptNo": null,
+        "suiteName": null,
+        "predirectional": null,
+        "addressType": "CurrentAddress"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "fb97a055-99a1-3c5c-a6a1-1d2e920df298",
+  "request" : {
+    "url" : "/internal/profile/customer/update/authenticate",
+    "method" : "PUT",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"authenticatedId\":50}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "body": "",
+    "headers" : {
+    }
+  },
+  "uuid" : "fb97a055-99a1-3c5c-a6a1-1d2e920df298"
+}

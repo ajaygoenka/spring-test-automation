@@ -1,0 +1,30 @@
+{
+  "id": "809c2c68-f890-3d93-9d4e-459c538c1f1a",
+  "priority": 10,
+  "request": {
+    "url": "/internal/billing2/refund?refundQuote=true",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$[?(@.refundAmount == 0.0)]"
+      },
+      {
+        "matchesJsonPath": "$[?(@.refundSource == 'ONLINE')]"
+      },
+      {
+        "matchesJsonPath": "$[?(@.refundType == 'PARTIAL')]"
+      },
+      {
+        "matchesJsonPath": "$[?(@.refundMode == 'DAYS')]"
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "billing2/body-internal-billing2-refund_POST_GLOBAL_0_0_online_partial_days.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "809c2c68-f890-3d93-9d4e-459c538c1f1a"
+}

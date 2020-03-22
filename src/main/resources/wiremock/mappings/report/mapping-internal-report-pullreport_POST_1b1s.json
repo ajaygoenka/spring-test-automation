@@ -1,0 +1,22 @@
+{
+  "id": "6d368af6-273b-3b28-af30-a6c8875714d7",
+  "request": {
+    "url": "/internal/report/pullreport",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"source\":\"Experian\",\"scoreSource\":\"Experian\",\"benefitType\":\"1B1S\"}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "report/body-internal-report-pullreport_POST_1b1s.json",
+    "headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    }
+  },
+  "uuid": "6d368af6-273b-3b28-af30-a6c8875714d7"
+}

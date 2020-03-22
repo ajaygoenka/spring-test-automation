@@ -1,0 +1,14 @@
+{
+  "error": [
+    {
+      "code": 104,
+      "message": "Failed to initialize the credit Report - Credit Report NOT deliverable due to score being UnScorable with an exclusion reason of 'The Profile report does not contain any tradeline which satisfies both of the following: Status date within the last six (6) months OR a balance within the last six (6) months. Does not contain disputed information.'.",
+      "stack_trace": "   at lc.a(String A_0, Boolean A_1, Boolean A_2)\r\n   at c.a(SimulationParamsMulti A_0, String A_1)\r\n   at Fico.Appliance.Simulator.RunSimulation(SimulationParamsMulti request, String locale)\r\n   at Fico.Appliance.API.Controllers.SimulationsController.RunSimulation(SimulationParamsMulti request)"
+    },
+    {
+      "code": 105,
+      "message": "Credit Report NOT deliverable due to score being UnScorable with an exclusion reason of 'The Profile report does not contain any tradeline which satisfies both of the following: Status date within the last six (6) months OR a balance within the last six (6) months. Does not contain disputed information.'.",
+      "stack_trace": "   at lx.c2i(String A_0, Boolean A_1, Boolean A_2)\r\n   at lc.a(String A_0, Boolean A_1, Boolean A_2)"
+    }
+  ]
+}

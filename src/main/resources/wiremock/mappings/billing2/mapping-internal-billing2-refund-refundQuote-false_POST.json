@@ -1,0 +1,15 @@
+{
+  "id" : "750864a1-2809-3806-b681-6bdfd36c19ee",
+  "request" : {
+    "url" : "/internal/billing2/refund?refundQuote=false",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "billing2/body-internal-billing2-refund-refundQuote-false_POST.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "750864a1-2809-3806-b681-6bdfd36c19ee"
+}

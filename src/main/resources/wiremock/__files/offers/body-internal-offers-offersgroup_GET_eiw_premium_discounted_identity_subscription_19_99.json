@@ -1,0 +1,694 @@
+{
+  "offers": [
+    {
+      "additionalRequiredFields": "ssn",
+      "agentFriendlyTermsAndConditions": "Not available",
+      "benefits": [
+        {
+          "id": "B2"
+        },
+        {
+          "id": "B3"
+        },
+        {
+          "id": "B4"
+        },
+        {
+          "id": "B5"
+        },
+        {
+          "id": "B8"
+        },
+        {
+          "id": "B12"
+        },
+        {
+          "id": "B17"
+        },
+        {
+          "id": "B18"
+        },
+        {
+          "id": "B19"
+        },
+        {
+          "id": "B22"
+        },
+        {
+          "id": "B25"
+        },
+        {
+          "id": "B29"
+        },
+        {
+          "id": "B31"
+        },
+        {
+          "id": "B35"
+        },
+        {
+          "id": "B48"
+        },
+        {
+          "id": "B54"
+        },
+        {
+          "id": "B55"
+        },
+        {
+          "id": "B56"
+        },
+        {
+          "id": "B57"
+        },
+        {
+          "id": "B58"
+        },
+        {
+          "id": "B59"
+        },
+        {
+          "id": "B60"
+        },
+        {
+          "id": "B61"
+        },
+        {
+          "id": "B67"
+        },
+        {
+          "id": "B68"
+        },
+        {
+          "id": "B85"
+        },
+        {
+          "id": "B88"
+        }
+      ],
+      "cardAuthRequired": true,
+      "client": "web",
+      "createDt": "2017-12-26T00:00:00",
+      "endDt": "2050-06-17T00:00:00.111Z",
+      "hasNegativeOptions": false,
+      "isDefault": true,
+      "isVerificationRequired": true,
+      "offerId": "b94491e987e840adba569144174485f1",
+      "offerName": "Experian IdentityWorks<sup>&#8480;</sup> Premium",
+      "offerType": "Base",
+      "overrideBenefits": true,
+      "overrideTerms": true,
+      "packageName": "Experian IdentityWorks<sup>&#8480;</sup> Premium",
+      "placements": [
+        {
+          "acceptText": "Submit Secure Order",
+          "description": "Good credit begins with knowing where you credit is today, learning how to make smarter financial decisions tomorrow, and protecting your credit moving forward.",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "id": "default",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Submit Secure Order",
+          "benefits": [
+            {
+              "id": "B3",
+              "name": "3-Bureau Credit Monitoring and Alerts"
+            },
+            {
+              "id": "B61",
+              "name": "Dark Web Internet Surveillance Alerts"
+            },
+            {
+              "id": "B54",
+              "name": "Financial Account Takeover Alerts"
+            },
+            {
+              "id": "B56",
+              "name": "Social Security Number Trace Alerts"
+            },
+            {
+              "id": "B57",
+              "name": "Change of Address Alerts"
+            },
+            {
+              "id": "B58",
+              "name": "Court Records and Booking Alerts"
+            },
+            {
+              "id": "B59",
+              "name": "Non-Credit Loan Alerts"
+            },
+            {
+              "id": "B60",
+              "name": "Sex Offender Registry Alerts"
+            },
+            {
+              "id": "B55",
+              "name": "Social network Monitoring Alerts"
+            },
+            {
+              "id": "B17",
+              "name": "Identity Validation Alerts"
+            },
+            {
+              "id": "B35",
+              "name": "Experian CreditLock with Alerts"
+            },
+            {
+              "id": "B31",
+              "name": "Up to $1 Million <a href=\"/#/insuranceSummaryOfBenefits\">Identity Theft Insurance</a>"
+            },
+            {
+              "id": "B12",
+              "name": "Dedicated Fraud Resolution Support"
+            },
+            {
+              "id": "B68",
+              "name": "Lost Wallet Assistance"
+            },
+            {
+              "id": "B50",
+              "name": "Quarterly 3-Bureau Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B51",
+              "name": "Daily Experian Credit Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B25",
+              "name": "FICO<sup>&reg;</sup> Score Tracker"
+            }
+          ],
+          "billingPeriod": "first month",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "id": "shoppingCart",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "discountedAmount": "eiwpd101:15.00"
+        },
+        {
+          "acceptText": "Get Your 3 Bureau Credit Report and FICO Scores",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "headline": "Welcome back! Congratulations on taking the next step to better understand how lenders see you.",
+          "id": "offerIntercept",
+          "image": "1BScorePreview",
+          "subheader": "We'll provide daily monitoring of your Experian&trade;, Equifax&trade; and TransUnion&trade; Credit Reports and a refreshed 3-Bureau Credit Report and FICO<sup>&reg;</sup> Scores every 90 days for an introductory price of $<%immediate_price%> for your first month, then just $<%month_price%> each additional month.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Yes, Upgrade Me to Premium Identity Theft Protection",
+          "declineText": "No, Show Me Only My Experian Credit Report and Score",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%>, plus any applicable tax.<p>*After the first month, you will be charged $<%month_price%> for each month you continue your membership.</p>",
+          "headline": "Get premium Identity Theft Protection with an introductory offer of <span class=\"price\">$<%immediate_price%></span> for the first month.*",
+          "id": "postLogin",
+          "image": "1BScorePreview",
+          "subheader": "Better protect your identity and credit with advanced identity alerts, 3-bureau credit monitoring, dedicated fraud resolution and $1 Million Identity Theft Insurance.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Submit Secure Order",
+          "advertisingTerms": "<p>Better protect your identity and credit with advanced ID Theft Protection alerts and 3-bureau credit monitoring. Try Experian IdentityWorks<sup>&#8480;</sup> Premium for just $<%immediate_price%> for the first month, then $<%month_price%> each additional month. You may cancel your membership at any time if not satisfied.</p>",
+          "benefits": [
+            {
+              "id": "B3",
+              "name": "3-Bureau Credit Monitoring and Alerts"
+            },
+            {
+              "id": "B61",
+              "name": "Dark Web Internet Surveillance Alerts"
+            },
+            {
+              "id": "B54",
+              "name": "Financial Account Takeover Alerts"
+            },
+            {
+              "id": "B56",
+              "name": "Social Security Number Trace Alerts"
+            },
+            {
+              "id": "B57",
+              "name": "Change of Address Alerts"
+            },
+            {
+              "id": "B58",
+              "name": "Court Records and Booking Alerts"
+            },
+            {
+              "id": "B59",
+              "name": "Non-Credit Loan Alerts"
+            },
+            {
+              "id": "B60",
+              "name": "Sex Offender Registry Alerts"
+            },
+            {
+              "id": "B55",
+              "name": "Social network Monitoring Alerts"
+            },
+            {
+              "id": "B17",
+              "name": "Identity Validation Alerts"
+            },
+            {
+              "id": "B35",
+              "name": "Experian CreditLock with Alerts"
+            },
+            {
+              "id": "B31",
+              "name": "Up to $1 Million <a href=\"/#/insuranceSummaryOfBenefits\">Identity Theft Insurance</a>"
+            },
+            {
+              "id": "B12",
+              "name": "Dedicated Fraud Resolution Support"
+            },
+            {
+              "id": "B68",
+              "name": "Lost Wallet Assistance"
+            },
+            {
+              "id": "B50",
+              "name": "Quarterly 3-Bureau Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B51",
+              "name": "Daily Experian Credit Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B25",
+              "name": "FICO<sup>&reg;</sup> Score Tracker"
+            }
+          ],
+          "billingPeriod": "first month",
+          "declineText": "No Thank You",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "headline": "Upgrade Your Account",
+          "id": "upgrade",
+          "subheader": "Includes introductory price of $<%immediate_price%> for your first month, then just $<%month_price%> each additional month. You may cancel anytime if not satisfied.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "discountedAmount": "eiwpd101:15.00"
+        },
+        {
+          "acceptText": "Yes, Add My FICO<sup>&reg;</sup> Score for $<%immediate_price%>",
+          "advertisingTerms": "<p>Better protect your identity and credit with advanced ID Theft Protection alerts and 3-bureau credit monitoring. Try Experian IdentityWorks<sup>&#8480;</sup> Premium for just $<%immediate_price%> for the first month, then $<%month_price%> each additional month. You may cancel your membership at any time if not satisfied.</p>",
+          "declineText": "No, Show Me Only My Experian Credit Report",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "headline": "Would you like to add your FICO<sup>&reg;</sup> Score to your Experian Credit Report for just <span class=\"price\">$<%immediate_price%></span>?",
+          "id": "orderInterstitial",
+          "image": "1BScorePreview",
+          "subheader": "Includes introductory price of $<%immediate_price%> for your first month, then just $<%month_price%> each additional month. You may cancel anytime if not satisfied.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Add Your FICO<sup>&reg;</sup> Scores",
+          "description": "Get your FICO<sup>&reg;</sup> Scores from all 3 credit bureaus and more when you upgrade to Experian IdentityWorks<sup>&#8480;</sup> Premium for just $<%immediate_price%> the first month.",
+          "headline": "Your Free Credit Report does not include a Credit Score.",
+          "id": "overview",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Upgrade Now",
+          "description": "Upgrade to Experian IdentityWorks<sup>&#8480;</sup> Premium and learn about the positive and negative factors that have the most influence on your FICO<sup>&reg;</sup> Score. Get this feature along with your 3-Bureau Credit Report and FICO Scores; plus daily monitoring of your Experian<sup>&reg;</sup>, Equifax<sup>&reg;</sup> and TransUnion<sup>&reg;</sup> Credit Reports. You may cancel your membership at any time.",
+          "headline": "See Whats Helping and Hurting Your Score",
+          "id": "scoreRating",
+          "image": "scoreRatingOverlay",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Upgrade Now",
+          "description": "Set your target FICO Score 8 and receive a customized list of actions you can take to reach your goal. Available with Experian IdentityWorks<sup>&#8480;</sup> Premium. Get this feature along with your 3-Bureau Credit Report and FICO Scores; plus daily monitoring of your Experian<sup>&reg;</sup>, Equifax<sup>&reg;</sup> and TransUnion<sup>&reg;</sup> Credit Reports. You may cancel your membership at any time.",
+          "headline": "Reach Your Goal with a Custom Action Plan",
+          "id": "scorePlanner",
+          "image": "scoreRatingOverlay",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Track Your FICO<sup>&reg;</sup> Score Today",
+          "description": "With Experian IdentityWorks<sup>&#8480;</sup> Premium, you can track your FICO<sup>&reg;</sup> Score and get your 3-Bureau Credit Report and FICO Scores updated every 90 days. You'll also get daily monitoring of your Experian<sup>&reg;</sup>, Equifax<sup>&reg;</sup> and TransUnion<sup>&reg;</sup> Credit Reports. You may cancel your membership at any time.",
+          "headline": "Has your FICO<sup>&reg;</sup> Score changed recently?",
+          "id": "scoreTracker",
+          "image": "scoreTrackerOverlay",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Upgrade Now",
+          "description": "Upgrade to Experian IdentityWorks<sup>&#8480;</sup> Premium and learn about the positive and negative factors that have the most influence on your FICO<sup>&reg;</sup> Score. Get this feature along with your 3-Bureau Credit Report and FICO Scores; plus daily monitoring of your Experian<sup>&reg;</sup>, Equifax<sup>&reg;</sup> and TransUnion<sup>&reg;</sup> Credit Reports. You may cancel your membership at any time.",
+          "headline": "See Whats Helping and Hurting Your Score",
+          "id": "scoreSimulator",
+          "image": "scoreSimulatorIcon",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Add Your FICO<sup>&reg;</sup> Scores Now",
+          "description": "Get your FICO<sup>&reg;</sup> Scores from all 3 credit bureaus and more when you upgrade to Experian IdentityWorks<sup>&#8480;</sup> Premium for just $<%immediate_price%> the first month.",
+          "headline": "Your Free Credit Report does not include a Credit Score.",
+          "id": "reportsScore",
+          "image": "scoreRatingOverlay",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Turn on Alert Notifications",
+          "description": "Turn on alert notifications and we'll monitor your Experian Credit Report and FICO<sup>&reg;</sup> Score daily for key changes. Get this feature and more with Experian IdentityWorks<sup>&#8480;</sup> Premium for just $<%immediate_price%>/1<sup>st</sup> month. You may cancel your membership at anytime.",
+          "headline": "Know When Your Credit Changes",
+          "id": "alerts",
+          "image": "alertsOverlay",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Review All 3 Credit Reports and FICO<sup>&reg;</sup> Scores",
+          "advertisingTerms": "<p>Better protect your identity and credit with advanced ID Theft Protection alerts and 3-bureau credit monitoring. Try Experian IdentityWorks<sup>&#8480;</sup> Premium for just $<%immediate_price%> for the first month, then $<%month_price%> each additional month. You may cancel your membership at any time if not satisfied.</p>",
+          "description": "Compare all 3 FICO<sup>&reg;</sup> Scores and Credit Reports from Experian, TransUnion<sup>&reg;</sup> and Equifax<sup>&reg;</sup>.",
+          "headline": "Add Your Latest Equifax<sup>&reg;</sup> and TransUnion<sup>&reg;</sup> Credit Reports and FICO<sup>&reg;</sup> Scores",
+          "id": "bureauUpsell",
+          "image": "3BScorePreview",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Accept Terms &amp; Conditions",
+          "benefits": [
+            {
+              "id": "B3",
+              "name": "3-Bureau Credit Monitoring and Alerts"
+            },
+            {
+              "id": "B61",
+              "name": "Dark Web Internet Surveillance Alerts"
+            },
+            {
+              "id": "B54",
+              "name": "Financial Account Takeover Alerts"
+            },
+            {
+              "id": "B56",
+              "name": "Social Security Number Trace Alerts"
+            },
+            {
+              "id": "B57",
+              "name": "Change of Address Alerts"
+            },
+            {
+              "id": "B58",
+              "name": "Court Records and Booking Alerts"
+            },
+            {
+              "id": "B59",
+              "name": "Non-Credit Loan Alerts"
+            },
+            {
+              "id": "B60",
+              "name": "Sex Offender Registry Alerts"
+            },
+            {
+              "id": "B55",
+              "name": "Social network Monitoring Alerts"
+            },
+            {
+              "id": "B17",
+              "name": "Identity Validation Alerts"
+            },
+            {
+              "id": "B35",
+              "name": "Experian CreditLock with Alerts"
+            },
+            {
+              "id": "B31",
+              "name": "Up to $1 Million <a href=\"/#/insuranceSummaryOfBenefits\">Identity Theft Insurance</a>"
+            },
+            {
+              "id": "B12",
+              "name": "Dedicated Fraud Resolution Support"
+            },
+            {
+              "id": "B68",
+              "name": "Lost Wallet Assistance"
+            },
+            {
+              "id": "B50",
+              "name": "Quarterly 3-Bureau Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B51",
+              "name": "Daily Experian Credit Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B25",
+              "name": "FICO<sup>&reg;</sup> Score Tracker"
+            }
+          ],
+          "id": "profileUpgrade",
+          "image": "3BScorePreview",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Upgrade to Premium Protection",
+          "description": "Unlock an arsenal of Identity Theft Protection Alerts &amp; security features to help protect your identity &amp; credit.",
+          "headline": "Increase your identity theft protection level.",
+          "id": "dashboardIdentityUpsellModule",
+          "subheader": "Protect your most valuable asset - you.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Upgrade to IdentityWorks<sup>&#8480;</sup> Premium",
+          "description": "Unlock an arsenal of Identity Theft Protection Alerts & security features.",
+          "headline": "Your protection level is low.",
+          "id": "identityActivityTabUpsellHeader",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Submit Secure Order",
+          "benefits": [
+            {
+              "id": "B3",
+              "name": "3-Bureau Credit Monitoring and Alerts"
+            },
+            {
+              "id": "B61",
+              "name": "Dark Web Internet Surveillance Alerts"
+            },
+            {
+              "id": "B54",
+              "name": "Financial Account Takeover Alerts"
+            },
+            {
+              "id": "B56",
+              "name": "Social Security Number Trace Alerts"
+            },
+            {
+              "id": "B57",
+              "name": "Change of Address Alerts"
+            },
+            {
+              "id": "B58",
+              "name": "Court Records and Booking Alerts"
+            },
+            {
+              "id": "B59",
+              "name": "Non-Credit Loan Alerts"
+            },
+            {
+              "id": "B60",
+              "name": "Sex Offender Registry Alerts"
+            },
+            {
+              "id": "B55",
+              "name": "Social network Monitoring Alerts"
+            },
+            {
+              "id": "B17",
+              "name": "Identity Validation Alerts"
+            },
+            {
+              "id": "B35",
+              "name": "Experian CreditLock with Alerts"
+            },
+            {
+              "id": "B31",
+              "name": "Up to $1 Million <a href=\"/#/insuranceSummaryOfBenefits\">Identity Theft Insurance</a>"
+            },
+            {
+              "id": "B12",
+              "name": "Dedicated Fraud Resolution Support"
+            },
+            {
+              "id": "B68",
+              "name": "Lost Wallet Assistance"
+            },
+            {
+              "id": "B50",
+              "name": "Quarterly 3-Bureau Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B51",
+              "name": "Daily Experian Credit Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B25",
+              "name": "FICO<sup>&reg;</sup> Score Tracker"
+            }
+          ],
+          "billingPeriod": "first month",
+          "continueText": "Upgrade Now",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "headline": "Ready to upgrade your account?",
+          "id": "upgradeModal",
+          "paymentDisclaimer": "Introductory price of $<%immediate_price%> for your first month of access, then just $<%month_price%> each additional month. Cancel anytime if not satisfied.",
+          "subheader": "Don't worry, you can change plans anytime",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>"
+        },
+        {
+          "acceptText": "Submit Secure Order",
+          "advertisingTerms": "<p>Better protect your identity and credit with advanced ID Theft Protection alerts and 3-bureau credit monitoring. Try Experian IdentityWorks<sup>&#8480;</sup> Premium for just $<%immediate_price%> for the first month, then $<%month_price%> each additional month. You may cancel your membership at any time if not satisfied.</p>",
+          "benefits": [
+            {
+              "id": "B3",
+              "name": "3-Bureau Credit Monitoring and Alerts"
+            },
+            {
+              "id": "B61",
+              "name": "Dark Web Internet Surveillance Alerts"
+            },
+            {
+              "id": "B54",
+              "name": "Financial Account Takeover Alerts"
+            },
+            {
+              "id": "B56",
+              "name": "Social Security Number Trace Alerts"
+            },
+            {
+              "id": "B57",
+              "name": "Change of Address Alerts"
+            },
+            {
+              "id": "B58",
+              "name": "Court Records and Booking Alerts"
+            },
+            {
+              "id": "B59",
+              "name": "Non-Credit Loan Alerts"
+            },
+            {
+              "id": "B60",
+              "name": "Sex Offender Registry Alerts"
+            },
+            {
+              "id": "B55",
+              "name": "Social network Monitoring Alerts"
+            },
+            {
+              "id": "B17",
+              "name": "Identity Validation Alerts"
+            },
+            {
+              "id": "B35",
+              "name": "Experian CreditLock with Alerts"
+            },
+            {
+              "id": "B31",
+              "name": "Up to $1 Million <a href=\"/#/insuranceSummaryOfBenefits\">Identity Theft Insurance</a>"
+            },
+            {
+              "id": "B12",
+              "name": "Dedicated Fraud Resolution Support"
+            },
+            {
+              "id": "B68",
+              "name": "Lost Wallet Assistance"
+            },
+            {
+              "id": "B50",
+              "name": "Quarterly 3-Bureau Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B51",
+              "name": "Daily Experian Credit Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B25",
+              "name": "FICO<sup>&reg;</sup> Score Tracker"
+            }
+          ],
+          "billingPeriod": "first month",
+          "declineText": "No Thank You",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "headline": "Upgrade Your Account",
+          "id": "loginInterstitial",
+          "subheader": "Includes introductory price of $<%immediate_price%> for your first month, then just $<%month_price%> each additional month. You may cancel anytime if not satisfied.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%> for the first month of your membership.  After the first month, you will be charged $<%month_price%> for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged an introductory rate of $<%immediate_price%>, plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>,  for the first month of your membership.  After the first month, you will be charged $<%month_price%>, plus $<%month_tax%> sales tax for a total of $<%month_total%>,  for each month you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee. </p>",
+          "discountedAmount": "eiwpd101:15.00"
+        }
+      ],
+      "population": "free_subscriber_fcs_idp_identity",
+      "productKey": "eiw_premium_discounted_identity_subscription",
+      "requiredFieldSet": "Standard Credit",
+      "startDt": "2017-01-26T00:00:00.001Z",
+      "status": "active",
+      "tags": [
+        {
+          "name": "at_eiwpd101",
+          "type": "acquisition"
+        },
+        {
+          "name": "et_eiwpd101",
+          "type": "exact_target"
+        },
+        {
+          "name": "ia_eiwpd101",
+          "type": "in_app"
+        },
+        {
+          "name": "tt_eiwpd101",
+          "type": "test_n_target"
+        }
+      ],
+      "terms": [
+        {
+          "termId": "0",
+          "billingPeriod": "Immediate",
+          "description": "Includes introductory price of $4.99 for your first month, then just $19.99 each additional month. You may cancel anytime if not satisfied.",
+          "frequency": "Single",
+          "percentage": 0,
+          "price": 4.99,
+          "trialLength": 0,
+          "skipDays": 0,
+          "startDays": 0,
+          "termType": "Membership"
+        },
+        {
+          "termId": "1",
+          "billingPeriod": "Month",
+          "description": "Includes introductory price of $4.99 for your first month, then just $19.99 each additional month. You may cancel anytime if not satisfied.",
+          "frequency": "Recurring",
+          "percentage": 0,
+          "price": 19.99,
+          "trialLength": 0,
+          "skipDays": 0,
+          "startDays": 30,
+          "termType": "Membership"
+        }
+      ],
+      "updateDt": "2018-01-26T00:00:00.127Z",
+      "additionalProperties": {
+        "description": "Good credit begins with knowing where you credit is today, learning how to make smarter financial decisions tomorrow, and protecting your credit moving forward."
+      },
+      "description": "Good credit begins with knowing where you credit is today, learning how to make smarter financial decisions tomorrow, and protecting your credit moving forward."
+    }
+  ]
+}

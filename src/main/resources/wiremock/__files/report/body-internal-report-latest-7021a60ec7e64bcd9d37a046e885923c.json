@@ -1,0 +1,1477 @@
+{
+  "reportInfo": {
+    "reportId": "201903222318597030",
+    "customerId": "7021a60ec7e64bcd9d37a046e885923c",
+    "type": "EXPERIAN",
+    "isNew": false,
+    "bonus": false,
+    "creditFileInfo": [
+      {
+        "source": "experian",
+        "version": "2",
+        "creditContactInfoAvailable": false,
+        "dateOfReport": "2019-03-22T23:19:00.6793160Z",
+        "createDate": "2019-03-22T23:19:01.9680000Z",
+        "creditFileHitFlag": "1",
+        "experianPin": null,
+        "creditFileStatus": "Success",
+        "ssnOnFile": null,
+        "yearOfBirth": 1966,
+        "currentEmployer": null,
+        "publicRecordCount": 0,
+        "inquiryCount": 10,
+        "inquiriesPrev6MonthsCount": 2,
+        "reportInquiry": null,
+        "names": [
+          {
+            "firstName": "GREG",
+            "middleName": "L",
+            "lastName": "ANDERSON",
+            "nameType": "Current",
+            "suffix": ""
+          }
+        ],
+        "addresses": [
+          {
+            "houseNumber": "10505",
+            "preDirection": "",
+            "streetName": "HESS",
+            "streetType": "BLVD",
+            "postDirection": "",
+            "unitNumber": "",
+            "city": "MORONGO VALLEY",
+            "stateOrProvince": "CA",
+            "postalCode": "92256-9315",
+            "addressType": "Current",
+            "residenceType": ""
+          },
+          {
+            "houseNumber": "45850",
+            "preDirection": "",
+            "streetName": "QUAILBRUSH",
+            "streetType": "ST",
+            "postDirection": "",
+            "unitNumber": "",
+            "city": "PALM DESERT",
+            "stateOrProvince": "CA",
+            "postalCode": "92260-4922",
+            "addressType": "Former",
+            "residenceType": ""
+          },
+          {
+            "houseNumber": "73126",
+            "preDirection": "",
+            "streetName": "SHADOW MOUNTAIN",
+            "streetType": "DR",
+            "postDirection": "",
+            "unitNumber": "",
+            "city": "PALM DESERT",
+            "stateOrProvince": "CA",
+            "postalCode": "92260-4619",
+            "addressType": "Former",
+            "residenceType": ""
+          }
+        ],
+        "accountGroupings": [
+          {
+            "internalID": "REAL ESTATE",
+            "totalAccounts": 0,
+            "openAccounts": 0,
+            "closedAccounts": 0,
+            "balance": "0",
+            "delinquentCount": 0,
+            "derogatoryCount": 0,
+            "currentCount": 0,
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "pastDueAmount": 0,
+            "monthlyPayment": 0,
+            "satisfactoryCount": 0,
+            "paidInFullCount": 0,
+            "pastDueCount": 0,
+            "previousDelinquentCount": 0,
+            "oldestAccountOpenDate": ""
+          },
+          {
+            "internalID": "REVOLVING",
+            "totalAccounts": 3,
+            "openAccounts": 2,
+            "closedAccounts": 1,
+            "balance": "4500",
+            "delinquentCount": 0,
+            "derogatoryCount": 0,
+            "currentCount": 3,
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "pastDueAmount": 0,
+            "monthlyPayment": 149,
+            "satisfactoryCount": 3,
+            "paidInFullCount": 0,
+            "pastDueCount": 0,
+            "previousDelinquentCount": 0,
+            "oldestAccountOpenDate": "2014-06-01"
+          },
+          {
+            "internalID": "INSTALLMENT",
+            "totalAccounts": 3,
+            "openAccounts": 0,
+            "closedAccounts": 3,
+            "balance": "0",
+            "delinquentCount": 0,
+            "derogatoryCount": 0,
+            "currentCount": 3,
+            "delinquent30DaysCount": 1,
+            "delinquent60DaysCount": 1,
+            "delinquent90PlusDaysCount": 1,
+            "pastDueAmount": 0,
+            "monthlyPayment": 0,
+            "satisfactoryCount": 2,
+            "paidInFullCount": 2,
+            "pastDueCount": 0,
+            "previousDelinquentCount": 1,
+            "oldestAccountOpenDate": "2013-08-01"
+          },
+          {
+            "internalID": "OTHER",
+            "totalAccounts": 0,
+            "openAccounts": 0,
+            "closedAccounts": 0,
+            "balance": "0",
+            "delinquentCount": 0,
+            "derogatoryCount": 0,
+            "currentCount": 0,
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "pastDueAmount": 0,
+            "monthlyPayment": 0,
+            "satisfactoryCount": 0,
+            "paidInFullCount": 0,
+            "pastDueCount": 0,
+            "previousDelinquentCount": 0,
+            "oldestAccountOpenDate": ""
+          },
+          {
+            "internalID": "COLLECTION",
+            "totalAccounts": 0,
+            "openAccounts": 0,
+            "closedAccounts": 0,
+            "balance": "0",
+            "delinquentCount": 0,
+            "derogatoryCount": 0,
+            "currentCount": 0,
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "pastDueAmount": 0,
+            "monthlyPayment": 0,
+            "satisfactoryCount": 0,
+            "paidInFullCount": 0,
+            "pastDueCount": 0,
+            "previousDelinquentCount": 0,
+            "oldestAccountOpenDate": ""
+          },
+          {
+            "internalID": "ALL",
+            "totalAccounts": 6,
+            "openAccounts": 2,
+            "closedAccounts": 4,
+            "balance": "4500",
+            "delinquentCount": 0,
+            "derogatoryCount": 0,
+            "currentCount": 6,
+            "delinquent30DaysCount": 1,
+            "delinquent60DaysCount": 1,
+            "delinquent90PlusDaysCount": 1,
+            "pastDueAmount": 0,
+            "monthlyPayment": 149,
+            "satisfactoryCount": 5,
+            "paidInFullCount": 2,
+            "pastDueCount": 0,
+            "previousDelinquentCount": 1,
+            "oldestAccountOpenDate": "2013-08-01"
+          },
+          {
+            "internalID": "TELECOM",
+            "totalAccounts": 0,
+            "openAccounts": 0,
+            "closedAccounts": 0,
+            "balance": "0",
+            "delinquentCount": 0,
+            "derogatoryCount": 0,
+            "currentCount": 0,
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "pastDueAmount": 0,
+            "monthlyPayment": 0,
+            "satisfactoryCount": 0,
+            "paidInFullCount": 0,
+            "pastDueCount": 0,
+            "previousDelinquentCount": 0,
+            "oldestAccountOpenDate": ""
+          },
+          {
+            "internalID": "UTILITY",
+            "totalAccounts": 0,
+            "openAccounts": 0,
+            "closedAccounts": 0,
+            "balance": "0",
+            "delinquentCount": 0,
+            "derogatoryCount": 0,
+            "currentCount": 0,
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "pastDueAmount": 0,
+            "monthlyPayment": 0,
+            "satisfactoryCount": 0,
+            "paidInFullCount": 0,
+            "pastDueCount": 0,
+            "previousDelinquentCount": 0,
+            "oldestAccountOpenDate": ""
+          },
+          {
+            "internalID": "RENTAL",
+            "totalAccounts": 0,
+            "openAccounts": 0,
+            "closedAccounts": 0,
+            "balance": "0",
+            "delinquentCount": 0,
+            "derogatoryCount": 0,
+            "currentCount": 0,
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "pastDueAmount": 0,
+            "monthlyPayment": 0,
+            "satisfactoryCount": 0,
+            "paidInFullCount": 0,
+            "pastDueCount": 0,
+            "previousDelinquentCount": 0,
+            "oldestAccountOpenDate": ""
+          }
+        ],
+        "publicRecords": [],
+        "accounts": [
+          {
+            "balanceDate": "2019-02-06",
+            "accountName_SubCode": "1205950",
+            "accountName": "CAPITAL ONE, N.A.",
+            "accountNumber": "412174XXXXXXXXXX",
+            "accountNumberText": "412174XXXXXXXXXX",
+            "type_internalID": "18",
+            "type": "Credit Card - Revolving Terms",
+            "businessType_internalID": "BC",
+            "businessType": "Bank Credit Cards",
+            "openClosed": "Open",
+            "monthlyPayment": "30",
+            "dateOpened": "2015-06-01",
+            "dateOpenedFormatted": "Jun 2015",
+            "balanceDateFormatted": "Feb 6, 2019",
+            "balaneDate": "2019-02-06",
+            "statusDate": "2019-02-01",
+            "statusDateFormatted": "Feb 2019",
+            "balance": "955",
+            "terms_internalID": "REV",
+            "terms": "Revolving",
+            "highBalance": "1159",
+            "limit": "",
+            "creditusage": null,
+            "pastDueAmount": "",
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "paymentStatus_internalID": "11",
+            "paymentStatus": "Current",
+            "paymentStatusClass": "CURRENT",
+            "classification": "REVOLVING",
+            "responsibility_internalID": "2",
+            "responsibility": "Joint Account",
+            "current_Delinquent": null,
+            "originalAmount": 0,
+            "originalCreditor": "",
+            "companySoldTo": null,
+            "balloonPayment": null,
+            "remarks": [],
+            "accountComments": [],
+            "paymentHistories": [
+              {
+                "profileYear": "2019",
+                "jan": "OK",
+                "feb": "OK",
+                "mar": null,
+                "apr": null,
+                "may": null,
+                "jun": null,
+                "jul": null,
+                "aug": null,
+                "sep": null,
+                "oct": null,
+                "nov": null,
+                "dec": null
+              },
+              {
+                "profileYear": "2018",
+                "jan": "OK",
+                "feb": "OK",
+                "mar": "OK",
+                "apr": "OK",
+                "may": "OK",
+                "jun": "OK",
+                "jul": "OK",
+                "aug": "OK",
+                "sep": "OK",
+                "oct": "OK",
+                "nov": "OK",
+                "dec": "OK"
+              },
+              {
+                "profileYear": "2017",
+                "jan": "OK",
+                "feb": "OK",
+                "mar": "OK",
+                "apr": "OK",
+                "may": "OK",
+                "jun": "OK",
+                "jul": "OK",
+                "aug": "OK",
+                "sep": "OK",
+                "oct": "OK",
+                "nov": "OK",
+                "dec": "OK"
+              },
+              {
+                "profileYear": "2016",
+                "jan": "NoData",
+                "feb": "OK",
+                "mar": "OK",
+                "apr": "OK",
+                "may": "OK",
+                "jun": "OK",
+                "jul": "OK",
+                "aug": "OK",
+                "sep": "OK",
+                "oct": "OK",
+                "nov": "OK",
+                "dec": "OK"
+              },
+              {
+                "profileYear": "2015",
+                "jan": null,
+                "feb": null,
+                "mar": null,
+                "apr": null,
+                "may": null,
+                "jun": null,
+                "jul": null,
+                "aug": null,
+                "sep": null,
+                "oct": null,
+                "nov": "OK",
+                "dec": "OK"
+              }
+            ],
+            "sequenceID": 0,
+            "creditorInfo": {
+              "phone": "BYMAILONLY",
+              "phoneExt": "",
+              "addrLn1": "PO BOX 26625",
+              "addrLn2": "",
+              "city": "RICHMOND",
+              "state": "VA",
+              "zip": "23261"
+            },
+            "groupingID": 0,
+            "isDelinquent": false,
+            "delinquentDate": null,
+            "delinquentStatus": null
+          },
+          {
+            "balanceDate": "2017-02-28",
+            "accountName_SubCode": "2994305",
+            "accountName": "FRANKLIN ACCEPTANCE CO",
+            "accountNumber": "34XXXX",
+            "accountNumberText": "34XXXX",
+            "type_internalID": "00",
+            "type": "Auto Loan",
+            "businessType_internalID": "FA",
+            "businessType": "Auto Financing Companies",
+            "openClosed": "Closed",
+            "monthlyPayment": "",
+            "dateOpened": "2014-01-01",
+            "dateOpenedFormatted": "Jan 2014",
+            "balanceDateFormatted": "Feb 28, 2017",
+            "balaneDate": "2017-02-28",
+            "statusDate": "2017-02-01",
+            "statusDateFormatted": "Feb 2017",
+            "balance": "",
+            "terms_internalID": "027",
+            "terms": "27 Months",
+            "highBalance": "",
+            "limit": "",
+            "creditusage": null,
+            "pastDueAmount": "",
+            "delinquent30DaysCount": 9,
+            "delinquent60DaysCount": 3,
+            "delinquent90PlusDaysCount": 3,
+            "paymentStatus_internalID": "58",
+            "paymentStatus": "Paid, was past due 120 days",
+            "paymentStatusClass": "CURRENT",
+            "classification": "INSTALLMENT",
+            "responsibility_internalID": "2",
+            "responsibility": "Joint Account",
+            "current_Delinquent": null,
+            "originalAmount": 7520,
+            "originalCreditor": "",
+            "companySoldTo": null,
+            "balloonPayment": null,
+            "remarks": [],
+            "accountComments": [],
+            "paymentHistories": [
+              {
+                "profileYear": "2017",
+                "jan": "120PlusLate",
+                "feb": "OK",
+                "mar": null,
+                "apr": null,
+                "may": null,
+                "jun": null,
+                "jul": null,
+                "aug": null,
+                "sep": null,
+                "oct": null,
+                "nov": null,
+                "dec": null
+              },
+              {
+                "profileYear": "2016",
+                "jan": "30Late",
+                "feb": "NoData",
+                "mar": "30Late",
+                "apr": "NoData",
+                "may": "60Late",
+                "jun": "60Late",
+                "jul": "30Late",
+                "aug": "30Late",
+                "sep": "30Late",
+                "oct": "60Late",
+                "nov": "90Late",
+                "dec": "120PlusLate"
+              },
+              {
+                "profileYear": "2015",
+                "jan": "OK",
+                "feb": "NoData",
+                "mar": "NoData",
+                "apr": "OK",
+                "may": "OK",
+                "jun": "OK",
+                "jul": "NoData",
+                "aug": "30Late",
+                "sep": "30Late",
+                "oct": "30Late",
+                "nov": "NoData",
+                "dec": "30Late"
+              },
+              {
+                "profileYear": "2014",
+                "jan": null,
+                "feb": null,
+                "mar": null,
+                "apr": null,
+                "may": null,
+                "jun": null,
+                "jul": null,
+                "aug": null,
+                "sep": null,
+                "oct": null,
+                "nov": null,
+                "dec": null
+              }
+            ],
+            "sequenceID": 0,
+            "creditorInfo": {
+              "phone": "3014742900",
+              "phoneExt": "",
+              "addrLn1": "4221 FORBES BLVD STE 230",
+              "addrLn2": "",
+              "city": "LANHAM",
+              "state": "MD",
+              "zip": "20706"
+            },
+            "groupingID": 0,
+            "isDelinquent": false,
+            "delinquentDate": null,
+            "delinquentStatus": null
+          },
+          {
+            "balanceDate": "2014-06-28",
+            "accountName_SubCode": "2994305",
+            "accountName": "FRANKLIN ACCEPTANCE CO",
+            "accountNumber": "96XXXX",
+            "accountNumberText": "96XXXX",
+            "type_internalID": "00",
+            "type": "Auto Loan",
+            "businessType_internalID": "FA",
+            "businessType": "Auto Financing Companies",
+            "openClosed": "Closed",
+            "monthlyPayment": "",
+            "dateOpened": "2013-08-01",
+            "dateOpenedFormatted": "Aug 2013",
+            "balanceDateFormatted": "Jun 28, 2014",
+            "balaneDate": "2014-06-28",
+            "statusDate": "2014-06-01",
+            "statusDateFormatted": "Jun 2014",
+            "balance": "0",
+            "terms_internalID": "024",
+            "terms": "24 Months",
+            "highBalance": "",
+            "limit": "",
+            "creditusage": null,
+            "pastDueAmount": "",
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "paymentStatus_internalID": "12",
+            "paymentStatus": "Paid satisfactorily",
+            "paymentStatusClass": "CURRENT",
+            "classification": "INSTALLMENT",
+            "responsibility_internalID": "2",
+            "responsibility": "Joint Account",
+            "current_Delinquent": null,
+            "originalAmount": 6676,
+            "originalCreditor": "",
+            "companySoldTo": null,
+            "balloonPayment": null,
+            "remarks": [],
+            "accountComments": [],
+            "paymentHistories": [
+              {
+                "profileYear": "2014",
+                "jan": null,
+                "feb": null,
+                "mar": null,
+                "apr": null,
+                "may": null,
+                "jun": "OK",
+                "jul": null,
+                "aug": null,
+                "sep": null,
+                "oct": null,
+                "nov": null,
+                "dec": null
+              }
+            ],
+            "sequenceID": 0,
+            "creditorInfo": {
+              "phone": "3014742900",
+              "phoneExt": "",
+              "addrLn1": "4221 FORBES BLVD STE 230",
+              "addrLn2": "",
+              "city": "LANHAM",
+              "state": "MD",
+              "zip": "20706"
+            },
+            "groupingID": 0,
+            "isDelinquent": false,
+            "delinquentDate": null,
+            "delinquentStatus": null
+          },
+          {
+            "balanceDate": "2016-02-02",
+            "accountName_SubCode": "1610034",
+            "accountName": "G M A C",
+            "accountNumber": "341223XXXXX",
+            "accountNumberText": "341223XXXXX",
+            "type_internalID": "00",
+            "type": "Auto Loan",
+            "businessType_internalID": "FA",
+            "businessType": "Auto Financing Companies",
+            "openClosed": "Closed",
+            "monthlyPayment": "",
+            "dateOpened": "2015-05-01",
+            "dateOpenedFormatted": "May 2015",
+            "balanceDateFormatted": "Feb 2, 2016",
+            "balaneDate": "2016-02-02",
+            "statusDate": "2016-02-01",
+            "statusDateFormatted": "Feb 2016",
+            "balance": "0",
+            "terms_internalID": "060",
+            "terms": "60 Months",
+            "highBalance": "",
+            "limit": "",
+            "creditusage": null,
+            "pastDueAmount": "",
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "paymentStatus_internalID": "12",
+            "paymentStatus": "Paid satisfactorily",
+            "paymentStatusClass": "CURRENT",
+            "classification": "INSTALLMENT",
+            "responsibility_internalID": "2",
+            "responsibility": "Joint Account",
+            "current_Delinquent": null,
+            "originalAmount": 17022,
+            "originalCreditor": "",
+            "companySoldTo": null,
+            "balloonPayment": null,
+            "remarks": [],
+            "accountComments": [],
+            "paymentHistories": [
+              {
+                "profileYear": "2016",
+                "jan": "OK",
+                "feb": "OK",
+                "mar": null,
+                "apr": null,
+                "may": null,
+                "jun": null,
+                "jul": null,
+                "aug": null,
+                "sep": null,
+                "oct": null,
+                "nov": null,
+                "dec": null
+              },
+              {
+                "profileYear": "2015",
+                "jan": null,
+                "feb": null,
+                "mar": null,
+                "apr": null,
+                "may": null,
+                "jun": null,
+                "jul": null,
+                "aug": null,
+                "sep": null,
+                "oct": "OK",
+                "nov": "OK",
+                "dec": "OK"
+              }
+            ],
+            "sequenceID": 0,
+            "creditorInfo": {
+              "phone": "4103126496",
+              "phoneExt": "",
+              "addrLn1": "8840 STANFORD BLVD",
+              "addrLn2": "",
+              "city": "COLUMBIA",
+              "state": "MD",
+              "zip": "21045"
+            },
+            "groupingID": 0,
+            "isDelinquent": false,
+            "delinquentDate": null,
+            "delinquentStatus": null
+          },
+          {
+            "balanceDate": "2018-09-22",
+            "accountName_SubCode": "2300350",
+            "accountName": "J.B. ROBINSON JEWELERS",
+            "accountNumber": "300200XXXX",
+            "accountNumberText": "300200XXXX",
+            "type_internalID": "07",
+            "type": "Revolving Charge Account",
+            "businessType_internalID": "JA",
+            "businessType": "Jewelers",
+            "openClosed": "Closed",
+            "monthlyPayment": "",
+            "dateOpened": "2014-06-01",
+            "dateOpenedFormatted": "Jun 2014",
+            "balanceDateFormatted": "Sep 22, 2018",
+            "balaneDate": "2018-09-22",
+            "statusDate": "2018-09-01",
+            "statusDateFormatted": "Sep 2018",
+            "balance": "",
+            "terms_internalID": "REV",
+            "terms": "Revolving",
+            "highBalance": "",
+            "limit": "952",
+            "creditusage": null,
+            "pastDueAmount": "",
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "paymentStatus_internalID": "64",
+            "paymentStatus": "Paid, was a charge-off",
+            "paymentStatusClass": "CURRENT",
+            "classification": "REVOLVING",
+            "responsibility_internalID": "1",
+            "responsibility": "Individual",
+            "current_Delinquent": null,
+            "originalAmount": 0,
+            "originalCreditor": "",
+            "companySoldTo": null,
+            "balloonPayment": null,
+            "remarks": [],
+            "accountComments": [],
+            "paymentHistories": [
+              {
+                "profileYear": "2018",
+                "jan": null,
+                "feb": null,
+                "mar": null,
+                "apr": null,
+                "may": null,
+                "jun": null,
+                "jul": null,
+                "aug": null,
+                "sep": "CO",
+                "oct": null,
+                "nov": null,
+                "dec": null
+              }
+            ],
+            "sequenceID": 0,
+            "creditorInfo": {
+              "phone": "BYMAILONLY",
+              "phoneExt": "",
+              "addrLn1": "375 GHENT RD",
+              "addrLn2": "",
+              "city": "FAIRLAWN",
+              "state": "OH",
+              "zip": "44333"
+            },
+            "groupingID": 0,
+            "isDelinquent": false,
+            "delinquentDate": null,
+            "delinquentStatus": null
+          },
+          {
+            "balanceDate": "2019-01-28",
+            "accountName_SubCode": "3902439",
+            "accountName": "MILITARY STAR",
+            "accountNumber": "107539XXXX",
+            "accountNumberText": "107539XXXX",
+            "type_internalID": "07",
+            "type": "Revolving Charge Account",
+            "businessType_internalID": "VF",
+            "businessType": "Federal Government",
+            "openClosed": "Open",
+            "monthlyPayment": "119",
+            "dateOpened": "2015-08-01",
+            "dateOpenedFormatted": "Aug 2015",
+            "balanceDateFormatted": "Jan 28, 2019",
+            "balaneDate": "2019-01-28",
+            "statusDate": "2019-01-01",
+            "statusDateFormatted": "Jan 2019",
+            "balance": "3545",
+            "terms_internalID": "REV",
+            "terms": "Revolving",
+            "highBalance": "",
+            "limit": "",
+            "creditusage": null,
+            "pastDueAmount": "",
+            "delinquent30DaysCount": 0,
+            "delinquent60DaysCount": 0,
+            "delinquent90PlusDaysCount": 0,
+            "paymentStatus_internalID": "11",
+            "paymentStatus": "Current",
+            "paymentStatusClass": "CURRENT",
+            "classification": "REVOLVING",
+            "responsibility_internalID": "1",
+            "responsibility": "Individual",
+            "current_Delinquent": null,
+            "originalAmount": 0,
+            "originalCreditor": "",
+            "companySoldTo": null,
+            "balloonPayment": null,
+            "remarks": [],
+            "accountComments": [],
+            "paymentHistories": [
+              {
+                "profileYear": "2019",
+                "jan": "OK",
+                "feb": null,
+                "mar": null,
+                "apr": null,
+                "may": null,
+                "jun": null,
+                "jul": null,
+                "aug": null,
+                "sep": null,
+                "oct": null,
+                "nov": null,
+                "dec": null
+              },
+              {
+                "profileYear": "2018",
+                "jan": "OK",
+                "feb": "OK",
+                "mar": "OK",
+                "apr": "OK",
+                "may": "OK",
+                "jun": "OK",
+                "jul": "OK",
+                "aug": "OK",
+                "sep": "OK",
+                "oct": "OK",
+                "nov": "OK",
+                "dec": "OK"
+              },
+              {
+                "profileYear": "2017",
+                "jan": "OK",
+                "feb": "OK",
+                "mar": "OK",
+                "apr": "OK",
+                "may": "OK",
+                "jun": "OK",
+                "jul": "OK",
+                "aug": "OK",
+                "sep": "OK",
+                "oct": "OK",
+                "nov": "OK",
+                "dec": "OK"
+              },
+              {
+                "profileYear": "2016",
+                "jan": null,
+                "feb": null,
+                "mar": null,
+                "apr": null,
+                "may": "OK",
+                "jun": "OK",
+                "jul": "OK",
+                "aug": "OK",
+                "sep": "OK",
+                "oct": "OK",
+                "nov": "OK",
+                "dec": "OK"
+              }
+            ],
+            "sequenceID": 0,
+            "creditorInfo": {
+              "phone": "BYMAILONLY",
+              "phoneExt": "",
+              "addrLn1": "3911 S WALTON WALKER BLV",
+              "addrLn2": "",
+              "city": "DALLAS",
+              "state": "TX",
+              "zip": "75236"
+            },
+            "groupingID": 0,
+            "isDelinquent": false,
+            "delinquentDate": null,
+            "delinquentStatus": null
+          }
+        ],
+        "employers": [
+          {
+            "employerName": "ARMY",
+            "employerType": "Current"
+          },
+          {
+            "employerName": "CIVILIAN",
+            "employerType": "Former"
+          }
+        ],
+        "creditInquiries": [
+          {
+            "companyName": "SERVICE CREDIT UNION",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "Credit Unions",
+            "dateOfInquiry": "2019-01-13T00:00:00",
+            "removalDate": "2021-01-13T00:00:00",
+            "creditorInfo": {
+              "phone": "6034228300",
+              "phoneExt": "",
+              "addrLn1": "3003 LAFAYETTE RD",
+              "addrLn2": "",
+              "city": "PORTSMOUTH",
+              "state": "NH",
+              "zip": "03801"
+            }
+          },
+          {
+            "companyName": "AUTOMOBILE DEALERS, US",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "Automobile Dealers, Used",
+            "dateOfInquiry": "2018-10-17T00:00:00",
+            "removalDate": "2020-10-17T00:00:00",
+            "creditorInfo": {
+              "phone": "7192647898",
+              "phoneExt": "",
+              "addrLn1": "1340 AINSWORTH ST",
+              "addrLn2": "",
+              "city": "COLORADO SPRINGS",
+              "state": "CO",
+              "zip": "80915"
+            }
+          },
+          {
+            "companyName": "OTHER COLLECTION AGENC",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "Other Collection Agencies",
+            "dateOfInquiry": "2018-06-09T00:00:00",
+            "removalDate": "2020-06-09T00:00:00",
+            "creditorInfo": {
+              "phone": "8002200605",
+              "phoneExt": "",
+              "addrLn1": "10965 DECATUR RD",
+              "addrLn2": "",
+              "city": "PHILADELPHIA",
+              "state": "PA",
+              "zip": "19154"
+            }
+          },
+          {
+            "companyName": "AUTOMOBILE DEALERS, NE",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "Automobile Dealers, New",
+            "dateOfInquiry": "2017-11-22T00:00:00",
+            "removalDate": "2019-11-22T00:00:00",
+            "creditorInfo": {
+              "phone": "8174988838",
+              "phoneExt": "",
+              "addrLn1": "6618 NE LOOP 820",
+              "addrLn2": "",
+              "city": "NORTH RICHLAND HILLS",
+              "state": "TX",
+              "zip": "76180"
+            }
+          },
+          {
+            "companyName": "AUTOMOBILE DEALERS, NE",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "Automobile Dealers, New",
+            "dateOfInquiry": "2017-08-09T00:00:00",
+            "removalDate": "2019-08-09T00:00:00",
+            "creditorInfo": {
+              "phone": "8174988838",
+              "phoneExt": "",
+              "addrLn1": "6618 NE LOOP 820",
+              "addrLn2": "",
+              "city": "NORTH RICHLAND HILLS",
+              "state": "TX",
+              "zip": "76180"
+            }
+          },
+          {
+            "companyName": "BANK",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "",
+            "dateOfInquiry": "2017-07-24T00:00:00",
+            "removalDate": "2019-07-24T00:00:00",
+            "creditorInfo": {
+              "phone": "",
+              "phoneExt": "",
+              "addrLn1": "",
+              "addrLn2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          },
+          {
+            "companyName": "AUTOMOBILE DEALERS, NE",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "Automobile Dealers, New",
+            "dateOfInquiry": "2017-06-27T00:00:00",
+            "removalDate": "2019-06-27T00:00:00",
+            "creditorInfo": {
+              "phone": "8174988838",
+              "phoneExt": "",
+              "addrLn1": "6618 NE LOOP 820",
+              "addrLn2": "",
+              "city": "NORTH RICHLAND HILLS",
+              "state": "TX",
+              "zip": "76180"
+            }
+          },
+          {
+            "companyName": "AUTOMOBILE DEALERS, NE",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "Automobile Dealers, New",
+            "dateOfInquiry": "2017-06-22T00:00:00",
+            "removalDate": "2019-06-22T00:00:00",
+            "creditorInfo": {
+              "phone": "8174988838",
+              "phoneExt": "",
+              "addrLn1": "6618 NE LOOP 820",
+              "addrLn2": "",
+              "city": "NORTH RICHLAND HILLS",
+              "state": "TX",
+              "zip": "76180"
+            }
+          },
+          {
+            "companyName": "BANK",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "",
+            "dateOfInquiry": "2017-06-21T00:00:00",
+            "removalDate": "2019-06-21T00:00:00",
+            "creditorInfo": {
+              "phone": "",
+              "phoneExt": "",
+              "addrLn1": "",
+              "addrLn2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          },
+          {
+            "companyName": "BANK",
+            "companyName_SubCode": null,
+            "companyType_internalID": null,
+            "companyType": "",
+            "dateOfInquiry": "2017-05-18T00:00:00",
+            "removalDate": "2019-05-18T00:00:00",
+            "creditorInfo": {
+              "phone": "",
+              "phoneExt": "",
+              "addrLn1": "",
+              "addrLn2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        ],
+        "score": {
+          "bureau": null,
+          "brand": "FICO",
+          "version": "8",
+          "scoreType": "Credit",
+          "summary": null,
+          "explanation": null,
+          "score_txt": "619",
+          "rating5_txt": null,
+          "rank_txt": null,
+          "disclaimer": null,
+          "aboutYourScore": null,
+          "whatScoreMeans": null,
+          "score_percentage": null,
+          "factors": []
+        },
+        "scores": [
+          {
+            "bureau": null,
+            "brand": "FICO",
+            "version": "8",
+            "scoreType": "Credit",
+            "summary": null,
+            "explanation": null,
+            "score_txt": "619",
+            "rating5_txt": null,
+            "rank_txt": null,
+            "disclaimer": null,
+            "aboutYourScore": null,
+            "whatScoreMeans": null,
+            "score_percentage": null,
+            "factors": []
+          },
+          {
+            "bureau": null,
+            "brand": "FICO",
+            "version": "2",
+            "scoreType": "Mortgage",
+            "summary": null,
+            "explanation": null,
+            "score_txt": "651",
+            "rating5_txt": null,
+            "rank_txt": null,
+            "disclaimer": null,
+            "aboutYourScore": null,
+            "whatScoreMeans": null,
+            "score_percentage": null,
+            "factors": []
+          },
+          {
+            "bureau": null,
+            "brand": "FICO",
+            "version": "2",
+            "scoreType": "Auto",
+            "summary": null,
+            "explanation": null,
+            "score_txt": "635",
+            "rating5_txt": null,
+            "rank_txt": null,
+            "disclaimer": null,
+            "aboutYourScore": null,
+            "whatScoreMeans": null,
+            "score_percentage": null,
+            "factors": []
+          },
+          {
+            "bureau": null,
+            "brand": "FICO",
+            "version": "8",
+            "scoreType": "Auto",
+            "summary": null,
+            "explanation": null,
+            "score_txt": "638",
+            "rating5_txt": null,
+            "rank_txt": null,
+            "disclaimer": null,
+            "aboutYourScore": null,
+            "whatScoreMeans": null,
+            "score_percentage": null,
+            "factors": []
+          },
+          {
+            "bureau": null,
+            "brand": "FICO",
+            "version": "2",
+            "scoreType": "BankCard",
+            "summary": null,
+            "explanation": null,
+            "score_txt": "652",
+            "rating5_txt": null,
+            "rank_txt": null,
+            "disclaimer": null,
+            "aboutYourScore": null,
+            "whatScoreMeans": null,
+            "score_percentage": null,
+            "factors": []
+          },
+          {
+            "bureau": null,
+            "brand": "FICO",
+            "version": "3",
+            "scoreType": "BankCard",
+            "summary": null,
+            "explanation": null,
+            "score_txt": "626",
+            "rating5_txt": null,
+            "rank_txt": null,
+            "disclaimer": null,
+            "aboutYourScore": null,
+            "whatScoreMeans": null,
+            "score_percentage": null,
+            "factors": []
+          },
+          {
+            "bureau": null,
+            "brand": "FICO",
+            "version": "8",
+            "scoreType": "BankCard",
+            "summary": null,
+            "explanation": null,
+            "score_txt": "633",
+            "rating5_txt": null,
+            "rank_txt": null,
+            "disclaimer": null,
+            "aboutYourScore": null,
+            "whatScoreMeans": null,
+            "score_percentage": null,
+            "factors": []
+          }
+        ],
+        "consumerStatement": {
+          "typeCode": "",
+          "date": "0001-01-01T00:00:00",
+          "statement": "No Statement(s) present at this time",
+          "bureau": "EX",
+          "expDate": "0001-01-01T00:00:00"
+        },
+        "reportSummary": {
+          "revCreditLimit": 0,
+          "revHighBalance": 1159,
+          "revPercentCreditAvail": 0,
+          "revBalance": 4500
+        },
+        "profileAttributes": {
+          "totalDebt": {
+            "label": "Total Debt",
+            "type": "currency",
+            "value": "4500"
+          },
+          "openAccounts": {
+            "label": "Open Accounts",
+            "type": "count",
+            "value": "2"
+          },
+          "accountsEverLate": {
+            "label": "Accounts Ever Late",
+            "type": "count",
+            "value": "2"
+          },
+          "worstCurrentStatus": {
+            "label": "Worst Current Status",
+            "type": "count",
+            "value": "1"
+          },
+          "worstStatus": {
+            "label": "Worst Status",
+            "type": "count",
+            "value": "400"
+          },
+          "newestAccount": {
+            "label": "Newest Account",
+            "type": "count",
+            "value": "43"
+          },
+          "monthSinceLate": {
+            "label": "Time Since Late",
+            "type": "count",
+            "value": "6"
+          },
+          "oldestAgeofAccounts": {
+            "label": "Oldest Age of Accounts",
+            "type": "count",
+            "value": "67"
+          },
+          "averageAgeofAccounts": {
+            "label": "Average Age of Accounts",
+            "type": "months",
+            "value": "53"
+          },
+          "numberofPublicRecords": {
+            "label": "Number of Public Records",
+            "type": "count",
+            "value": "0"
+          },
+          "creditCardAccounts": {
+            "label": "Credit Card Accounts",
+            "type": "count",
+            "value": "1"
+          },
+          "collectionsAccounts": {
+            "label": "Collections Accounts",
+            "type": "count",
+            "value": "0"
+          },
+          "collectionsDebt": {
+            "label": "Collections Debt",
+            "type": "currency",
+            "value": "0"
+          },
+          "homeEquityLinesofCredit": {
+            "label": "Home Equity Lines of Credit",
+            "type": "count",
+            "value": "0"
+          },
+          "installmentAccounts": {
+            "label": "Installment Accounts",
+            "type": "count",
+            "value": "0"
+          },
+          "installmentDebt": {
+            "label": "Installment Debt",
+            "type": "currency",
+            "value": "0"
+          },
+          "inquiries": {
+            "label": "Credit Checks",
+            "type": "count",
+            "value": "10"
+          },
+          "inquiriesInLast30Days": {
+            "label": "Inquiries In Last 30 Days",
+            "type": "count",
+            "value": "0"
+          },
+          "inquiriesInLast3Months": {
+            "label": "Inquiries in Last 3 months",
+            "type": "count",
+            "value": "1"
+          },
+          "inquiriesInLast6Months": {
+            "label": "Inquiries in Last 6 months",
+            "type": "count",
+            "value": "2"
+          },
+          "mostRecentCreditInquiriesInMonths": {
+            "label": "Months since Most Recent Credit Inquiries",
+            "type": "count",
+            "value": "2"
+          },
+          "mortgageAccounts": {
+            "label": "Mortgage Accounts",
+            "type": "count",
+            "value": "0"
+          },
+          "mortgageDebt": {
+            "label": "Mortgage Debt",
+            "type": "currency",
+            "value": "0"
+          },
+          "otherAccounts": {
+            "label": "Other Accounts",
+            "type": "count",
+            "value": "0"
+          },
+          "otherDebt": {
+            "label": "Other Debt",
+            "type": "currency",
+            "value": "0"
+          },
+          "revolvingDebt": {
+            "label": "Revolving Debt",
+            "type": "currency",
+            "value": "4500"
+          },
+          "totalCreditLimit": {
+            "label": "Credit Limit",
+            "type": "currency",
+            "value": "0"
+          },
+          "creditAvailable": {
+            "label": "Credit Available",
+            "type": "count",
+            "value": "0"
+          },
+          "creditUsagePercentage": {
+            "label": "Credit Usage Percentage",
+            "type": "percentage",
+            "value": "0"
+          },
+          "retailCardAccounts": {
+            "label": "Retail Card Accounts",
+            "type": "count",
+            "value": "0"
+          },
+          "otherRevolvingAccounts": {
+            "label": "Other Revolving Accounts",
+            "type": "count",
+            "value": "-97"
+          },
+          "creditUsed": {
+            "label": "Credit Used",
+            "type": "count",
+            "value": "0"
+          },
+          "isThinFile": {
+            "label": "isThinFile",
+            "type": "count",
+            "value": "True"
+          }
+        },
+        "ficoAttributes": {
+          "latePayment30Days": {
+            "label": "Late Payments 30+ Days",
+            "type": "count",
+            "value": "2"
+          },
+          "latePayment60plus": {
+            "label": "Late Payments 60+ Days",
+            "type": "count",
+            "value": "2"
+          },
+          "derogatoryRecord": {
+            "label": "Derogatory Public Records",
+            "type": "count",
+            "value": "0"
+          },
+          "collectionRecord": {
+            "label": "Collections",
+            "type": "count",
+            "value": "0"
+          },
+          "timeSinceMostRecentPayment": {
+            "label": "Time Since Most Recent Late Payment",
+            "type": "months",
+            "value": "6"
+          },
+          "percentageAccountsPaidAsAgreed": {
+            "label": "Accounts Always Paid as Agreed",
+            "type": "percentage",
+            "value": "67"
+          },
+          "latePayment30plusPastYear": {
+            "label": "Late Payments 30+ Days in Past Year",
+            "type": "count",
+            "value": "1"
+          },
+          "latePayment30plusOlderThanPastYear": {
+            "label": "Late Payments 30+ Days Older Than Past Year",
+            "type": "count",
+            "value": "1"
+          },
+          "revolvingUtilization": {
+            "label": "Revolving Utilization",
+            "type": "percentage",
+            "value": "82"
+          },
+          "accountsWithBalances": {
+            "label": "Accounts with Balances",
+            "type": "count",
+            "value": "2"
+          },
+          "revolvingAccountBalance": {
+            "label": "Total Balance on Revolving and Open-Ended Accounts",
+            "type": "currency",
+            "value": "4500"
+          },
+          "averageAge": {
+            "label": "Average Age of Accounts",
+            "type": "months",
+            "value": "53"
+          },
+          "oldestAccount": {
+            "label": "Age of Oldest Account",
+            "type": "months",
+            "value": "67"
+          },
+          "latestOpenAccount": {
+            "label": "Age of Most Recently Opened Account",
+            "type": "months",
+            "value": "43"
+          },
+          "recentInquiries": {
+            "label": "Number of Recent Inquiries",
+            "type": "count",
+            "value": "2"
+          },
+          "presenceOfCreditCards": {
+            "label": "Revolving Accounts",
+            "type": "string",
+            "value": "Yes"
+          },
+          "presenceOfInstallmentLoans": {
+            "label": "Installment Loans, Including Mortgages",
+            "type": "string",
+            "value": "Yes"
+          },
+          "presenceOfBankIssuedCreditCard": {
+            "label": "Bank-Issued Credit Card Accounts",
+            "type": "string",
+            "value": "Yes"
+          },
+          "numberOfCreditCards": {
+            "label": "Revolving Accounts",
+            "type": "count",
+            "value": "3"
+          },
+          "numberOfInstallmentLoans": {
+            "label": "Installment Loans, Including Mortgages",
+            "type": "count",
+            "value": "3"
+          },
+          "numberOfBankIssuedCreditCard": {
+            "label": "Bank-Issued Credit Card Accounts",
+            "type": "count",
+            "value": "1"
+          }
+        },
+        "ssNs": [],
+        "errorCode": {
+          "errorCode": 0,
+          "actionCode": null,
+          "status": "Success",
+          "message": "Succesfully Pulled the Report from Bureau"
+        },
+        "solutionDecisions": null,
+        "fraudInfo": [],
+        "attributes": {}
+      }
+    ],
+    "pulledReports": null,
+    "hideScore": false
+  }
+}

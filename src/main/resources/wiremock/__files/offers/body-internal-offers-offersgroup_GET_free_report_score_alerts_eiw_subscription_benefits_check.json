@@ -1,0 +1,357 @@
+{
+    "offers": [
+        {
+            "additionalRequiredFields": "ssn",
+            "agentFriendlyTermsAndConditions": "Do you authorize ConsumerInfo.com Inc., an Experian company, to obtain your credit report in order to provide it to you?(Customer must respond in the affirmitive)",
+            "benefits": [
+                {
+                    "id": "B24"
+                },
+                {
+                    "id": "B25"
+                },
+                {
+                    "id": "B10"
+                },
+                {
+                    "id": "B14"
+                },
+                {
+                    "id": "B18"
+                },
+                {
+                    "id": "B19"
+                },
+                {
+                    "id": "B20"
+                },
+                {
+                    "id": "B21"
+                },
+                {
+                    "id": "B22"
+                },
+                {
+                    "id": "B4"
+                },
+                {
+                    "id": "B62"
+                }
+            ],
+            "cardAuthRequired": false,
+            "client": "web",
+            "createDt": "2018-05-04T00:00:00.001Z",
+            "endDt": "2038-05-04T00:00:00.001Z",
+            "hasNegativeOptions": false,
+            "isDefault": false,
+            "isVerificationRequired": true,
+            "offerId": "1f6bfa90eae44683905d0a7885193bb3",
+            "offerName": "Experian CreditWorks<sup>&#8480;</sup> Basic",
+            "offerType": "Base",
+            "overrideBenefits": true,
+            "overrideTerms": true,
+            "packageName": "Experian CreditWorks<sup>&#8480;</sup> Basic",
+            "placements": [
+                {
+                    "acceptText": "Submit Secure Order",
+                    "description": "Free Membership",
+                    "disclaimer": "None",
+                    "id": "default",
+                    "taxFreeTermsAndConditions": "<p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.</strong></p><p><strong>I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to:</strong></p><strong><ul><li>Provide my credit report (and/or credit score) to me for review while I have an account with ECS.</li><li>Notify me of other products and services that may be available to me through ECS or through unaffiliated third parties.</li><li>Notify me of credit opportunities and advertised credit offers.</li></ul></strong><p><strong>I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+                    "termsAndConditions": "<p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.</strong></p><p><strong>I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to:</strong></p><strong><ul><li>Provide my credit report (and/or credit score) to me for review while I have an account with ECS.</li><li>Notify me of other products and services that may be available to me through ECS or through unaffiliated third parties.</li><li>Notify me of credit opportunities and advertised credit offers.</li></ul></strong><p><strong>I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+                },
+                {
+                    "acceptText": "Submit Secure Order",
+                    "benefits": [
+                        {
+                            "id": "B62",
+                            "name": "Free Experian Credit Report and FICO<sup>&reg;</sup> Score"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Report and Score Refreshed Every 30 Days On Sign In"
+                        },
+                        {
+                            "id": "B4",
+                            "name": "FICO Score Monitoring with Experian Data"
+                        },
+                        {
+                            "id": "B10",
+                            "name": "Experian Credit Monitoring and Alerts"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Free Dark Web Surveillance Report"
+                        }
+                    ],
+                    "disclaimer": "None",
+                    "id": "shoppingCart",
+                    "taxFreeTermsAndConditions": "<p>Credit score is calculated based on FICO<sup>&reg;</sup> Score 8 model, unless otherwise noted. In addition to the FICO<sup>&reg;</sup> Score 8, we may offer and provide other base or industry-specific FICO<sup>&reg;</sup> Scores (such as FICO<sup>&reg;</sup> Auto Scores and FICO<sup>&reg;</sup> Bankcard Scores). Your lender or insurer may use a different FICO<sup>&reg;</sup> Score than FICO<sup>&reg;</sup>Score 8 or such other base or industry-specific FICO<sup>&reg;</sup> Score (if available), or another type of credit score altogether. <a href=\"#/ficoScoreDisclosure\">Learn more</a>.</p><p>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.</p><p>I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to:</p><ul><li>Provide my credit report (and/or credit score) to me for review while I have an account with ECS.</li><li>Notify me of other products and services that may be available to me through ECS or through unaffiliated third parties.</li><li>Notify me of credit opportunities and advertised credit offers.</li></ul><p>I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</p>",
+                    "termsAndConditions": "<p>Credit score is calculated based on FICO<sup>&reg;</sup> Score 8 model, unless otherwise noted. In addition to the FICO<sup>&reg;</sup> Score 8, we may offer and provide other base or industry-specific FICO<sup>&reg;</sup> Scores (such as FICO<sup>&reg;</sup> Auto Scores and FICO<sup>&reg;</sup> Bankcard Scores). Your lender or insurer may use a different FICO<sup>&reg;</sup> Score than FICO<sup>&reg;</sup>Score 8 or such other base or industry-specific FICO<sup>&reg;</sup> Score (if available), or another type of credit score altogether. <a href=\"#/ficoScoreDisclosure\">Learn more</a>.</p><p>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.</p><p>I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to:</p><ul><li>Provide my credit report (and/or credit score) to me for review while I have an account with ECS.</li><li>Notify me of other products and services that may be available to me through ECS or through unaffiliated third parties.</li><li>Notify me of credit opportunities and advertised credit offers.</li></ul><p>I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</p>"
+                },
+                {
+                    "acceptText": "Get Your Free Credit Report",
+                    "benefits": [
+                        {
+                            "id": "B62",
+                            "name": "Free Experian Credit Report and FICO<sup>&reg;</sup> Score"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Report and Score Refreshed Every 30 Days On Sign In"
+                        },
+                        {
+                            "id": "B4",
+                            "name": "FICO Score Monitoring with Experian Data"
+                        },
+                        {
+                            "id": "B10",
+                            "name": "Experian Credit Monitoring and Alerts"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Free Dark Web Surveillance Report"
+                        }
+                    ],
+                    "headline": "Welcome back.  Get your Free Experian Credit Report now.",
+                    "id": "postLogin",
+                    "image": "freeScorePreview",
+                    "subheader": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+                    "taxFreeTermsAndConditions": "<p><strong>By clicking \"Get Your Free Credit Report\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+                    "termsAndConditions": "<p><strong>By clicking \"Get Your Free Credit Report\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+                },
+                {
+                    "acceptText": "Accept Terms &amp; Conditions",
+                    "benefits": [
+                        {
+                            "id": "B62",
+                            "name": "Free Experian Credit Report and FICO<sup>&reg;</sup> Score"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Report and Score Refreshed Every 30 Days On Sign In"
+                        },
+                        {
+                            "id": "B4",
+                            "name": "FICO Score Monitoring with Experian Data"
+                        },
+                        {
+                            "id": "B10",
+                            "name": "Experian Credit Monitoring and Alerts"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Free Dark Web Surveillance Report"
+                        }
+                    ],
+                    "id": "profile",
+                    "image": "freeScorePreview",
+                    "taxFreeTermsAndConditions": "<p>By clicking \"Accept Terms &amp; Conditions\": I understand that I authorized ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties.  I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting us</a></p>",
+                    "termsAndConditions": "<p>By clicking \"Accept Terms &amp; Conditions\": I understand that I authorized ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties.  I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting us</a></p>"
+                },
+                {
+                    "acceptText": "Submit Secure Order",
+                    "advertisingTerms": "With your Experian CreditWorks<sup>&#8480;</sup> Basic, you can view your updated Credit Report every 30 days. No Credit Card Required.",
+                    "benefits": [
+                        {
+                            "id": "B62",
+                            "name": "Free Experian Credit Report and FICO<sup>&reg;</sup> Score"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Report and Score Refreshed Every 30 Days On Sign In"
+                        },
+                        {
+                            "id": "B4",
+                            "name": "FICO Score Monitoring with Experian Data"
+                        },
+                        {
+                            "id": "B10",
+                            "name": "Experian Credit Monitoring and Alerts"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Free Dark Web Surveillance Report"
+                        }
+                    ],
+                    "declineText": "No Thank You",
+                    "disclaimer": "None",
+                    "headline": "Upgrade Your Account",
+                    "id": "upgrade",
+                    "image": "freeScorePreview",
+                    "subheader": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+                    "taxFreeTermsAndConditions": "<p><strong>Click \"Submit Secure Order\" to accept our <a href=\"#/termsAndConditions\">Terms and Conditions</a>, as well as acknowledge receipt of our <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>, and authorize ConsumerInfo.com, Inc. (\"CIC\"), an Experian<sup>&reg;</sup> company, to obtain your Experian<sup>&reg;</sup> credit report(s) and/or score(s) on a recurring basis in order to provide it to you for review, and authorize CIC to obtain and use your credit report, score(s) and other related information to provide you with credit opportunities (referred to as \"offers\" on our site)",
+                    "termsAndConditions": "<p><strong>Click \"Submit Secure Order\" to accept our <a href=\"#/termsAndConditions\">Terms and Conditions</a>, as well as acknowledge receipt of our <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>, and authorize ConsumerInfo.com, Inc. (\"CIC\"), an Experian<sup>&reg;</sup> company, to obtain your Experian<sup>&reg;</sup> credit report(s) and/or score(s) on a recurring basis in order to provide it to you for review, and authorize CIC to obtain and use your credit report, score(s) and other related information to provide you with credit opportunities (referred to as \"offers\" on our site)"
+                },
+                {
+                    "acceptText": "Get Your Free Credit Report",
+                    "benefits": [
+                        {
+                            "id": "B62",
+                            "name": "Free Experian Credit Report and FICO<sup>&reg;</sup> Score"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Report and Score Refreshed Every 30 Days On Sign In"
+                        },
+                        {
+                            "id": "B4",
+                            "name": "FICO Score Monitoring with Experian Data"
+                        },
+                        {
+                            "id": "B10",
+                            "name": "Experian Credit Monitoring and Alerts"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Free Dark Web Surveillance Report"
+                        }
+                    ],
+                    "headline": "Welcome back.  Get your Free Experian Credit Report now.",
+                    "id": "subscriptionIntercept",
+                    "image": "freeScorePreview",
+                    "subheader": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+                    "taxFreeTermsAndConditions": "<p><strong>By clicking \"Get Your Free Credit Report\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+                    "termsAndConditions": "<p><strong>By clicking \"Get Your Free Credit Report\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+                },
+                {
+                    "acceptText": "Get Your Free Credit Report",
+                    "benefits": [
+                        {
+                            "id": "B62",
+                            "name": "Free Experian Credit Report and FICO<sup>&reg;</sup> Score"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Report and Score Refreshed Every 30 Days On Sign In"
+                        },
+                        {
+                            "id": "B4",
+                            "name": "FICO Score Monitoring with Experian Data"
+                        },
+                        {
+                            "id": "B10",
+                            "name": "Experian Credit Monitoring and Alerts"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Free Dark Web Surveillance Report"
+                        }
+                    ],
+                    "headline": "Welcome back.  Get your Free Experian Credit Report now.",
+                    "id": "offerIntercept",
+                    "image": "freeScorePreview",
+                    "subheader": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+                    "taxFreeTermsAndConditions": "<p><strong>By clicking \"Get Your Free Credit Report\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+                    "termsAndConditions": "<p><strong>By clicking \"Get Your Free Credit Report\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+                },
+                {
+                    "acceptText": "Upgrade Now",
+                    "benefits": [
+                        {
+                            "id": "B62",
+                            "name": "Free Experian Credit Report and FICO<sup>&reg;</sup> Score"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Report and Score Refreshed Every 30 Days On Sign In"
+                        },
+                        {
+                            "id": "B4",
+                            "name": "FICO Score Monitoring with Experian Data"
+                        },
+                        {
+                            "id": "B10",
+                            "name": "Experian Credit Monitoring and Alerts"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Free Dark Web Surveillance Report"
+                        }
+                    ],
+                    "continueText": "Upgrade Now",
+                    "headline": "Ready to upgrade your account?",
+                    "id": "upgradeModal",
+                    "subheader": "Don't worry, you can change plans anytime",
+                    "taxFreeTermsAndConditions": "<p><strong>Click \"Submit Secure Order\" to accept our <a href=\"#/termsAndConditions\">Terms and Conditions</a>, as well as acknowledge receipt of our <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>, and authorize ConsumerInfo.com, Inc. (\"CIC\"), an Experian<sup>&reg;</sup> company, to obtain your Experian<sup>&reg;</sup> credit report(s) and/or score(s) on a recurring basis in order to provide it to you for review, and authorize CIC to obtain and use your credit report, score(s) and other related information to provide you with credit opportunities (referred to as \"offers\" on our site)",
+                    "termsAndConditions": "<p><strong>Click \"Submit Secure Order\" to accept our <a href=\"#/termsAndConditions\">Terms and Conditions</a>, as well as acknowledge receipt of our <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>, and authorize ConsumerInfo.com, Inc. (\"CIC\"), an Experian<sup>&reg;</sup> company, to obtain your Experian<sup>&reg;</sup> credit report(s) and/or score(s) on a recurring basis in order to provide it to you for review, and authorize CIC to obtain and use your credit report, score(s) and other related information to provide you with credit opportunities (referred to as \"offers\" on our site)"
+                },
+                {
+                    "acceptText": "Submit Secure Order",
+                    "advertisingTerms": "With your Experian CreditWorks<sup>&#8480;</sup> Basic, you can view your updated Credit Report every 30 days. No Credit Card Required.",
+                    "benefits": [
+                        {
+                            "id": "B62",
+                            "name": "Free Experian Credit Report and FICO<sup>&reg;</sup> Score"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Report and Score Refreshed Every 30 Days On Sign In"
+                        },
+                        {
+                            "id": "B4",
+                            "name": "FICO Score Monitoring with Experian Data"
+                        },
+                        {
+                            "id": "B10",
+                            "name": "Experian Credit Monitoring and Alerts"
+                        },
+                        {
+                            "id": "display",
+                            "name": "Free Dark Web Surveillance Report"
+                        }
+                    ],
+                    "declineText": "No Thank You",
+                    "disclaimer": "None",
+                    "headline": "Upgrade Your Account",
+                    "id": "loginInterstitial",
+                    "image": "freeScorePreview",
+                    "subheader": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+                    "taxFreeTermsAndConditions": "<p><strong>Click \"Submit Secure Order\" to accept our <a href=\"#/termsAndConditions\">Terms and Conditions</a>, as well as acknowledge receipt of our <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>, and authorize ConsumerInfo.com, Inc. (\"CIC\"), an Experian<sup>&reg;</sup> company, to obtain your Experian<sup>&reg;</sup> credit report(s) and/or score(s) on a recurring basis in order to provide it to you for review, and authorize CIC to obtain and use your credit report, score(s) and other related information to provide you with credit opportunities (referred to as \"offers\" on our site)",
+                    "termsAndConditions": "<p><strong>Click \"Submit Secure Order\" to accept our <a href=\"#/termsAndConditions\">Terms and Conditions</a>, as well as acknowledge receipt of our <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>, and authorize ConsumerInfo.com, Inc. (\"CIC\"), an Experian<sup>&reg;</sup> company, to obtain your Experian<sup>&reg;</sup> credit report(s) and/or score(s) on a recurring basis in order to provide it to you for review, and authorize CIC to obtain and use your credit report, score(s) and other related information to provide you with credit opportunities (referred to as \"offers\" on our site)"
+                }
+            ],
+            "population": "subscriber_default",
+            "productKey": "free_report_score_alerts_eiw_subscription",
+            "requiredFieldSet": "Standard Credit",
+            "startDt": "2018-05-04T00:00:00.001Z",
+            "status": "active",
+            "tags": [
+                {
+                    "name": "at_frsas102",
+                    "type": "acquisition"
+                },
+                {
+                    "name": "et_frsas102",
+                    "type": "exact_target"
+                },
+                {
+                    "name": "ia_frsas102",
+                    "type": "in_app"
+                },
+                {
+                    "name": "tt_frsas102",
+                    "type": "test_n_target"
+                }
+            ],
+            "terms": [
+                {
+                    "termId": "0",
+                    "description": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+                    "percentage": 0,
+                    "price": 0.0,
+                    "trialLength": 0,
+                    "skipDays": 0,
+                    "startDays": 0,
+                    "termType": "Membership"
+                }
+            ],
+            "updateDt": "2018-05-04T00:00:00.001Z",
+            "additionalProperties": {
+                "description": "Free Membership"
+            },
+            "description": "Free Membership",
+            "description": "Free Membership"
+        }
+    ]
+}

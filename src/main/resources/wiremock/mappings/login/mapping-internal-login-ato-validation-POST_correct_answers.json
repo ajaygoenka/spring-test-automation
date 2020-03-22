@@ -1,0 +1,22 @@
+{
+  "id" : "1fcee758-17d4-3ac6-afa8-1ee273b78ef1",
+  "request" : {
+    "url" : "/internal/login/ato/validation",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "login/body-internal-login-ato-validation-POST_correct_answer.json",
+    "headers" : {
+      "Date" : "Thu, 21 Mar 2019 21:32:41 GMT",
+      "Content-Type" : "application/json",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-cache, no-store, max-age=0, must-revalidate",
+      "pragma" : "no-cache",
+      "expires" : "0",
+      "x-application-context" : "application:8080"
+    }
+  },
+  "uuid" : "1fcee758-17d4-3ac6-afa8-1ee273b78ef1"
+}

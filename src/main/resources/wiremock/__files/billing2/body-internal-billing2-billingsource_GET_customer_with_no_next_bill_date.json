@@ -1,0 +1,14 @@
+{
+  "creditCardResponse": {
+    "lastFourCardNumber": "0009",
+    "expMonth": 11,
+    "expYear": 2025,
+    "cardType": "Visa",
+    "cardRole": "ACTIVE",
+    "paymentMethodId": "57768"
+  },
+  "billingSource": "CreditCard",
+  "nextBillDate": "unavailable",
+  "billingStatus": "ACTIVE",
+  "accountBalance": 0.0
+}

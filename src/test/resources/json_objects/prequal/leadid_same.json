@@ -1,0 +1,7 @@
+{
+  "email":"leadtestsv@qa.com",
+  "matchedOffers":["A018000001","A015000008","A007000004","A015000003","12345679"],
+  "source":"PublicPQ",
+  "subSource":"PublicPrequal",
+  "intents":["CC1042", "CC1043","CC1044","CC1045","CC1046","CC1047","CC1048"]
+}

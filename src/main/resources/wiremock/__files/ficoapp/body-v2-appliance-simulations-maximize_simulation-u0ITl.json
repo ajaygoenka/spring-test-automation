@@ -1,0 +1,16 @@
+{
+  "action_code": "pay_down_x_for_n_months_on_rev_open_accounts",
+  "simulation_parameters": [
+    {
+      "name": "amount",
+      "value": 236
+    },
+    {
+      "name": "months",
+      "value": 24
+    }
+  ],
+  "simulated_score_low": 770,
+  "simulated_score_high": 770,
+  "score_rating": "Very Good"
+}

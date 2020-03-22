@@ -1,0 +1,22 @@
+{
+  "id" : "b78731f4-5b8f-371d-b694-a49777e09eee",
+  "request" : {
+    "urlPattern" : "/internal/report/([\\w\\d]*)/201905160249575755/EXPERIAN",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "report/body-internal-report-512ed190dde248a282f12cc077fec184-201905160249575755-EXPERIAN-zEzEg.json",
+    "headers" : {
+      "Date" : "Thu, 16 May 2019 22:30:13 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-store,no-cache",
+      "pragma" : "no-cache",
+      "server" : "Kestrel"
+    }
+  },
+  "uuid" : "b78731f4-5b8f-371d-b694-a49777e09eee"
+}

@@ -1,0 +1,578 @@
+{
+  "experian": [
+    {
+      "id": "2451d731505a46bc928a94503445dec4",
+      "bureau": "Experian",
+      "scoreType": "Auto",
+      "brand": "FICO",
+      "scoreVersion": "2",
+      "score": 655,
+      "scoreText": "655",
+      "unscorable": false,
+      "scoreDate": "2019-03-25T18:43:50.3805770Z",
+      "createDate": "2019-03-25T18:43:50.3280000Z",
+      "scoreRating": "Fair",
+      "scoreIngredients": null,
+      "scoreUnderstanding": {
+        "negativeReasonCodes": [
+          {
+            "title": "High credit usage",
+            "heading": "You've made heavy use of your available revolving credit.",
+            "explanation": "The FICO<sup>&reg;</sup> Score evaluates balances in relation to available credit on revolving accounts\n        <a href=\"#\" class=\"help\" title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit.<p> In older versions of the FICO&reg; Score (versions prior to FICO&reg; Score 8), open-ended accounts may be included in this calculation. Open-ended accounts are those requiring payment of the full balance each month, such as an American Express charge card account.</p>\">[?]</a>. \n        The extent of a person's credit usage is one of the most important factors considered by  a FICO<sup>&reg;</sup> Score. People who keep their ratio of balances to credit limits lower are generally considered less risky to lenders than those with higher ratios. \n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          },
+          {
+            "title": "High revolving balances",
+            "heading": "The amount owed on your revolving and/or open-ended accounts is too high.",
+            "explanation": "FICO<sup>&reg;</sup> Scores evaluate how much is owed on revolving and/or open-ended accounts<a href=\"#\" class=\"help\" \n        title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit. Open-ended accounts are those\n        requiring payment of the full balance each month, such as an American Express charge card account.\">[?]</a>, such as credit cards. Generally, the more owed on these accounts, the greater the risk posed to lenders.\n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          },
+          {
+            "title": "No loan activity",
+            "heading": "You have no recent activity from a non-mortgage installment loan.",
+            "explanation": "Your credit report shows no recent non-mortgage loans (such as auto or student loans) or sufficient recent information about your loans. Having a loan along with other types of credit demonstrates that a person is able to manage a variety of credit types.",
+            "dataPoints": null
+          },
+          {
+            "title": "Many new accounts",
+            "heading": "You've recently opened too many new credit accounts.",
+            "explanation": "The FICO<sup>&reg;</sup> Score considers the number of recent credit account openings. Opening several credit accounts in a short time period is reflective of greater risk - especially for people with shorter credit histories.",
+            "dataPoints": null
+          }
+        ],
+        "positiveReasonCodes": null
+      },
+      "scoreDistributionPercentile": 0,
+      "scoreSummaryDescription": null,
+      "lenderView": null,
+      "sourceId": "201903251843474577"
+    },
+    {
+      "id": "45a93a983a5848c2b731b7008590941f",
+      "bureau": "Experian",
+      "scoreType": "Auto",
+      "brand": "FICO",
+      "scoreVersion": "8",
+      "score": 658,
+      "scoreText": "658",
+      "unscorable": false,
+      "scoreDate": "2019-03-25T18:43:50.3805770Z",
+      "createDate": "2019-03-25T18:43:50.3280000Z",
+      "scoreRating": "Fair",
+      "scoreIngredients": null,
+      "scoreUnderstanding": {
+        "negativeReasonCodes": [
+          {
+            "title": "High credit usage",
+            "heading": "You've made heavy use of your available revolving credit.",
+            "explanation": "The FICO<sup>&reg;</sup> Score evaluates balances in relation to available credit on revolving accounts\n        <a href=\"#\" class=\"help\" title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit.<p> In older versions of the FICO&reg; Score (versions prior to FICO&reg; Score 8), open-ended accounts may be included in this calculation. Open-ended accounts are those requiring payment of the full balance each month, such as an American Express charge card account.</p>\">[?]</a>. \n        The extent of a person's credit usage is one of the most important factors considered by  a FICO<sup>&reg;</sup> Score. People who keep their ratio of balances to credit limits lower are generally considered less risky to lenders than those with higher ratios. \n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          },
+          {
+            "title": "No loan activity",
+            "heading": "You have no recent activity from a non-mortgage installment loan.",
+            "explanation": "Your credit report shows no recent non-mortgage loans (such as auto or student loans) or sufficient recent information about your loans. Having a loan along with other types of credit demonstrates that a person is able to manage a variety of credit types.",
+            "dataPoints": null
+          },
+          {
+            "title": "Short account history",
+            "heading": "You have a short credit history.",
+            "explanation": "People with longer credit histories who infrequently open new accounts generally pose less risk to lenders. In your case, the age of your oldest account and/or the average age of your accounts is relatively low.",
+            "dataPoints": null
+          },
+          {
+            "title": "High revolving balances",
+            "heading": "The amount owed on your revolving and/or open-ended accounts is too high.",
+            "explanation": "FICO<sup>&reg;</sup> Scores evaluate how much is owed on revolving and/or open-ended accounts<a href=\"#\" class=\"help\" \n        title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit. Open-ended accounts are those\n        requiring payment of the full balance each month, such as an American Express charge card account.\">[?]</a>, such as credit cards. Generally, the more owed on these accounts, the greater the risk posed to lenders.\n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          }
+        ],
+        "positiveReasonCodes": null
+      },
+      "scoreDistributionPercentile": 0,
+      "scoreSummaryDescription": null,
+      "lenderView": null,
+      "sourceId": "201903251843474577"
+    },
+    {
+      "id": "8246932175f94255bc3b7b6573c05217",
+      "bureau": "Experian",
+      "scoreType": "BankCard",
+      "brand": "FICO",
+      "scoreVersion": "2",
+      "score": 689,
+      "scoreText": "689",
+      "unscorable": false,
+      "scoreDate": "2019-03-25T18:43:50.3805770Z",
+      "createDate": "2019-03-25T18:43:50.3280000Z",
+      "scoreRating": "Good",
+      "scoreIngredients": null,
+      "scoreUnderstanding": {
+        "negativeReasonCodes": [
+          {
+            "title": "High credit usage",
+            "heading": "You've made heavy use of your available revolving credit.",
+            "explanation": "The FICO<sup>&reg;</sup> Score evaluates balances in relation to available credit on revolving accounts\n        <a href=\"#\" class=\"help\" title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit.<p> In older versions of the FICO&reg; Score (versions prior to FICO&reg; Score 8), open-ended accounts may be included in this calculation. Open-ended accounts are those requiring payment of the full balance each month, such as an American Express charge card account.</p>\">[?]</a>. \n        The extent of a person's credit usage is one of the most important factors considered by  a FICO<sup>&reg;</sup> Score. People who keep their ratio of balances to credit limits lower are generally considered less risky to lenders than those with higher ratios. \n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          },
+          {
+            "title": "Many new accounts",
+            "heading": "You've recently opened too many new credit accounts.",
+            "explanation": "The FICO<sup>&reg;</sup> Score considers the number of recent credit account openings. Opening several credit accounts in a short time period is reflective of greater risk - especially for people with shorter credit histories.",
+            "dataPoints": null
+          },
+          {
+            "title": "Short account history",
+            "heading": "You have a short credit history.",
+            "explanation": "People with longer credit histories who infrequently open new accounts generally pose less risk to lenders. In your case, the age of your oldest account and/or the average age of your accounts is relatively low.",
+            "dataPoints": null
+          },
+          {
+            "title": "High revolving balances",
+            "heading": "The amount owed on your revolving and/or open-ended accounts is too high.",
+            "explanation": "FICO<sup>&reg;</sup> Scores evaluate how much is owed on revolving and/or open-ended accounts<a href=\"#\" class=\"help\" \n        title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit. Open-ended accounts are those\n        requiring payment of the full balance each month, such as an American Express charge card account.\">[?]</a>, such as credit cards. Generally, the more owed on these accounts, the greater the risk posed to lenders.\n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          }
+        ],
+        "positiveReasonCodes": null
+      },
+      "scoreDistributionPercentile": 0,
+      "scoreSummaryDescription": null,
+      "lenderView": null,
+      "sourceId": "201903251843474577"
+    },
+    {
+      "id": "783bb5c417ce49e2be86a938a6512a43",
+      "bureau": "Experian",
+      "scoreType": "Credit",
+      "brand": "FICO",
+      "scoreVersion": "8",
+      "score": 685,
+      "scoreText": "685",
+      "unscorable": false,
+      "scoreDate": "2019-03-25T18:43:50.3805770Z",
+      "createDate": "2019-03-25T18:43:50.3280000Z",
+      "scoreRating": "Good",
+      "scoreIngredients": {
+        "paymentHistoryRating": 5.0,
+        "paymentHistoryRatingName": "Exceptional",
+        "amountOfDebtRating": 2.33,
+        "amountOfDebtRatingName": "Fair",
+        "creditHistoryLengthRating": 3.75,
+        "creditHistoryLengthRatingName": "Very Good",
+        "amountOfNewCreditRating": 3.33,
+        "amountOfNewCreditRatingName": "Good",
+        "creditMixRating": "5.0",
+        "creditMixRatingName": "Exceptional",
+        "attributes": {
+          "paymentHistory": {
+            "attributes": {
+              "latePayment30plus": {
+                "displayName": "Late Payments 30+ Days",
+                "description": "Number of your accounts that were ever 30 or more days late, or have a derogatory indicator",
+                "helpText": "A reported missed payment or negative description which indicates that an account has not been paid as agreed. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>About 98% of FICO High Achievers have no missed payments at all. </p>",
+                "value": "0",
+                "valueType": "Integer"
+              },
+              "latePayment60plus": {
+                "displayName": "Late Payments 60+ Days",
+                "description": "Number of your accounts that were ever 60 or more days late, or have a derogatory indicator",
+                "helpText": "A reported missed payment or negative description which indicates that an account has not been paid as agreed. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>  <p>Virtually no FICO High Achievers have a 60 days late payment or worse listed on their credit report.</p>",
+                "value": "0",
+                "valueType": "Integer"
+              },
+              "derogatoryRecord": {
+                "displayName": "Derogatory Public Records",
+                "description": "Number of derogatory public records on your credit report",
+                "helpText": "A public record is a legal record reported on you, usually by a court of law. Derogatory public records can include bankruptcies, foreclosures, garnishments and tax liens. FICO Score 8 only considers derogatory public records with an amount of $100 or greater. <p> Virtually no FICO High Achievers have a public record listed on their credit report. </p>",
+                "value": "0",
+                "valueType": "Integer"
+              },
+              "collectionRecord": {
+                "displayName": "Collections",
+                "description": "Number of collections on your credit report",
+                "helpText": "A collection is reported on you when a creditor turns over to a collection agency any account that you have not repaid. FICO Score 8 only considers collections with an amount of $100 or greater. <p> Virtually no FICO High Achievers have a collection listed on their credit report. </p>",
+                "value": "0",
+                "valueType": "Integer"
+              },
+              "timeSinceMostRecentPayment": {
+                "displayName": "Time Since Most Recent Late Payment",
+                "description": "Your most recent late payment",
+                "helpText": "The number of months since the most recently reported negative description or late payment. '0' means you have a currently reported missed payment.  'Unknown' means there is a missed payment reported, but with no associated date.  'No delinquent accounts' means you have no accounts reported with missed payments or negative descriptions. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p> About 98% of FICO High Achievers have no missed payments at all. But of those who do, the missed payment happened nearly 4 years ago, on average. </p>",
+                "value": "No Delinquent Accounts",
+                "valueType": "String"
+              },
+              "percentageAccountsPaidAsAgreed": {
+                "displayName": "Accounts Always Paid as Agreed",
+                "description": "Percentage of rated accounts always paid as agreed",
+                "helpText": "The percentage of rated credit accounts reported that have never been reported as delinquent.  A value of 'no valid accounts' means there are no active, non-disputed accounts reported.  <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p> About 98% of FICO High Achievers have no missed payments at all. </p>",
+                "value": "100",
+                "valueType": "Percentage"
+              },
+              "latePayment30plusPastYear": {
+                "displayName": "Late Payments 30+ Days in Past Year",
+                "description": "Number of your accounts that were ever 30 or more days late, or have a derogatory indicator, occurring in the past year",
+                "helpText": "A reported missed payment or negative description which indicates that an account has not been paid as agreed. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>About 98% of FICO High Achievers have no missed payments at all. </p>",
+                "value": "0",
+                "valueType": "Integer"
+              },
+              "latePayment30plusOlderThanPastYear": {
+                "displayName": "Late Payments 30+ Days Older Than Past Year",
+                "description": "Number of your accounts that were ever 30 or more days late, or have a derogatory indicator, occurring more than one year ago",
+                "helpText": "A reported missed payment or negative description which indicates that an account has not been paid as agreed. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>About 98% of FICO High Achievers have no missed payments at all. </p>",
+                "value": "0",
+                "valueType": "Integer"
+              }
+            },
+            "displayName": "payment_history",
+            "description": "Your history of paying bills on time",
+            "helpText": "How you've paid your bills in the past&mdash;whether you've paid on time or late, or missed payments&mdash;is a very important category of credit data for the FICO<sup>&reg;</sup> Score. The more severe, recent and frequent the late payment information, the greater the impact on a FICO Score."
+          },
+          "amountOfDebt": {
+            "attributes": {
+              "numberOfAccountBalances": {
+                "displayName": "Accounts with Balances",
+                "description": "Number of your accounts with a balance",
+                "helpText": "The number of accounts that have a balance being reported. 'No valid accounts' means there are no active, non-disputed accounts reported.<p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p> FICO High Achievers have an average of 3 accounts carrying a balance. </p> ",
+                "value": "7",
+                "valueType": "Integer"
+              },
+              "totalBalanceOnOpenRevAccounts": {
+                "displayName": "Total Balance on Revolving and Open-Ended Accounts",
+                "description": "Total owed on revolving accounts",
+                "helpText": "The sum of balances being reported on Open-ended Accounts (such as a charge card) and/or Revolving Accounts (such as a credit card) that are reported as open. 'No valid accounts' means there are no Open-ended or Revolving accounts reported or no active, non-disputed Open-ended or Revolving open accounts reported. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p> Most FICO High Achievers owe less than $2500 on revolving accounts such as credit cards and department store cards. </p>",
+                "value": "31618",
+                "valueType": "Integer"
+              },
+              "revolvingUtilizationRatio": {
+                "displayName": "Revolving Utilization",
+                "description": "Percentage of your revolving balances to your revolving credit limits",
+                "helpText": "The ratio of the sum of the balances on revolving accounts divided by the sum of the credit limits on revolving accounts reported. 'No valid accounts' means there are no revolving accounts reported or no active, non-disputed revolving accounts reported. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p> For FICO High Achievers, the average ratio is less than 7%. </p> ",
+                "value": "38",
+                "valueType": "Percentage"
+              }
+            },
+            "displayName": "amount_of_debt",
+            "description": "Your total amount of outstanding debt",
+            "helpText": "The amount of credit you're using is a very important category of credit data for the FICO<sup>&reg;</sup> Score.  FICO Scores consider the total balance owed, how many accounts have balances and how much of your available credit you're using."
+          },
+          "creditHistoryLength": {
+            "attributes": {
+              "avgAgeOfAccounts": {
+                "displayName": "Average Age of Accounts",
+                "description": "The average age of your accounts",
+                "helpText": "FICO<sup>&reg;</sup> Scores consider the average age of all accounts being reported. Generally speaking, having a relatively long credit history and not opening many new accounts is reflective of lower credit risk. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p> Most FICO High Achievers have an average age of accounts of 9 years or more. </p>",
+                "value": "77",
+                "valueType": "Integer"
+              },
+              "ageOfOldestAccount": {
+                "displayName": "Age of Oldest Account",
+                "description": "Time since your oldest account was opened",
+                "helpText": "FICO<sup>&reg;</sup>  Scores consider the age of the oldest account being reported. Generally speaking, having a relatively long credit history is reflective of lower credit risk.  <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p> FICO High Achievers opened their oldest account 25 years ago, on average. </p>",
+                "value": "224",
+                "valueType": "Integer"
+              }
+            },
+            "displayName": "credit_history_length",
+            "description": "How long you've had credit",
+            "helpText": "FICO<sup>&reg;</sup> Scores take into account how long your credit accounts have been established, including the age of your oldest account, the age of your newest account and the average age of all your accounts."
+          },
+          "amountOfNewCredit": {
+            "attributes": {
+              "recentInquiries": {
+                "displayName": "Number of Recent Inquiries",
+                "description": "Your applications for credit in the past year",
+                "helpText": "While FICO<sup>&reg;</sup> Scores typically consider the number of inquiries on a credit report from the past twelve months, the number of inquiries is a much less important factor than late payments, total amount owed and length of credit history. <p> 70% of FICO High Achievers did not apply for credit in the past year.</p>",
+                "value": "0",
+                "valueType": "Integer"
+              },
+              "ageOfMostRecentlyOpenedAccount": {
+                "displayName": "Age of Most Recently Opened Account",
+                "description": "Time since your newest account was opened",
+                "helpText": "FICO<sup>&reg;</sup> Scores consider how recently a new credit account was opened. People who recently opened a credit account are generally more risky to lenders than people with no recently opened accounts. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p> FICO High Achievers opened their most recent account 2 years and 6 months ago, on average. </p>",
+                "value": "7",
+                "valueType": "Integer"
+              }
+            },
+            "displayName": "amount_of_new_credit",
+            "description": "Amount of credit you've recently obtained or applied for",
+            "helpText": "When considering your amount of new credit, FICO<sup>&reg;</sup> Scores take into account how many new accounts you've recently opened and whether you've been rate shopping for a single loan or applying for multiple new credit lines. Opening several new credit accounts in a short period of time indicates greater credit risk."
+          },
+          "creditMix": {
+            "attributes": {
+              "presenceOfCreditCards": {
+                "displayName": "Revolving Accounts",
+                "description": "Revolving accounts being used or reported",
+                "helpText": "FICO<sup>&reg;</sup> Scores evaluate the mix of different types of credit being used or reported. Revolving accounts are credit accounts in which the monthly payment varies based on the amount owed. The borrower may defer (or 'revolve') payment on part of the balance. The lender will charge interest on any unpaid balance. Revolving accounts include credit card accounts. Credit mix is a much less important category of credit data than late payments, total amount owed and length of credit history. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>FICO High Achievers have an average of 12 revolving accounts.</p>",
+                "value": "Yes",
+                "valueType": "String"
+              },
+              "presenceOfInstallmentLoans": {
+                "displayName": "Installment Loans, Including Mortgages",
+                "description": "Installment loans, including mortgages, being used or reported",
+                "helpText": "FICO<sup>&reg;</sup> Scores evaluate the mix of different types of credit being used or reported. Installment accounts are credit accounts that have a fixed payment for a fixed period of time. Installment accounts are usually for a single large purchase (e.g., auto or home). For the calculation of this attribute, installment accounts include mortgages. Credit mix is a much less important category of credit data than late payments, total amount owed and length of credit history. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>FICO High Achievers have an average of 5 installment accounts.</p>",
+                "value": "Yes",
+                "valueType": "String"
+              },
+              "presenceOfBankIssuedCreditCard": {
+                "displayName": "Bank-Issued Credit Card Accounts",
+                "description": "Credit cards being used or reported",
+                "helpText": "FICO<sup>&reg;</sup> Scores evaluate the mix of different types of credit being used or reported. Bank-issued credit card accounts are a subset of revolving accounts. Credit mix is a much less important category of credit data than late payments, total amount owed and length of credit history. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>FICO High Achievers have an average of 7 credit cards.</p>",
+                "value": "Yes",
+                "valueType": "String"
+              },
+              "numberOfCreditCards": {
+                "displayName": "Revolving Accounts",
+                "description": "Number of revolving accounts being used or reported",
+                "helpText": "FICO<sup>&reg;</sup> Scores evaluate the mix of different types of credit being used or reported. Revolving accounts are credit accounts in which the monthly payment varies based on the amount owed. The borrower may defer (or 'revolve') payment on part of the balance. The lender will charge interest on any unpaid balance. Revolving accounts include credit card accounts. Credit mix is a much less important category of credit data than late payments, total amount owed and length of credit history. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>FICO High Achievers have an average of 12 revolving accounts.</p>",
+                "value": "33",
+                "valueType": "Integer"
+              },
+              "numberOfInstallmentLoans": {
+                "displayName": "Installment Loans, Including Mortgages",
+                "description": "Number of installment loans, including mortgages, being used or reported",
+                "helpText": "FICO<sup>&reg;</sup> Scores evaluate the mix of different types of credit being used or reported. Installment accounts are credit accounts that have a fixed payment for a fixed period of time. Installment accounts are usually for a single large purchase (e.g., auto or home). For the calculation of this attribute, installment accounts include mortgages. Credit mix is a much less important category of credit data than late payments, total amount owed and length of credit history. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>FICO High Achievers have an average of 5 installment accounts.</p>",
+                "value": "1",
+                "valueType": "Integer"
+              },
+              "numberOfBankIssuedCreditCard": {
+                "displayName": "Bank-Issued Credit Card Accounts",
+                "description": "Number of credit cards being used or reported",
+                "helpText": "FICO<sup>&reg;</sup> Scores evaluate the mix of different types of credit being used or reported. Bank-issued credit card accounts are a subset of revolving accounts. Credit mix is a much less important category of credit data than late payments, total amount owed and length of credit history. <p> Authorized user accounts aren't considered in the calculation of this attribute. </p> <p>FICO High Achievers have an average of 7 credit cards.</p>",
+                "value": "24",
+                "valueType": "Integer"
+              }
+            },
+            "displayName": "credit_mix",
+            "description": "What types of credit you're using",
+            "helpText": "FICO<sup>&reg;</sup> Scores consider the different types of credit accounts being used or reported, including credit cards, retail accounts, installment loans and mortgage loans. Your credit mix will be more important if your credit report doesn't have a lot of other information to base a FICO Score on."
+          }
+        }
+      },
+      "scoreUnderstanding": {
+        "negativeReasonCodes": [
+          {
+            "title": "High credit usage",
+            "heading": "You've made heavy use of your available revolving credit.",
+            "explanation": "The FICO<sup>&reg;</sup> Score evaluates balances in relation to available credit on revolving accounts\n        <a href=\"#\" class=\"help\" title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit.<p> In older versions of the FICO&reg; Score (versions prior to FICO&reg; Score 8), open-ended accounts may be included in this calculation. Open-ended accounts are those requiring payment of the full balance each month, such as an American Express charge card account.</p>\">[?]</a>. \n        The extent of a person's credit usage is one of the most important factors considered by  a FICO<sup>&reg;</sup> Score. People who keep their ratio of balances to credit limits lower are generally considered less risky to lenders than those with higher ratios. \n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": [
+              {
+                "label": "Ratio of your revolving balances to your credit limits",
+                "data": "38%",
+                "comparison": "For FICO High Achievers <a href=\"#\" class=\"help\" title=\"FICO&reg; High Achievers are people who have a FICO&reg; score of 785 or higher. You can compare how you are doing with the FICO&reg; High Achievers to find areas that you can work on.\">[?]</a>, the average ratio of the revolving account balances to credit limits is less than 7%."
+              }
+            ]
+          },
+          {
+            "title": "Short account history",
+            "heading": "You have a short credit history.",
+            "explanation": "People with longer credit histories who infrequently open new accounts generally pose less risk to lenders. In your case, the age of your oldest account and/or the average age of your accounts is relatively low.",
+            "dataPoints": [
+              {
+                "label": "Your oldest account was opened",
+                "data": "18 Years, 8 Months ago",
+                "comparison": "FICO High Achievers <a href=\"#\" class=\"help\" title=\"FICO&reg; High Achievers are people who have a FICO&reg; score of 785 or higher. You can compare how you are doing with the FICO&reg; High Achievers to find areas that you can work on.\">[?]</a> opened their oldest account 25 years ago, on average."
+              },
+              {
+                "label": "Average age of your accounts",
+                "data": "6 Years, 5 Months ",
+                "comparison": "Most FICO High Achievers <a href=\"#\" class=\"help\" title=\"FICO&reg; High Achievers are people who have a FICO&reg; score of 785 or higher. You can compare how you are doing with the FICO&reg; High Achievers to find areas that you can work on.\">[?]</a> have an average age of accounts of 9 years or more."
+              }
+            ]
+          },
+          {
+            "title": "No loan activity",
+            "heading": "You have no recent activity from a non-mortgage installment loan.",
+            "explanation": "Your credit report shows no recent non-mortgage loans (such as auto or student loans) or sufficient recent information about your loans. Having a loan along with other types of credit demonstrates that a person is able to manage a variety of credit types.",
+            "dataPoints": []
+          }
+        ],
+        "positiveReasonCodes": [
+          {
+            "title": "No missed payments",
+            "heading": "You have no missed payments on your credit accounts.",
+            "explanation": "The FICO<sup>&reg;</sup> Score evaluates if there are any missed payments being reported. Staying current and paying bills on time demonstrate lower credit risk.",
+            "dataPoints": [
+              {
+                "label": "Number of your accounts with a missed payment or derogatory description",
+                "data": "0 accounts",
+                "comparison": "About 98% of FICO High Achievers <a href=\"#\" class=\"help\" title=\"FICO&reg; High Achievers are people who have a FICO&reg; score of 785 or higher. You can compare how you are doing with the FICO&reg; High Achievers to find areas that you can work on.\">[?]</a> have no missed payments at all. But of those who do, the missed payment happened nearly 4 years ago, on average."
+              }
+            ]
+          },
+          {
+            "title": "Many accounts paid on time",
+            "heading": "You have many accounts that are in good standing.",
+            "explanation": "FICO<sup>&reg;</sup> Scores consider the number of accounts that are being paid as agreed - in your case this number is high. Staying current and paying bills on time demonstrates lower risk.",
+            "dataPoints": [
+              {
+                "label": "Number of your accounts currently being paid as agreed",
+                "data": "17 accounts",
+                "comparison": "FICO High Achievers <a href=\"#\" class=\"help\" title=\"FICO&reg; High Achievers are people who have a FICO&reg; score of 785 or higher. You can compare how you are doing with the FICO&reg; High Achievers to find areas that you can work on.\">[?]</a> have an average of 6 accounts currently being paid as agreed."
+              }
+            ]
+          },
+          {
+            "title": "Not seeking credit",
+            "heading": "You're not actively looking for credit.",
+            "explanation": "Each time a person applies for credit, a credit inquiry is usually added to your credit report. Your credit report shows relatively few or no recent credit inquiries, which indicates that you are not actively looking for credit. People who are actively seeking credit pose more of a risk to lenders than those who are not.",
+            "dataPoints": [
+              {
+                "label": "Your applications for credit in the past year",
+                "data": "0 inquiries",
+                "comparison": "About 70% of FICO High Achievers <a href=\"#\" class=\"help\" title=\"FICO&reg; High Achievers are people who have a FICO&reg; score of 785 or higher. You can compare how you are doing with the FICO&reg; High Achievers to find areas that you can work on.\">[?]</a> did not apply for credit in the past year."
+              }
+            ]
+          }
+        ]
+      },
+      "scoreDistributionPercentile": 42,
+      "scoreSummaryDescription": "Your score is near or slightly above the average of U.S. consumers and most lenders consider this a good score.",
+      "lenderView": "<p>A FICO<sup>&reg;</sup> Score of 685 is near or slightly above average. Keep in mind, however, that many lenders consider scores in this range as good. Based on your score alone, you might expect the following:</p>\n        <ul>\n          <li>A wide array of loans and credit products will likely be available to you.</li>\n          <li>Most lenders will consider offering you very competitive rates and terms on loans.</li>\n          <li>Some lenders may require additional information, such as income or time at job, to help them more accurately set the terms of your loan.</li>\n        </ul>",
+      "sourceId": "201903251843474577"
+    },
+    {
+      "id": "9761265b386641ae88d20cafd060fa19",
+      "bureau": "Experian",
+      "scoreType": "Mortgage",
+      "brand": "FICO",
+      "scoreVersion": "2",
+      "score": 719,
+      "scoreText": "719",
+      "unscorable": false,
+      "scoreDate": "2019-03-25T18:43:50.3805770Z",
+      "createDate": "2019-03-25T18:43:50.3280000Z",
+      "scoreRating": "Good",
+      "scoreIngredients": null,
+      "scoreUnderstanding": {
+        "negativeReasonCodes": [
+          {
+            "title": "High credit usage",
+            "heading": "You've made heavy use of your available revolving credit.",
+            "explanation": "The FICO<sup>&reg;</sup> Score evaluates balances in relation to available credit on revolving accounts\n        <a href=\"#\" class=\"help\" title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit.<p> In older versions of the FICO&reg; Score (versions prior to FICO&reg; Score 8), open-ended accounts may be included in this calculation. Open-ended accounts are those requiring payment of the full balance each month, such as an American Express charge card account.</p>\">[?]</a>. \n        The extent of a person's credit usage is one of the most important factors considered by  a FICO<sup>&reg;</sup> Score. People who keep their ratio of balances to credit limits lower are generally considered less risky to lenders than those with higher ratios. \n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          },
+          {
+            "title": "Many new accounts",
+            "heading": "You've recently opened too many new credit accounts.",
+            "explanation": "The FICO<sup>&reg;</sup> Score considers the number of recent credit account openings. Opening several credit accounts in a short time period is reflective of greater risk - especially for people with shorter credit histories.",
+            "dataPoints": null
+          },
+          {
+            "title": "Short account history",
+            "heading": "You have a short credit history.",
+            "explanation": "People with longer credit histories who infrequently open new accounts generally pose less risk to lenders. In your case, the age of your oldest account and/or the average age of your accounts is relatively low.",
+            "dataPoints": null
+          },
+          {
+            "title": "Seeking credit",
+            "heading": "You've recently been looking for credit.",
+            "explanation": "Each time you apply for credit a credit inquiry is added to your credit report. People who are actively seeking credit pose more of a risk to lenders than those who are not. Your FICO<sup>&reg;</sup> Score was lowered due to the number of credit inquiries posted within the last 12 months.\n      <p>While being considered by the score, typically, the presence of inquiries on a credit file carries much less importance than late payments, the amount owed and the length of time credit has been established. </p>",
+            "dataPoints": null
+          }
+        ],
+        "positiveReasonCodes": null
+      },
+      "scoreDistributionPercentile": 0,
+      "scoreSummaryDescription": null,
+      "lenderView": null,
+      "sourceId": "201903251843474577"
+    },
+    {
+      "id": "e645caf461304338a0131b68094700c8",
+      "bureau": "Experian",
+      "scoreType": "BankCard",
+      "brand": "FICO",
+      "scoreVersion": "3",
+      "score": 729,
+      "scoreText": "729",
+      "unscorable": false,
+      "scoreDate": "2019-03-25T18:43:50.3805770Z",
+      "createDate": "2019-03-25T18:43:50.3280000Z",
+      "scoreRating": "Good",
+      "scoreIngredients": null,
+      "scoreUnderstanding": {
+        "negativeReasonCodes": [
+          {
+            "title": "High credit usage",
+            "heading": "You've made heavy use of your available revolving credit.",
+            "explanation": "The FICO<sup>&reg;</sup> Score evaluates balances in relation to available credit on revolving accounts\n        <a href=\"#\" class=\"help\" title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit.<p> In older versions of the FICO&reg; Score (versions prior to FICO&reg; Score 8), open-ended accounts may be included in this calculation. Open-ended accounts are those requiring payment of the full balance each month, such as an American Express charge card account.</p>\">[?]</a>. \n        The extent of a person's credit usage is one of the most important factors considered by  a FICO<sup>&reg;</sup> Score. People who keep their ratio of balances to credit limits lower are generally considered less risky to lenders than those with higher ratios. \n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          },
+          {
+            "title": "Accounts with balances",
+            "heading": "You have too many credit accounts with balances.",
+            "explanation": "The FICO<sup>&reg;</sup> Score considers the number of accounts on a credit report showing a balance.\n      <p>Generally speaking, carrying fewer accounts with balances is considered less risky.</p>\n      <p>Your credit report may show a balance on credit cards even if they're paid in full each month. The total balance of the last statement is typically the amount shown on a credit report.</p>",
+            "dataPoints": null
+          },
+          {
+            "title": "New account",
+            "heading": "You opened a new credit account relatively recently.",
+            "explanation": "The FICO<sup>&reg;</sup> Score considers how recently a new credit account was opened. People who recently opened a  credit account are generally more risky to lenders compared to people with no recently opened accounts.",
+            "dataPoints": null
+          },
+          {
+            "title": "High revolving balances",
+            "heading": "The amount owed on your revolving and/or open-ended accounts is too high.",
+            "explanation": "FICO<sup>&reg;</sup> Scores evaluate how much is owed on revolving and/or open-ended accounts<a href=\"#\" class=\"help\" \n        title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit. Open-ended accounts are those\n        requiring payment of the full balance each month, such as an American Express charge card account.\">[?]</a>, such as credit cards. Generally, the more owed on these accounts, the greater the risk posed to lenders.\n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          }
+        ],
+        "positiveReasonCodes": null
+      },
+      "scoreDistributionPercentile": 0,
+      "scoreSummaryDescription": null,
+      "lenderView": null,
+      "sourceId": "201903251843474577"
+    },
+    {
+      "id": "712d481c90ad4b8ea1aa3bb48d8d1369",
+      "bureau": "Experian",
+      "scoreType": "BankCard",
+      "brand": "FICO",
+      "scoreVersion": "8",
+      "score": 674,
+      "scoreText": "674",
+      "unscorable": false,
+      "scoreDate": "2019-03-25T18:43:50.3805770Z",
+      "createDate": "2019-03-25T18:43:50.3280000Z",
+      "scoreRating": "Good",
+      "scoreIngredients": null,
+      "scoreUnderstanding": {
+        "negativeReasonCodes": [
+          {
+            "title": "High credit usage",
+            "heading": "You've made heavy use of your available revolving credit.",
+            "explanation": "The FICO<sup>&reg;</sup> Score evaluates balances in relation to available credit on revolving accounts\n        <a href=\"#\" class=\"help\" title=\"Revolving credit includes credit cards and other types of revolving credit such as revolving lines of credit.<p> In older versions of the FICO&reg; Score (versions prior to FICO&reg; Score 8), open-ended accounts may be included in this calculation. Open-ended accounts are those requiring payment of the full balance each month, such as an American Express charge card account.</p>\">[?]</a>. \n        The extent of a person's credit usage is one of the most important factors considered by  a FICO<sup>&reg;</sup> Score. People who keep their ratio of balances to credit limits lower are generally considered less risky to lenders than those with higher ratios. \n      <p>Note, consolidating or moving debt from one account to another will usually not change the total amount owed.</p>",
+            "dataPoints": null
+          },
+          {
+            "title": "No loan activity",
+            "heading": "You have no recent activity from a non-mortgage installment loan.",
+            "explanation": "Your credit report shows no recent non-mortgage loans (such as auto or student loans) or sufficient recent information about your loans. Having a loan along with other types of credit demonstrates that a person is able to manage a variety of credit types.",
+            "dataPoints": null
+          },
+          {
+            "title": "Short account history",
+            "heading": "You have a short credit history.",
+            "explanation": "People with longer credit histories who infrequently open new accounts generally pose less risk to lenders. In your case, the age of your oldest account and/or the average age of your accounts is relatively low.",
+            "dataPoints": null
+          },
+          {
+            "title": "New account",
+            "heading": "You opened a new credit account relatively recently.",
+            "explanation": "The FICO<sup>&reg;</sup> Score considers how recently a new credit account was opened. People who recently opened a  credit account are generally more risky to lenders compared to people with no recently opened accounts.",
+            "dataPoints": null
+          }
+        ],
+        "positiveReasonCodes": null
+      },
+      "scoreDistributionPercentile": 0,
+      "scoreSummaryDescription": null,
+      "lenderView": null,
+      "sourceId": "201903251843474577"
+    }
+  ],
+  "transUnion": [],
+  "equifax": []
+}

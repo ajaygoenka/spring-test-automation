@@ -1,0 +1,92 @@
+{
+    "customerId": "{{jsonPath request.body '$.customerId'}}",
+    "benefits": [
+        {
+            "id": "B18",
+            "name": "Positive Activity",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B24",
+            "name": "Prequalified Credit Card and Loan offers",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B25",
+            "name": "FICO<sup>®</sup> Score Tracker",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B10",
+            "name": "Experian Credit Monitoring and Alerts",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B14",
+            "name": "Experian Credit Monitoring Premium",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B19",
+            "name": "Dormant Account",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B20",
+            "name": "Credit Limit",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B21",
+            "name": "Credit Usage",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B22",
+            "name": "Credit Balance",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B4",
+            "name": "Experian FICO Score Monitoring",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B62",
+            "name": "Free Experian Credit Report and FICO<sup>®</sup> Score",
+            "display": true,
+            "indexInDisplay": 9999
+        }
+    ],
+    "terms": [
+        {
+            "price": "0.0",
+            "startDate": "{{now format='yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\''}}",
+            "description": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+            "termType": "Membership",
+            "priceAsDouble": 0.0
+        }
+    ],
+    "name": "Experian CreditWorks<sup>&#8480;</sup> Basic",
+    "packageName": "Experian CreditWorks<sup>&#8480;</sup> Basic",
+    "id": "4113ec17-e1d9-4746-99d4-e800e2afcc18",
+    "status": "A",
+    "showTermsAndCondition": false,
+    "activationDate": "{{now format='yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\''}}",
+    "config": {},
+    "additionalProperties": {},
+    "subscriptionHistoryId": "378c0cb1-6a93-4937-a29e-c30e4172a81a",
+    "billingHistory": [],
+    "productKey": "free_report_score_alerts_eiw_subscription",
+    "benefitIds": "B18,B24,B25,B10,B14,B19,B20,B21,B22,B4,B62"
+}

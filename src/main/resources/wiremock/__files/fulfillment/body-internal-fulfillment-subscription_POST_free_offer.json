@@ -1,0 +1,95 @@
+{
+    "benefits": [
+        {
+            "id": "B20",
+            "name": "Credit Limit",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B24",
+            "name": "Prequalified Credit Card and Loan offers",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B25",
+            "name": "FICO<sup>®</sup> Score Tracker",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B10",
+            "name": "Experian Credit Monitoring and Alerts",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B14",
+            "name": "Experian Credit Monitoring Premium",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B18",
+            "name": "Positive Activity",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B19",
+            "name": "Dormant Account",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B21",
+            "name": "Credit Usage",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B22",
+            "name": "Credit Balance",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B4",
+            "name": "Experian FICO Score Monitoring",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B62",
+            "name": "Free Experian Credit Report and FICO<sup>®</sup> Score",
+            "display": true,
+            "indexInDisplay": 9999
+        }
+    ],
+    "terms": [
+        {
+            "trialLength": 0,
+            "price": "0.0",
+            "startDate": "{{now format='yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\''}}",
+            "description": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+            "tax": "0.0",
+            "total": "0.0",
+            "termType": "Membership",
+            "metadata": {}
+        }
+    ],
+    "name": "Experian CreditWorks<sup>&#8480;</sup> Basic",
+    "offerGroupId": "f6675b97-4573-4456-a531-3e6b1d2c026e",
+    "packageName": "Experian CreditWorks<sup>&#8480;</sup> Basic",
+    "id": "23b1e481-d2ca-4cde-84ae-95fae9e2c1d9",
+    "disclaimer": "None",
+    "termsAndConditions": "<p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.</strong></p><p><strong>I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to:</strong></p><strong><ul><li>Provide my credit report (and/or credit score) to me for review while I have an account with ECS.</li><li>Notify me of other products and services that may be available to me through ECS or through unaffiliated third parties.</li><li>Notify me of credit opportunities and advertised credit offers.</li></ul></strong><p><strong>I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+    "config": {
+        "cardAuthRequired": false,
+        "authorizationAmt": "0.0"
+    },
+    "agentFriendlyTermsAndConditions": "Do you authorize ConsumerInfo.com Inc., an Experian company, to obtain your credit report in order to provide it to you?(Customer must respond in the affirmitive)",
+    "paymentRequired": false,
+    "next": "continue"
+}

@@ -1,0 +1,296 @@
+{
+    "offers": [
+        {
+            "additionalRequiredFields": "ssn",
+            "agentFriendlyTermsAndConditions": "Not available",
+            "benefits": [
+                {
+                    "id": "B2"
+                },
+                {
+                    "id": "B3"
+                },
+                {
+                    "id": "B4"
+                },
+                {
+                    "id": "B5"
+                },
+                {
+                    "id": "B8"
+                },
+                {
+                    "id": "B12"
+                },
+                {
+                    "id": "B17"
+                },
+                {
+                    "id": "B18"
+                },
+                {
+                    "id": "B19"
+                },
+                {
+                    "id": "B22"
+                },
+                {
+                    "id": "B25"
+                },
+                {
+                    "id": "B29"
+                },
+                {
+                    "id": "B31"
+                },
+                {
+                    "id": "B35"
+                },
+                {
+                    "id": "B48"
+                },
+                {
+                    "id": "B54"
+                },
+                {
+                    "id": "B55"
+                },
+                {
+                    "id": "B56"
+                },
+                {
+                    "id": "B57"
+                },
+                {
+                    "id": "B58"
+                },
+                {
+                    "id": "B59"
+                },
+                {
+                    "id": "B60"
+                },
+                {
+                    "id": "B61"
+                },
+                {
+                    "id": "B68"
+                },
+                {
+                    "id": "B75"
+                },
+                {
+                    "id": "B79"
+                },
+                {
+                    "id": "B85"
+                },
+                {
+                    "id": "B86"
+                },
+                {
+                    "id": "B88"
+                }
+            ],
+            "cardAuthRequired": true,
+            "client": "web",
+            "createDt": "2017-12-06T00:00:00",
+            "endDt": "2030-05-15T18:47:45.924Z",
+            "hasNegativeOptions": false,
+            "isDefault": false,
+            "isVerificationRequired": true,
+            "offerId": "1cdff5a2e7c54a6aa71e92131e42ffb5",
+            "offerName": "Experian IdentityWorks<sup>&#8480;</sup> Premium",
+            "offerType": "Base",
+            "overrideBenefits": true,
+            "overrideTerms": true,
+            "packageName": "Experian CreditWorks<sup>&#8480;</sup> Premium",
+            "placements": [
+                {
+                    "acceptText": "Submit Secure Order",
+                    "description": "Children Plan 3B Annual",
+                    "disclaimer": "Your card will be immediately charged a $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+                    "id": "default",
+                    "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged $<%immediate_price%> today and each year you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee.</p>",
+                    "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> for a total of $<%immediate_total%> today and each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time. Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>",
+                    "promoCodeTaxFreeTermsAndConditions": "<p>When you complete your order here, your credit card will be charged today for the first year of your Experian IdentityWorks<sup>&#8480;</sup> Premium membership. An introductory annual price of $<%promo_immediate_price%> will be applied to your membership for <%promo_period%>. After <%promo_period%> of membership, your credit card will be charged $<%immediate_price%> each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time . Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>",
+                    "promoCodeTermsAndConditions": "<p>When you complete your order here, your credit card will be charged today for the first year of your Experian IdentityWorks<sup>&#8480;</sup> Premium membership. An introductory annual price of $<%promo_immediate_price%> plus $<%promo_immediate_tax%> sales tax for a total of $<%promo_immediate_total%> will be applied to your membership for <%promo_period%>. After <%promo_period%> of membership, your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%> each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time . Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>"
+                },
+                {
+                    "acceptText": "Submit Secure Order",
+                    "benefits": [
+                        {
+                            "id": "B3",
+                            "name": "3-Bureau Credit Monitoring and Alerts"
+                        },
+                        {
+                            "id": "B61",
+                            "name": "Dark Web Internet Surveillance Alerts"
+                        },
+                        {
+                            "id": "B54",
+                            "name": "Financial Account Takeover Alerts"
+                        },
+                        {
+                            "id": "B56",
+                            "name": "Social Security Number Trace Alerts"
+                        },
+                        {
+                            "id": "B57",
+                            "name": "Change of Address Alerts"
+                        },
+                        {
+                            "id": "B58",
+                            "name": "Court Records and Booking Alerts"
+                        },
+                        {
+                            "id": "B59",
+                            "name": "Non-Credit Loan Alerts"
+                        },
+                        {
+                            "id": "B60",
+                            "name": "Sex Offender Registry Alerts"
+                        },
+                        {
+                            "id": "B55",
+                            "name": "Social network Monitoring Alerts"
+                        },
+                        {
+                            "id": "B17",
+                            "name": "Identity Validation Alerts"
+                        },
+                        {
+                            "id": "B35",
+                            "name": "Experian CreditLock with Alerts"
+                        },
+                        {
+                            "id": "B31",
+                            "name": "Up to $1 Million <a href=\"/#/insuranceSummaryOfBenefits\">Identity Theft Insurance</a>"
+                        },
+                        {
+                            "id": "B12",
+                            "name": "Dedicated Fraud Resolution Support"
+                        },
+                        {
+                            "id": "B68",
+                            "name": "Lost Wallet Assistance"
+                        },
+                        {
+                            "id": "B50",
+                            "name": "Quarterly 3-Bureau Report & FICO<sup>&reg;</sup> Scores"
+                        },
+                        {
+                            "id": "B51",
+                            "name": "Daily Experian Credit Report & FICO<sup>&reg;</sup> Scores"
+                        },
+                        {
+                            "id": "B25",
+                            "name": "FICO<sup>&reg;</sup> Score Tracker"
+                        },
+                        {
+                            "id": "B79",
+                            "name": "Child Identity Protection"
+                        }
+                    ],
+                    "billingPeriod": "year",
+                    "disclaimer": "Your card will be immediately charged a $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+                    "id": "shoppingCart",
+                    "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged $<%immediate_price%> today and each year you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee.</p>",
+                    "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> for a total of $<%immediate_total%> today and each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time. Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>",
+                    "retailPrice": "eiwpa103:239.88,eiwpa104:239.88,eiwpa105:239.88",
+                    "promoCodeTaxFreeTermsAndConditions": "<p>When you complete your order here, your credit card will be charged today for the first year of your Experian IdentityWorks<sup>&#8480;</sup> Premium membership. An introductory annual price of $<%promo_immediate_price%> will be applied to your membership for <%promo_period%>. After <%promo_period%> of membership, your credit card will be charged $<%immediate_price%> each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time . Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>",
+                    "promoCodeTermsAndConditions": "<p>When you complete your order here, your credit card will be charged today for the first year of your Experian IdentityWorks<sup>&#8480;</sup> Premium membership. An introductory annual price of $<%promo_immediate_price%> plus $<%promo_immediate_tax%> sales tax for a total of $<%promo_immediate_total%> will be applied to your membership for <%promo_period%>. After <%promo_period%> of membership, your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%> each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time . Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>"
+                },
+                {
+                    "acceptText": "Yes, start protecting my family",
+                    "headline": "Welcome back! Would you like to complete your enrollment in an IdentityWorks<sup>&#8480;</sup> family plan?",
+                    "id": "offerIntercept",
+                    "image": "monitoredInfoPreview",
+                    "subheader": "Get identity theft protection for yourself and up to 10 children for just $<%immediate_price%> each year.",
+                    "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged $<%immediate_price%> today and each year you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee.</p>",
+                    "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> for a total of $<%immediate_total%> today and each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time. Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>",
+                    "promoCodeTaxFreeTermsAndConditions": "<p>When you complete your order here, your credit card will be charged today for the first year of your Experian IdentityWorks<sup>&#8480;</sup> Premium membership. An introductory annual price of $<%promo_immediate_price%> will be applied to your membership for <%promo_period%>. After <%promo_period%> of membership, your credit card will be charged $<%immediate_price%> each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time . Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>",
+                    "promoCodeTermsAndConditions": "<p>When you complete your order here, your credit card will be charged today for the first year of your Experian IdentityWorks<sup>&#8480;</sup> Premium membership. An introductory annual price of $<%promo_immediate_price%> plus $<%promo_immediate_tax%> sales tax for a total of $<%promo_immediate_total%> will be applied to your membership for <%promo_period%>. After <%promo_period%> of membership, your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%> each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time . Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>"
+                },
+                {
+                    "acceptText": "Submit Secure Order",
+                    "advertisingTerms": "<p>Better protect your identity and credit with advanced ID Theft Protection alerts and 3-bureau credit monitoring. Get the Experian IdentityWorks<sup>&#8480;</sup> Premium annual plan for just $<%immediate_price%> a year. You may cancel your membership at any time if not satisfied.</p>",
+                    "benefits": [
+                        {
+                            "id": "display",
+                            "name": "Your IdentityWorks<sup>&#8480;</sup> Premium membership"
+                        },
+                        {
+                            "id": "B79",
+                            "name": "Child Identity Protection"
+                        }
+                    ],
+                    "disclaimer": "Your card will be immediately charged a $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+                    "refundDisclaimer": "When you begin your membership in <%offer_name%>, you will end your <%current_subscription_name%> subscription. A pro-rated refund for the remaining days in your current subscription will be applied to the credit card used when purchasing <%current_subscription_name%>.",
+                    "headline": "Upgrade Your Account",
+                    "id": "familyUpgrade",
+                    "subheader": "Just $<%immediate_price%> each year. You may cancel anytime if not satisfied.",
+                    "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged $<%immediate_price%> today and each year you continue your membership. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee.</p>",
+                    "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian IdentityWorks<sup>&#8480;</sup> Premium. Your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> for a total of $<%immediate_total%> today and each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time. Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>",
+                    "retailPrice": "eiwpa103:239.88,eiwpa104:239.88,eiwpa105:239.88",
+                    "promoCodeTaxFreeTermsAndConditions": "<p>When you complete your order here, your credit card will be charged today for the first year of your Experian IdentityWorks<sup>&#8480;</sup> Premium membership. An introductory annual price of $<%promo_immediate_price%> will be applied to your membership for <%promo_period%>. After <%promo_period%> of membership, your credit card will be charged $<%immediate_price%> each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time . Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>",
+                    "promoCodeTermsAndConditions": "<p>When you complete your order here, your credit card will be charged today for the first year of your Experian IdentityWorks<sup>&#8480;</sup> Premium membership. An introductory annual price of $<%promo_immediate_price%> plus $<%promo_immediate_tax%> sales tax for a total of $<%promo_immediate_total%> will be applied to your membership for <%promo_period%>. After <%promo_period%> of membership, your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%> each year you continue your membership. You may cancel your membership and stop the annual billing by <a href=\"#/contactUs\">contacting us</a> at any time . Cancellations taking place within your first <%money_back_days%> days of membership or within the first <%money_back_days%> days after your annual membership renewal are eligible for a full refund of that year's paid membership fee. All cancellations taking place more than <%money_back_days%> days after you make any annual membership fee payment are not eligible for a full or pro-rated refund of that year's paid membership fee. </p>"
+                }
+            ],
+            "population": "subscriber_default",
+            "productKey": "eiw_premium_annual_money_back_30_childsecure_identity_subscription",
+            "requiredFieldSet": "Standard Credit",
+            "startDt": "2016-02-03T18:47:45.924Z",
+            "status": "active",
+            "tags": [
+                {
+                    "name": "tt_eiwpacmbg100",
+                    "type": "test_n_target"
+                },
+                {
+                    "name": "at_eiwpacmbg100",
+                    "type": "acquisition"
+                },
+                {
+                    "name": "et_eiwpacmbg100",
+                    "type": "exact_target"
+                },
+                {
+                    "name": "ia_eiwpacmbg100",
+                    "type": "in_app"
+                }
+            ],
+            "terms": [
+                {
+                    "termId": "0",
+                    "billingPeriod": "Immediate",
+                    "description": "Just $249.99 each year.  You may cancel anytime if not satisfied.",
+                    "frequency": "Single",
+                    "percentage": 0,
+                    "price": 249.99,
+                    "trialLength": 0,
+                    "skipDays": 0,
+                    "startDays": 0,
+                    "termType": "Membership"
+                },
+                {
+                    "termId": "1",
+                    "billingPeriod": "Annual",
+                    "description": "Just $249.99 each year.  You may cancel anytime if not satisfied.",
+                    "frequency": "Recurring",
+                    "percentage": 0,
+                    "price": 249.99,
+                    "trialLength": 0,
+                    "skipDays": 0,
+                    "startDays": 365,
+                    "termType": "Membership"
+                }
+            ],
+            "updateDt": "2018-05-28T00:00:00.136Z",
+            "additionalProperties": {
+                "description": "Children Plan 3B Annual"
+            },
+            "description": "Children Plan 3B Annual"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "id" : "8ed67675-e347-3443-8285-37a10a31a393",
+  "request" : {
+    "url" : "/api/credit/score?filter=sourceprocessrecordid&values=5204e786-56cf-4a0b-9ff9-ebf88184ec3e",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "credit/body-api-credit-score-experian.json",
+    "headers" : {
+      "Date" : "Tue, 02 Jul 2019 16:14:17 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "Cache-Control" : "private, no-cache, no-store, must-revalidate",
+      "Expires" : "-1",
+      "Pragma" : "no-cache",
+      "server" : "Kestrel"
+    }
+  },
+  "uuid" : "8ed67675-e347-3443-8285-37a10a31a393"
+}

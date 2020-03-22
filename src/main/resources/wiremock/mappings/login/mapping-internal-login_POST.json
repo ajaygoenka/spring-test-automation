@@ -1,0 +1,23 @@
+{
+  "id" : "2b3ed49b-7add-313e-8d61-f9a578c5db4b",
+  "request" : {
+    "url" : "/internal/login",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"outbound\":false}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "login/body-internal-login_POST.json",
+    "transformers": [
+      "response-template"
+    ],
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "2b3ed49b-7add-313e-8d61-f9a578c5db4b"
+}

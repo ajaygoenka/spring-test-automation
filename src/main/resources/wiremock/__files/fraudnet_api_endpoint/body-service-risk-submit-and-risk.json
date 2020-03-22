@@ -1,0 +1,114 @@
+{
+  "response": {
+    "id": "71623e17-016a-4f84-b2a8-593b0ae02da0",
+    "modelCode": "ATOWEB",
+    "modelVersion": 100944,
+    "orgCode": "ECSNA",
+    "time": "2019-05-07T17:50:12.208Z",
+    "score": 30000,
+    "deviceId": "30A142197676A94C6392A4EDE75246B50E834BB3",
+    "systemResponse": "INVESTIGATE",
+    "fulfillmentAction": "WAIT",
+    "auditTrail": [
+      {
+        "code": "VXIDUFPCX1",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "UFPCX1",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "UFIPA",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "UFIPB",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "UFACCENC",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "UFIP1",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "UFPC1",
+        "ruleScore": 15000,
+        "ruleAction": "SUSPECT"
+      },
+      {
+        "code": "UFIPC",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "FIRXID",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "VXIDPCUFIPX1",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "NULCB",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "NULJS",
+        "ruleScore": 15000,
+        "ruleAction": "REJECT"
+      },
+      {
+        "code": "NULOS",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "NULRESFILE",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "NULTP",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      },
+      {
+        "code": "CUSNW",
+        "ruleScore": 0,
+        "ruleAction": "NOTE"
+      }
+    ],
+    "riskLevel": "HIGH"
+  },
+  "warnings": [
+    {
+      "path": "event.userAccount.username",
+      "message": "may not be null"
+    },
+    {
+      "path": "event.device.jsc",
+      "message": "may not be null"
+    },
+    {
+      "path": "event.contacts[0].address",
+      "message": "is not a valid postal or country code"
+    },
+    {
+      "path": "event.contacts[0].address.countryCode",
+      "message": "may not be null"
+    }
+  ]
+}

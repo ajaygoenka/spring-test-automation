@@ -1,0 +1,23 @@
+{
+  "id" : "1fabe6a8-a9f3-3ba3-81e9-3b6d704af204",
+  "request" : {
+    "url" : "/api/credit/score?filter=sourceprocessrecordid&values=58a6fdf0-62ae-43ef-8a35-dc092378f4e5",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "credit/body-api-credit-score-transunion.json",
+    "headers" : {
+      "Date" : "Tue, 02 Jul 2019 16:14:23 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "Cache-Control" : "private, no-cache, no-store, must-revalidate",
+      "Expires" : "-1",
+      "Pragma" : "no-cache",
+      "server" : "Kestrel"
+    }
+  },
+  "uuid" : "1fabe6a8-a9f3-3ba3-81e9-3b6d704af204"
+}

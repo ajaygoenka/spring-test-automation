@@ -1,0 +1,27 @@
+{
+  "id" : "1733bcb0-624b-37ac-8b02-4fc62cd57f39",
+  "request" : {
+    "url" : "/internal/login/byusername",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "contains" : "invalid_UserName",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 404,
+    "bodyFileName" : "login/body-internal-login-byusername_POST_invalid_username.json",
+    "headers" : {
+      "Date" : "Sat, 09 Mar 2019 23:53:55 GMT",
+      "Content-Type" : "application/json",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-cache, no-store, max-age=0, must-revalidate",
+      "pragma" : "no-cache",
+      "expires" : "0",
+      "x-application-context" : "application:8080"
+    }
+  },
+  "uuid" : "1733bcb0-624b-37ac-8b02-4fc62cd57f39"
+}

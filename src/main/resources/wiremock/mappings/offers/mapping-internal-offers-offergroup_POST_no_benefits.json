@@ -1,0 +1,27 @@
+{
+  "id" : "8e6a57d5-5261-3b70-ad7a-f7e60976a51f",
+  "request" : {
+    "url" : "/internal/offers/offergroup",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"offerIds\":[\"51206642ab0a463b8b45b72a5f779779\"]}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "offers/body-internal-offers-offergroup_POST_no_benefits.json",
+    "headers" : {
+      "Date" : "Sun, 10 Feb 2019 22:39:23 GMT",
+      "Content-Type" : "application/json",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-cache, no-store, max-age=0, must-revalidate",
+      "pragma" : "no-cache",
+      "expires" : "0",
+      "x-application-context" : "eipi-offers:development:8080"
+    }
+  },
+  "uuid" : "8e6a57d5-5261-3b70-ad7a-f7e60976a51f"
+}

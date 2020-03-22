@@ -1,0 +1,62 @@
+{
+    "verifyLevel": "Verified",
+    "fields": [
+        {
+            "id": "",
+            "label": "",
+            "content": "5106 Church Dr"
+        },
+        {
+            "id": "",
+            "label": "",
+            "content": ""
+        },
+        {
+            "id": "",
+            "label": "",
+            "content": ""
+        },
+        {
+            "id": "City name",
+            "label": "City name",
+            "content": "Charleston"
+        },
+        {
+            "id": "State code",
+            "label": "State code",
+            "content": "WV"
+        },
+        {
+            "id": "ZIP Code, +4 code",
+            "label": "ZIP Code, +4 code",
+            "content": "25306-6216"
+        },
+        {
+            "id": "Country",
+            "label": "Country",
+            "content": "United States of America"
+        },
+        {
+            "id": "street",
+            "label": "Street",
+            "content": "5106 CHURCH DR"
+        }
+    ],
+    "prompt": null,
+    "results": [],
+    "currentAddress": {
+        "addressId": "43f828804c614911ae17f106db35d90b",
+        "streetType": null,
+        "street": "5106 CHURCH DR",
+        "line2": null,
+        "city": "Charleston",
+        "state": "WV",
+        "zip": "25306",
+        "streetNum": null,
+        "streetName": null,
+        "aptNo": null,
+        "suiteName": null,
+        "predirectional": null,
+        "addressType": "CurrentAddress"
+    }
+}

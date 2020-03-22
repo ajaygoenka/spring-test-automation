@@ -1,0 +1,28 @@
+{
+  "id" : "557469ac-c4d2-37ef-b5bf-f2cc11feec23",
+  "request" : {
+    "url" : "/internal/billing2/subscription/cancel",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "matchesJsonPath" : "$.customerId",
+      "matchesJsonPath" : "$.subscriptionHistoryId",
+      "matchesJsonPath" : "$.cancelType",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "billing2/body-internal-billing2-subscription-cancel-wu96t.txt",
+    "headers" : {
+      "Date" : "Thu, 10 Jan 2019 23:23:01 GMT",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-cache, no-store, max-age=0, must-revalidate",
+      "pragma" : "no-cache",
+      "expires" : "0",
+      "x-application-context" : "application:8080"
+    }
+  },
+  "uuid" : "557469ac-c4d2-37ef-b5bf-f2cc11feec23"
+}

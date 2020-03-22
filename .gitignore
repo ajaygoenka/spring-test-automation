@@ -1,0 +1,14 @@
+# FAKE - F# Make
+.fake/
+
+
+# Ignore compiled files from auto
+/target
+
+# Common IDEA files
+.idea
+*.iml
+*.iws
+.idea/*.*
+/.idea
+

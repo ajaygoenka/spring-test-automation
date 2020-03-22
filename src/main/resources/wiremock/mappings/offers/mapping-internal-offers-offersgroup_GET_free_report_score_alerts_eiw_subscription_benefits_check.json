@@ -1,0 +1,24 @@
+{
+  "id" : "fbdc2912-4179-31a7-86fc-e34202fbb43a",
+  "request" : {
+    "url" : "/internal/offers/offersgroup/87f416d1-a859-4dbd-9296-2385d04c571c",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "offers/body-internal-offers-offersgroup_GET_free_report_score_alerts_eiw_subscription_benefits_check.json",
+
+    "headers" : {
+      "Date" : "Fri, 08 Feb 2019 17:02:49 GMT",
+      "Content-Type" : "application/json",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-cache, no-store, max-age=0, must-revalidate",
+      "pragma" : "no-cache",
+      "expires" : "0",
+      "x-application-context" : "eipi-offers:development:8080"
+    }
+  },
+  "uuid" : "fbdc2912-4179-31a7-86fc-e34202fbb43a"
+}

@@ -1,0 +1,28 @@
+{
+  "id" : "6cdb3ddf-ea1c-3443-8288-b44222188070",
+  "request" : {
+    "url" : "/api/credit/report/parse",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"bureau\":\"TRANSUNION\"}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "credit/body-api-credit-report-parse-transunion.json",
+    "headers" : {
+      "Date" : "Mon, 01 Jul 2019 16:43:40 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "Cache-Control" : "private, no-cache, no-store, must-revalidate",
+      "Expires" : "-1",
+      "Pragma" : "no-cache",
+      "server" : "Kestrel"
+    }
+  },
+  "uuid" : "6cdb3ddf-ea1c-3443-8288-b44222188070"
+}

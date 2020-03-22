@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "customerId": "5f61208d1d2b436285403904c9b94ee0",
+      "accountId": "10016846032463",
+      "name": {
+        "first": "JEFFREY",
+        "middle": null,
+        "last": "BOONE",
+        "suffix": null,
+        "title": null
+      },
+      "dob": "1990-01-01",
+      "accountStatus": "ACTIVE",
+      "authenticatedStatus": "yes",
+      "enrolledOn": "2017-02-02T02:03:25.886Z",
+      "leadingCustomerId": null,
+      "email": "{{jsonPath request.body '$.email'}}",
+      "phone": {
+        "area": "949",
+        "city": "567",
+        "number": "0000",
+        "ext": null,
+        "type": "Home"
+      }
+    }
+  ]
+}

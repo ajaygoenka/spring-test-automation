@@ -1,0 +1,22 @@
+{
+  "id": "2a0c2b9e-a53c-39cc-8e0d-99778038ab0a",
+  "request": {
+    "url": "/internal/offers/offergroup",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"offerIds\":[\"c3481396814c4c1aa440637dea8f3125\"]}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offergroup_POST_free_report_score_alerts_eiw_subscription.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "2a0c2b9e-a53c-39cc-8e0d-99778038ab0a"
+}

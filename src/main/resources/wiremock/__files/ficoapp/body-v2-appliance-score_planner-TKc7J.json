@@ -1,0 +1,41 @@
+{
+  "original_score": 669,
+  "target_score": 704,
+  "target_duration": 6,
+  "simulated_score": 704,
+  "simulated_duration": 6,
+  "statement": {
+    "code": "MS101",
+    "text": "A target FICO<sup>&reg;</sup> Score 8 of 704 could be met within 6 months with the following actions:",
+    "actions": [
+      {
+        "code": "AC033",
+        "text": "Pay down $637 of your total revolving/open account balances of $6,373 every month for 6 months."
+      },
+      {
+        "code": "AC011",
+        "text": "Pay all your bills on time for 6 months."
+      },
+      {
+        "code": "AC213",
+        "text": "Stay current on your payments so that your most recent delinquency ages to 10 months."
+      },
+      {
+        "code": "AC230",
+        "text": "Do not open any new accounts, so that the time since your most recently opened account ages to 1 year, 6 months."
+      },
+      {
+        "code": "AC214",
+        "text": "Do not open any new accounts, so that your average length of established history ages to 5 years, 2 months."
+      },
+      {
+        "code": "AC101",
+        "text": "Continue to make your monthly installment loan payments on time to reduce the total installment loan balances of $69,428 you owe."
+      },
+      {
+        "code": "AC057",
+        "text": "Do not apply for any new credit."
+      }
+    ]
+  }
+}

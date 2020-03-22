@@ -1,0 +1,16 @@
+{
+  "id" : "07ab23f3-e0e0-3915-b8dc-fa8c569203f2",
+  "request" : {
+    "url" : "/service/risk/submit-and-risk",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "fraudnet_api_endpoint/body-service-risk-submit-and-risk.json",
+    "headers" : {
+      "Date" : "Tue, 07 May 2019 17:50:13 GMT",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "07ab23f3-e0e0-3915-b8dc-fa8c569203f2"
+}

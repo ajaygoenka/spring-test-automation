@@ -1,0 +1,262 @@
+<NetConnectResponse xmlns="http://www.experian.com/NetConnectResponse">
+    <CompletionCode>0000</CompletionCode>
+    <ReferenceId>95b4a213b66245b996474f00c2cd6d15</ReferenceId>
+    <Products>
+        <PreciseIDServer>
+            <XMLVersion>05</XMLVersion>
+            <SessionID>897H3F9IG5FPMG4P9RNJ0ADN.pidd2v-190425180451333629312</SessionID>
+            <Header>
+                <ReportDate>04252019</ReportDate>
+                <ReportTime>180452</ReportTime>
+                <Preamble>TCA1</Preamble>
+                <ReferenceNumber>95b4a213b66245b996474f00c2cd6d</ReferenceNumber>
+            </Header>
+            <Messages/>
+            <Summary>
+                <ReviewReferenceID>58327486</ReviewReferenceID>
+                <PreciseIDType>20</PreciseIDType>
+                <InitialResults>
+                    <InitialDecision>REF</InitialDecision>
+                    <FinalDecision>REF</FinalDecision>
+                </InitialResults>
+                <CrossReferenceIndicatorsGrid>
+                    <FullNameVerifiesToAddress code="NM"/>
+                    <FullNameVerifiesToSSN code="MA"/>
+                    <FullNameVerifiesToDL code="NM"/>
+                    <FullNameVerifiesToPhone code="NM"/>
+                    <SurnameOnlyVerifiesToAddress code="NM"/>
+                    <SurnameOnlyVerifiesToSSN code="NM"/>
+                    <SurnameOnlyVerifiesToDL code="NM"/>
+                    <SurnameOnlyVerifiesToPhone code="NM"/>
+                    <AddressVerifiesToFullName code="NM"/>
+                    <AddressVerifiesToSurnameOnly code="NM"/>
+                    <AddressVerifiesToSSN code="NM"/>
+                    <AddressVerifiesToDL code="NM"/>
+                    <AddressVerifiesToPhone code="NM"/>
+                    <SSNVerifiesToFullName code="MA"/>
+                    <SSNVerifiesToSurnameOnly code="NM"/>
+                    <SSNVerifiesToAddress code="NM"/>
+                    <DLVerifiesToFullName code="NM"/>
+                    <DLVerifiesToSurnameOnly code="NM"/>
+                    <DLVerifiesToAddress code="NM"/>
+                    <PhoneVerifiesToFullName code="NM"/>
+                    <PhoneVerifiesToSurnameOnly code="NM"/>
+                    <PhoneVerifiesToAddress code="NM"/>
+                </CrossReferenceIndicatorsGrid>
+                <DateOfBirthMatch code="6"/>
+            </Summary>
+            <GLBDetail>
+                <CheckpointSummary>
+                    <PrimaryResultCode code="00"/>
+                    <BestPickAcceptDeny code="D"/>
+                    <AddrCode>ZZ</AddrCode>
+                    <PhnCode>EF</PhnCode>
+                    <AddrTypeCode>N</AddrTypeCode>
+                    <COACode>N</COACode>
+                    <SSNCode>Y</SSNCode>
+                    <AddrUnitMismatchCode/>
+                    <PhnUnitMismatchCode/>
+                    <DLResultCode>M</DLResultCode>
+                    <DateOfBirthMatch>6</DateOfBirthMatch>
+                    <HighRiskAddrCode>N</HighRiskAddrCode>
+                    <HighRiskPhoneCode>N</HighRiskPhoneCode>
+                    <OFACValidationResult>1</OFACValidationResult>
+                    <AddrResMatches>0000</AddrResMatches>
+                    <AddrBusMatches>0000</AddrBusMatches>
+                    <PhnResMatches>0001</PhnResMatches>
+                    <PhnBusMatches>0000</PhnBusMatches>
+                </CheckpointSummary>
+                <FraudShield>
+                    <FS01>Y</FS01>
+                    <FS02>N</FS02>
+                    <FS03>Y</FS03>
+                    <FS04>N</FS04>
+                    <FS05>N</FS05>
+                    <FS06>N</FS06>
+                    <FS10>N</FS10>
+                    <FS11>N</FS11>
+                    <FS13>N</FS13>
+                    <FS14>N</FS14>
+                    <FS15>N</FS15>
+                    <FS16>N</FS16>
+                    <FS17>N</FS17>
+                    <FS18>N</FS18>
+                    <FS21>Y</FS21>
+                    <FS25>N</FS25>
+                    <FS26>N</FS26>
+                </FraudShield>
+            </GLBDetail>
+            <Checkpoint>
+                <GeneralResults>
+                    <ProfileID>33MD484</ProfileID>
+                    <AccountInformation>58327486</AccountInformation>
+                    <Version>02</Version>
+                    <PrimaryResult code="00"/>
+                    <BestPickAcceptDeny code="D"/>
+                    <SourceFlag/>
+                    <CheckpointTemplate>STDADD</CheckpointTemplate>
+                    <NameFlipIndicator code=" "/>
+                    <AddressVerificationResult code="ZZ"/>
+                    <AddressUnitMismatchResult code="  "/>
+                    <PhoneVerificationResult code="EF"/>
+                    <PhoneUnitMismatchResult code="  "/>
+                    <AddressTypeResult code="N "/>
+                    <AddressVerificationResidentialMatches>0000</AddressVerificationResidentialMatches>
+                    <AddressVerificationBusinessMatches>0000</AddressVerificationBusinessMatches>
+                    <PhoneVerificationResidentialMatches>0001</PhoneVerificationResidentialMatches>
+                    <PhoneVerificationBusinessMatches>0000</PhoneVerificationBusinessMatches>
+                    <AddressHighRiskResult code="N "/>
+                    <PhoneHighRiskResult code="N "/>
+                    <COAResult code="N "/>
+                    <SSNResult code="Y "/>
+                    <EDABestPickScore/>
+                    <EDARecordsReturned/>
+                    <AcceptDeclineFlag code=" "/>
+                    <EDAResult code="NA"/>
+                    <CheckpointScore>349</CheckpointScore>
+                    <Result code="R"/>
+                    <AuditNumber>ede6b4c4-1534-43b5-9</AuditNumber>
+                    <ShortAuditNumber>429-bbcfe</ShortAuditNumber>
+                    <DriverLicenseResult code="M"/>
+                    <MonthOfBirth/>
+                    <DayOfBirth/>
+                    <YearOfBirth/>
+                    <DateOfBirthMatch code="6"/>
+                    <OFACResult code="1 "/>
+                    <StandardizedAddresRecordsReturned>00</StandardizedAddresRecordsReturned>
+                    <ResidentialAddressDetailRecordsReturned>00</ResidentialAddressDetailRecordsReturned>
+                    <BusinessAddressDetailRecordsReturned>00</BusinessAddressDetailRecordsReturned>
+                    <AddressHighRiskDetailRecordsReturned>00</AddressHighRiskDetailRecordsReturned>
+                    <AddressHighRiskDescriptionRecordsReturned>01</AddressHighRiskDescriptionRecordsReturned>
+                    <ResidentialPhoneDetailRecordsReturned>01</ResidentialPhoneDetailRecordsReturned>
+                    <BusinessPhoneDetailRecordsReturned>00</BusinessPhoneDetailRecordsReturned>
+                    <PhoneHighRiskDetailRecordsReturned>00</PhoneHighRiskDetailRecordsReturned>
+                    <PhoneHighRiskDescriptionRecordsReturned>01</PhoneHighRiskDescriptionRecordsReturned>
+                    <SSNAddressDetailRecordsReturned>01</SSNAddressDetailRecordsReturned>
+                    <ValidationSegmentsReturned>01</ValidationSegmentsReturned>
+                    <DriverLicenseSegmentsReturned>00</DriverLicenseSegmentsReturned>
+                    <OFACRecordSegmentsReturned>00</OFACRecordSegmentsReturned>
+                    <AuditRequestInformationRecordsReturned>00</AuditRequestInformationRecordsReturned>
+                    <COARecordsReturned>00</COARecordsReturned>
+                    <COADescriptionRecordsReturned>00</COADescriptionRecordsReturned>
+                    <PreviousAddressesReturned>02</PreviousAddressesReturned>
+                    <SSNFinderAddressesReturned>00</SSNFinderAddressesReturned>
+                </GeneralResults>
+                <ConsumerIDVerification>
+                    <Surname>PERSINGER</Surname>
+                    <FirstName>VERONICA</FirstName>
+                    <Initial/>
+                    <Address>6647 WILDFLOWER DR S</Address>
+                    <City>COTTAGE GROVE</City>
+                    <State>MN</State>
+                    <ZipCode>55016</ZipCode>
+                    <ZipPlus4>1727</ZipPlus4>
+                    <AreaCode>651</AreaCode>
+                    <Phone>4581155</Phone>
+                    <MonthOfBirth>07</MonthOfBirth>
+                    <DayOfBirth>09</DayOfBirth>
+                    <YearOfBirth>1942</YearOfBirth>
+                    <DateOfBirthMatchCode code="6"/>
+                    <ReportedDate>20040318</ReportedDate>
+                    <LastTouched>20050512</LastTouched>
+                </ConsumerIDVerification>
+                <AddressHighRiskDetail>
+                    <BusinessName/>
+                    <Address/>
+                    <City/>
+                    <State/>
+                    <ZipCode/>
+                    <ZipPlus4/>
+                    <AreaCode/>
+                    <Phone/>
+                </AddressHighRiskDetail>
+                <AddressHighRiskDescription>
+                    <HighRiskDescription>No high risk business at address/phone</HighRiskDescription>
+                </AddressHighRiskDescription>
+                <ResidentialPhoneDetail>
+                    <Surname>PERSINGER JR</Surname>
+                    <FirstName>VERONICA</FirstName>
+                    <Initial/>
+                    <Address>344 ROCKY KNOLL</Address>
+                    <City>QUAKING DEER PARK</City>
+                    <State>NH</State>
+                    <ZipCode>03152</ZipCode>
+                    <ZipPlus4>7237</ZipPlus4>
+                    <AreaCode>949</AreaCode>
+                    <Phone>3007122</Phone>
+                    <SpouseName/>
+                    <OtherHouseholdMemberName1>GEORGE</OtherHouseholdMemberName1>
+                    <OtherHouseholdMemberName2/>
+                    <OtherHouseholdMemberName3/>
+                    <LastTouched/>
+                    <MonthsAtResidence/>
+                </ResidentialPhoneDetail>
+                <PhoneHighRiskDetail>
+                    <BusinessName/>
+                    <Address/>
+                    <City/>
+                    <State/>
+                    <ZipCode/>
+                    <ZipPlus4/>
+                    <AreaCode/>
+                    <Phone/>
+                </PhoneHighRiskDetail>
+                <PhoneHighRiskDescription>
+                    <HighRiskDescription>No high risk business at address/phone</HighRiskDescription>
+                </PhoneHighRiskDescription>
+                <ChangeOfAddressDetail>
+                    <Name/>
+                    <Address/>
+                    <City/>
+                    <State/>
+                    <ZipCode/>
+                    <ZipPlus4/>
+                    <ReportedDate/>
+                    <LastTouched/>
+                </ChangeOfAddressDetail>
+                <ValidationSegment>
+                    <Surname>PERSINGER</Surname>
+                    <FirstName>VERONICA</FirstName>
+                    <MiddleInitial/>
+                    <SSN>666-32-5086</SSN>
+                    <SSNIssueState>MI</SSNIssueState>
+                    <SSNDeceased code="N"/>
+                    <SSNFormat code="V"/>
+                    <SSNIssueStartRange>1958</SSNIssueStartRange>
+                    <SSNIssueEndRange>1961</SSNIssueEndRange>
+                    <SSNIssueResultCode code="I"/>
+                    <DriversLicenseFormatValidation code=" "/>
+                    <OFACValidationResult code="1 "/>
+                </ValidationSegment>
+                <OFACRecordSegment>
+                    <OFACRecord/>
+                </OFACRecordSegment>
+                <PreviousAddressSegment>
+                    <Address>GENERAL DELIVERY</Address>
+                    <City>COTTAGE GROVE</City>
+                    <State>MN</State>
+                    <ZipCode>55016</ZipCode>
+                    <ZipPlus4>9999</ZipPlus4>
+                    <ReportedDate>20040715</ReportedDate>
+                    <LastUpdatedDate>20040715</LastUpdatedDate>
+                </PreviousAddressSegment>
+                <PreviousAddressSegment>
+                    <Address>7220 JORDON AVE S</Address>
+                    <City>COTTAGE GROVE</City>
+                    <State>MN</State>
+                    <ZipCode>55016</ZipCode>
+                    <ZipPlus4>3655</ZipPlus4>
+                    <ReportedDate>19990523</ReportedDate>
+                    <LastUpdatedDate>20030224</LastUpdatedDate>
+                </PreviousAddressSegment>
+            </Checkpoint>
+            <CCNumerics/>
+            <CCStrings>
+                <CCString5>C;;;</CCString5>
+            </CCStrings>
+            <EmailAddress>
+                <ValidationResultCode code="E700"/>
+            </EmailAddress>
+        </PreciseIDServer>
+    </Products>
+</NetConnectResponse>

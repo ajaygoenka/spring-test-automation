@@ -1,0 +1,22 @@
+{
+  "id": "f6aa4b71-bf42-3926-b04c-0f72231b23a8",
+  "request": {
+    "url": "/internal/offers/offergroup",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"offerIds\":[\"ddaf95bd7b3d4b219d07aadaf9d0928d\"]}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offergroup_POST_eiw_annual_bill_family_identity_subscription_199_99.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "f6aa4b71-bf42-3926-b04c-0f72231b23a8"
+}

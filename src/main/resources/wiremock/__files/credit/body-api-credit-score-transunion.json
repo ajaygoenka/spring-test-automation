@@ -1,0 +1,292 @@
+[
+  {
+    "score_id": "58a6fdf0-62ae-43ef-8a35-dc092378f4e5",
+    "bureau": "TransUnion",
+    "score_model": "Fico8",
+    "score": "787",
+    "score_rating": "Very Good",
+    "score_date": "2019-05-22T00:00:00.000+00:00",
+    "credit_score_factor": {
+      "factors": [
+        {
+          "sequence": "0",
+          "code": "003",
+          "value": "",
+          "is_positive": "False"
+        },
+        {
+          "sequence": "1",
+          "code": "010",
+          "value": "",
+          "is_positive": "False"
+        },
+        {
+          "sequence": "2",
+          "code": "005",
+          "value": "",
+          "is_positive": "False"
+        },
+        {
+          "sequence": "3",
+          "code": "014",
+          "value": "",
+          "is_positive": "False"
+        }
+      ]
+    },
+    "credit_score_content": {
+      "content": {
+        "bureau": "TransUnion",
+        "score": 787,
+        "score_date": "2019-05-22T13:55:31.000+00:00",
+        "score_rating": "Very Good",
+        "score_ingredients": {
+          "payment_history_rating": 4.86,
+          "payment_history_rating_name": "Exceptional",
+          "amount_of_debt_rating": 2.67,
+          "amount_of_debt_rating_name": "Good",
+          "credit_history_length_rating": 4.5,
+          "credit_history_length_rating_name": "Exceptional",
+          "amount_of_new_credit_rating": 3.33,
+          "amount_of_new_credit_rating_name": "Good",
+          "credit_mix_rating": 4.0,
+          "credit_mix_rating_name": "Very Good",
+          "attributes": {
+            "payment_history": {
+              "display_name": "payment_history",
+              "description": "Your history of paying bills on time",
+              "help_text": "How you've paid your bills in the past—whether you've paid on time or late, or missed payments—is a very important category of credit data for the FICO® Score. The more severe, recent and frequent the late payment information, the greater the impact on a FICO Score.",
+              "attributes": {
+                "late_payment_30plus": {
+                  "display_name": "Late Payments 30+ Days",
+                  "description": "Number of your accounts that were ever 30 or more days late, or have a derogatory indicator",
+                  "help_text": "A reported missed payment or negative description which indicates that an account has not been paid as agreed. Authorized user accounts aren't considered in the calculation of this attribute. About 98% of FICO High Achievers have no missed payments at all.",
+                  "value": "0",
+                  "value_type": "Integer"
+                },
+                "late_payment_60plus": {
+                  "display_name": "Late Payments 60+ Days",
+                  "description": "Number of your accounts that were ever 60 or more days late, or have a derogatory indicator",
+                  "help_text": "A reported missed payment or negative description which indicates that an account has not been paid as agreed. Authorized user accounts aren't considered in the calculation of this attribute. Virtually no FICO High Achievers have a 60 days late payment or worse listed on their credit report.",
+                  "value": "0",
+                  "value_type": "Integer"
+                },
+                "derogatory_record": {
+                  "display_name": "Derogatory Public Records",
+                  "description": "Number of derogatory public records on your credit report",
+                  "help_text": "A public record is a legal record reported on you, usually by a court of law. Derogatory public records reported by the credit bureaus primarily include bankruptcies. FICO Score 8 only considers derogatory public records with an amount of $100 or greater. Virtually no FICO High Achievers have a public record listed on their credit report.",
+                  "value": "0",
+                  "value_type": "Integer"
+                },
+                "collection_record": {
+                  "display_name": "Collections",
+                  "description": "Number of collections on your credit report",
+                  "help_text": "A collection is reported on you when a creditor turns over to a collection agency any account that you have not repaid. FICO Score 8 only considers collections with an amount of $100 or greater. Virtually no FICO High Achievers have a collection listed on their credit report.",
+                  "value": "0",
+                  "value_type": "Integer"
+                },
+                "time_since_most_recent_payment": {
+                  "display_name": "Time Since Most Recent Late Payment",
+                  "description": "Your most recent late payment",
+                  "help_text": "The number of months since the most recently reported negative description or late payment. '0' means you have a currently reported missed payment. 'Unknown' means there is a missed payment reported, but with no associated date. 'No delinquent accounts' means you have no accounts reported with missed payments or negative descriptions. Authorized user accounts aren't considered in the calculation of this attribute. About 98% of FICO High Achievers have no missed payments at all. But of those who do, the missed payment happened nearly 4 years ago, on average.",
+                  "value": "No Delinquent Accounts",
+                  "value_type": "String"
+                },
+                "percentage_accounts_paid_as_agreed": {
+                  "display_name": "Accounts Always Paid as Agreed",
+                  "description": "Percentage of rated accounts always paid as agreed",
+                  "help_text": "The percentage of rated credit accounts reported that have never been reported as delinquent. A value of 'no valid accounts' means there are no active, non-disputed accounts reported. Authorized user accounts aren't considered in the calculation of this attribute. About 98% of FICO High Achievers have no missed payments at all.",
+                  "value": "100",
+                  "value_type": "Percentage"
+                },
+                "late_payment_30plus_past_year": {
+                  "display_name": "Late Payments 30+ Days in Past Year",
+                  "description": "Number of your accounts that were ever 30 or more days late, or have a derogatory indicator, occurring in the past year",
+                  "help_text": "A reported missed payment or negative description which indicates that an account has not been paid as agreed. Authorized user accounts aren't considered in the calculation of this attribute. About 98% of FICO High Achievers have no missed payments at all.",
+                  "value": "0",
+                  "value_type": "Integer"
+                },
+                "late_payment_30plus_older_than_past_year": {
+                  "display_name": "Late Payments 30+ Days Older Than Past Year",
+                  "description": "Number of your accounts that were ever 30 or more days late, or have a derogatory indicator, occurring more than one year ago",
+                  "help_text": "A reported missed payment or negative description which indicates that an account has not been paid as agreed. Authorized user accounts aren't considered in the calculation of this attribute. About 98% of FICO High Achievers have no missed payments at all.",
+                  "value": "0",
+                  "value_type": "Integer"
+                }
+              }
+            },
+            "amount_of_debt": {
+              "display_name": "amount_of_debt",
+              "description": "Your total amount of outstanding debt",
+              "help_text": "The amount of credit you're using is a very important category of credit data for the FICO® Score. FICO Scores consider the total balance owed, how many accounts have balances and how much of your available credit you're using.",
+              "attributes": {
+                "number_of_account_balances": {
+                  "display_name": "Accounts with Balances",
+                  "description": "Number of your accounts with a balance",
+                  "help_text": "The number of accounts that have a balance being reported. 'No valid accounts' means there are no active, non-disputed accounts reported. Authorized user accounts aren't considered in the calculation of this attribute. FICO High Achievers have an average of 3 accounts carrying a balance. ",
+                  "value": "4",
+                  "value_type": "Integer"
+                },
+                "total_balance_on_open_rev_accounts": {
+                  "display_name": "Total Balance on Revolving and Open-Ended Accounts",
+                  "description": "Total owed on revolving accounts",
+                  "help_text": "The sum of balances being reported on Open-ended Accounts (such as a charge card) and/or Revolving Accounts (such as a credit card) that are reported as open. 'No valid accounts' means there are no Open-ended or Revolving accounts reported or no active, non-disputed Open-ended or Revolving open accounts reported. Authorized user accounts aren't considered in the calculation of this attribute. Most FICO High Achievers owe less than $2500 on revolving accounts such as credit cards and department store cards.",
+                  "value": "690",
+                  "value_type": "Integer",
+                  "sub_value_type": "amount"
+                },
+                "revolving_utilization_ratio": {
+                  "display_name": "Revolving Utilization",
+                  "description": "Percentage of your revolving balances to your revolving credit limits",
+                  "help_text": "The ratio of the sum of the balances on revolving accounts divided by the sum of the credit limits on revolving accounts reported. 'No valid accounts' means there are no revolving accounts reported or no active, non-disputed revolving accounts reported. Authorized user accounts aren't considered in the calculation of this attribute. For FICO High Achievers, the average ratio is less than 7%. ",
+                  "value": "3",
+                  "value_type": "Percentage"
+                }
+              }
+            },
+            "credit_history_length": {
+              "display_name": "credit_history_length",
+              "description": "How long you've had credit",
+              "help_text": "FICO® Scores take into account how long your credit accounts have been established, including the age of your oldest account, the age of your newest account and the average age of all your accounts.",
+              "attributes": {
+                "avg_age_of_accounts": {
+                  "display_name": "Average Age of Accounts",
+                  "description": "The average age of your accounts",
+                  "help_text": "FICO® Scores consider the average age of all accounts being reported. Generally speaking, having a relatively long credit history and not opening many new accounts is reflective of lower credit risk. Authorized user accounts aren't considered in the calculation of this attribute. Most FICO High Achievers have an average age of accounts of 9 years or more.",
+                  "value": "97",
+                  "value_type": "Integer",
+                  "sub_value_type": "months"
+                },
+                "age_of_oldest_account": {
+                  "display_name": "Age of Oldest Account",
+                  "description": "Time since your oldest account was opened",
+                  "help_text": "FICO® Scores consider the age of the oldest account being reported. Generally speaking, having a relatively long credit history is reflective of lower credit risk. Authorized user accounts aren't considered in the calculation of this attribute. FICO High Achievers opened their oldest account 25 years ago, on average.",
+                  "value": "352",
+                  "value_type": "Integer",
+                  "sub_value_type": "months"
+                }
+              }
+            },
+            "amount_of_new_credit": {
+              "display_name": "amount_of_new_credit",
+              "description": "Amount of credit you've recently obtained or applied for",
+              "help_text": "When considering your amount of new credit, FICO® Scores take into account how many new accounts you've recently opened and whether you've been rate shopping for a single loan or applying for multiple new credit lines. Opening several new credit accounts in a short period of time indicates greater credit risk.",
+              "attributes": {
+                "recent_inquiries": {
+                  "display_name": "Number of Recent Inquiries",
+                  "description": "Your applications for credit in the past year",
+                  "help_text": "While FICO® Scores typically consider the number of inquiries on a credit report from the past twelve months, the number of inquiries is a much less important factor than late payments, total amount owed and length of credit history. 70% of FICO High Achievers did not apply for credit in the past year.",
+                  "value": "1",
+                  "value_type": "Integer"
+                },
+                "age_of_most_recently_opened_account": {
+                  "display_name": "Age of Most Recently Opened Account",
+                  "description": "Time since your newest account was opened",
+                  "help_text": "FICO® Scores consider how recently a new credit account was opened. People who recently opened a credit account are generally more risky to lenders than people with no recently opened accounts. Authorized user accounts aren't considered in the calculation of this attribute. FICO High Achievers opened their most recent account 2 years and 6 months ago, on average.",
+                  "value": "10",
+                  "value_type": "Integer",
+                  "sub_value_type": "months"
+                }
+              }
+            },
+            "credit_mix": {
+              "display_name": "credit_mix",
+              "description": "What types of credit you're using",
+              "help_text": "FICO® Scores consider the different types of credit accounts being used or reported, including credit cards, retail accounts, installment loans and mortgage loans. Your credit mix will be more important if your credit report doesn't have a lot of other information to base a FICO Score on.",
+              "attributes": {
+                "number_of_credit_cards": {
+                  "display_name": "Revolving Accounts",
+                  "description": "Number of revolving accounts being used or reported",
+                  "help_text": "FICO® Scores evaluate the mix of different types of credit being used or reported. Revolving accounts are credit accounts in which the monthly payment varies based on the amount owed. The borrower may defer (or 'revolve') payment on part of the balance. The lender will charge interest on any unpaid balance. Revolving accounts include credit card accounts. Credit mix is a much less important category of credit data than late payments, total amount owed and length of credit history. Authorized user accounts aren't considered in the calculation of this attribute. FICO High Achievers have an average of 12 revolving accounts.",
+                  "value": "10",
+                  "value_type": "Integer"
+                },
+                "number_of_installment_loans": {
+                  "display_name": "Installment Loans, Including Mortgages",
+                  "description": "Number of installment loans, including mortgages, being used or reported",
+                  "help_text": "FICO® Scores evaluate the mix of different types of credit being used or reported. Installment accounts are credit accounts that have a fixed payment for a fixed period of time. Installment accounts are usually for a single large purchase (e.g., auto or home). For the calculation of this attribute, installment accounts include mortgages. Credit mix is a much less important category of credit data than late payments, total amount owed and length of credit history. Authorized user accounts aren't considered in the calculation of this attribute. FICO High Achievers have an average of 5 installment accounts.",
+                  "value": "5",
+                  "value_type": "Integer"
+                },
+                "number_of_bank_issued_credit_card": {
+                  "display_name": "Bank-Issued Credit Card Accounts",
+                  "description": "Number of credit cards being used or reported",
+                  "help_text": "FICO® Scores evaluate the mix of different types of credit being used or reported. Bank-issued credit card accounts are a subset of revolving accounts. Credit mix is a much less important category of credit data than late payments, total amount owed and length of credit history. Authorized user accounts aren't considered in the calculation of this attribute. FICO High Achievers have an average of 7 credit cards.",
+                  "value": "6",
+                  "value_type": "Integer"
+                }
+              }
+            }
+          }
+        },
+        "score_understanding": {
+          "negative_reason_codes": [
+            {
+              "title": "Loan balances",
+              "heading": "The remaining balance on your mortgage or non-mortgage installment loans is too high.",
+              "explanation": "FICO® Scores weigh the balances of mortgage and non-mortgage installment loans (such as auto or student loans) against the original loan amounts. In general, when an installment loan is first obtained the balance is high. As the loan is paid down, the balance decreases. As installment loan balances decrease, they have less impact on a FICO® Score. Note, consolidating or moving debt from one account to another will usually not help a FICO® Score since the same total amount is owed and the score may go down due to opening a new account.",
+              "data_points": [
+                {
+                  "label": "Percentage of principal you have paid down on your open non-mortgage installment loans",
+                  "data": "9%",
+                  "comparison": "FICO High Achievers have paid down an average of 40% of the principal on their non-mortgage installment loans."
+                }
+              ]
+            }
+          ],
+          "positive_reason_codes": [
+            {
+              "title": "No missed payments",
+              "heading": "You have no missed payments on your credit accounts.",
+              "explanation": "The FICO® Score evaluates if there are any missed payments being reported. Staying current and paying bills on time demonstrate lower credit risk.",
+              "data_points": [
+                {
+                  "label": "Number of your accounts with a missed payment or derogatory description",
+                  "data": "0 accounts",
+                  "comparison": "About 98% of FICO High Achievers have no missed payments at all. But of those who do, the missed payment happened nearly 4 years ago, on average."
+                }
+              ]
+            },
+            {
+              "title": "Recent credit card usage",
+              "heading": "You've shown recent use of credit cards and/or open-ended accounts.",
+              "explanation": "FICO® Scores evaluate the mix of credit cards, installment loans and mortgages. People who demonstrate recent and responsible use of credit cards and/or open-ended accounts are generally considered less risky to lenders.",
+              "data_points": []
+            },
+            {
+              "title": "Recent revolving account usage",
+              "heading": "You've shown recent use of revolving and/or open-ended accounts.",
+              "explanation": "FICO® Scores evaluate the mix of revolving credit, installment loans and mortgages. People who demonstrate recent and responsible use of revolving credit and/or open-ended accounts are generally considered less risky to lenders.",
+              "data_points": []
+            },
+            {
+              "title": "No collection or public record",
+              "heading": "You have no public records or collections on your credit report.",
+              "explanation": "Lenders would consider the fact that you have no public records or collections on your credit report as positive. The presence of a public record (such as a bankruptcy) or collection is a powerful predictor of future payment risk - people with these items on their credit report are much more likely to miss future payments than those without them.",
+              "data_points": [
+                {
+                  "label": "Number of public records on your credit report",
+                  "data": "0 public records",
+                  "comparison": "Virtually no FICO High Achievers have a public record or collection listed on their credit report."
+                },
+                {
+                  "label": "Number of collections on your credit report",
+                  "data": "0 collections",
+                  "comparison": "Virtually no FICO High Achievers have a public record or collection listed on their credit report."
+                }
+              ]
+            }
+          ]
+        },
+        "score_distribution_percentile": 77,
+        "score_summary_description": "Your score is above the average of U.S. consumers and demonstrates to lenders that you are a very dependable borrower.",
+        "lender_view": "A FICO® Score of 787 is above average. Most lenders would consider scores in this range as very good, and an indication that you are a dependable borrower. Based on your score alone, you might expect the following: It is very unlikely that your applications for credit cards or other loans will be turned down, based on your score alone. Most lenders will consider offering you very attractive and competitive rates and terms on loans. Many lenders will be able to provide you with an instant approval status based on your score. "
+      },
+      "score": 0
+    },
+    "source_process_record_id": "45ff59de-1823-42da-b08d-d83d572ec847",
+    "source_process_type_name": "CreditReport",
+    "source_process_record_number": 1027784,
+    "order_number": 1079091
+  }
+]

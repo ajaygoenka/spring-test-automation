@@ -1,0 +1,15 @@
+{
+  "id": "240cb830-f12b-325b-aa76-41d368882942",
+  "request": {
+    "url": "/internal/offers/offersgroup/0000000000-0000000000",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offersgroup_GET_test_invalid_offerId.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "240cb830-f12b-325b-aa76-41d368882942"
+}

@@ -1,0 +1,33 @@
+{
+  "actions": [
+    {
+      "action_code": "apply_for_new_credit",
+      "simulation_parameters": [
+        {
+          "name": "months",
+          "value": 5
+        },
+        {
+          "name": "I_MTG",
+          "value": 3
+        },
+        {
+          "name": "I_AUT",
+          "value": 4
+        },
+        {
+          "name": "I_STU",
+          "value": 4
+        },
+        {
+          "name": "I_OTH",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "exclusion_code": "success",
+  "simulated_score_low": 700,
+  "simulated_score_high": 700,
+  "score_rating": "Good"
+}

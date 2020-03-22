@@ -1,0 +1,22 @@
+{
+  "id" : "35c22098-0edf-31ae-8d21-4bf96127986d",
+  "request" : {
+    "urlPattern" : "/internal/report/([\\w\\d]*)\\/raw/111111111111111111",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 404,
+    "bodyFileName" : "report/body-internal-report-6577bcea2a2c4764bc475d9647ccb013-raw-111111111111111111-i6oTh.json",
+    "headers" : {
+      "Date" : "Fri, 14 Jun 2019 16:11:37 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-store,no-cache",
+      "pragma" : "no-cache",
+      "server" : "Kestrel"
+    }
+  },
+  "uuid" : "35c22098-0edf-31ae-8d21-4bf96127986d"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3ea9dae2-2bc1-3060-9175-8616d5efaccf",
+  "request": {
+    "url": "/internal/offers/offersgroup/eaa7cd20-0ff5-4be1-b7b6-a518ec28aaa8",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offersgroup_GET_eiw_premium_secondary_identity_subscription.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "3ea9dae2-2bc1-3060-9175-8616d5efaccf"
+}

@@ -1,0 +1,6 @@
+{
+    "msg": "Unable to generate otp",
+    "timestamp": 0,
+    "code": "generate_otp_failed",
+    "status": 402
+}

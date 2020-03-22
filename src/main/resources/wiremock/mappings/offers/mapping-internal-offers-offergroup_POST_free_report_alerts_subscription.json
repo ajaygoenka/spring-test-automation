@@ -1,0 +1,20 @@
+{
+  "id" : "54ec9d4c-c1d3-3036-9518-2fd6f319a56b",
+  "request" : {
+    "url" : "/internal/offers/offergroup",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"offerIds\":[\"aae6802849854360ad86f99f47a7c35f\"]}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "offers/body-internal-offers-offergroup_POST_free_report_alerts_subscription.json",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "54ec9d4c-c1d3-3036-9518-2fd6f319a56b"
+}

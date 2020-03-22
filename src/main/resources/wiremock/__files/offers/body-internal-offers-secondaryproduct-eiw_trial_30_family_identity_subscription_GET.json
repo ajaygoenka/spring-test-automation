@@ -1,0 +1,95 @@
+{
+  "acceptText": "Submit Secure Order",
+  "benefits": [
+    {
+      "id": "B2"
+    },
+    {
+      "id": "B4"
+    },
+    {
+      "id": "B5"
+    },
+    {
+      "id": "B8"
+    },
+    {
+      "id": "B10"
+    },
+    {
+      "id": "B12"
+    },
+    {
+      "id": "B14"
+    },
+    {
+      "id": "B17"
+    },
+    {
+      "id": "B18"
+    },
+    {
+      "id": "B19"
+    },
+    {
+      "id": "B22"
+    },
+    {
+      "id": "B25"
+    },
+    {
+      "id": "B29"
+    },
+    {
+      "id": "B35"
+    },
+    {
+      "id": "B48"
+    },
+    {
+      "id": "B56"
+    },
+    {
+      "id": "B57"
+    },
+    {
+      "id": "B61"
+    },
+    {
+      "id": "B68"
+    },
+    {
+      "id": "B73"
+    },
+    {
+      "id": "B77"
+    },
+    {
+      "id": "B81"
+    },
+    {
+      "id": "B88"
+    }
+  ],
+  "cardAuthRequired": false,
+  "description": "Good credit begins with knowing where you credit is today, learning how to make smarter financial decisions tomorrow, and protecting your credit moving forward.",
+  "disclaimer": "Your card will be immediately charged a $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+  "displayBenefits": [],
+  "hasNegativeOptions": false,
+  "id": "2e2fb28c52ee4bc18479b263045bac44",
+  "isVerificationRequired": true,
+  "name": "Experian IdentityWorks<sup>&#8480;</sup> Plus",
+  "packageName": "Experian IdentityWorks<sup>&#8480;</sup> Plus",
+  "productKey": "eiw_secondary_identity_subscription",
+  "terms": [
+    {
+      "price": "0.0",
+      "description": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+      "trialLength": 0,
+      "startDays": 0,
+      "termType": "Membership"
+    }
+  ],
+  "termsAndConditions": "<p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS. I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties.  I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+  "type": "Base"
+}

@@ -1,0 +1,12 @@
+{
+  "actions": [
+    {
+      "action_code": "max_out_on_credit_cards",
+      "simulation_parameters": []
+    }
+  ],
+  "exclusion_code": "success",
+  "simulated_score_low": 645,
+  "simulated_score_high": 645,
+  "score_rating": "Fair"
+}

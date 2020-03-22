@@ -1,0 +1,18 @@
+{
+  "id" : "4cd81e2e-1184-3c05-b58e-34c9f4854975",
+  "request" : {
+    "url" : "/internal/profile/search/email",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "profile/body-internal-profile-search-email_POST_valid_email.json",
+    "transformers" : [
+      "response-template"
+    ],
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "4cd81e2e-1184-3c05-b58e-34c9f4854975"
+}

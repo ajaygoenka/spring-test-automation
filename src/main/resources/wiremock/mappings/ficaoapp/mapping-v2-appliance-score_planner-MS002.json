@@ -1,0 +1,28 @@
+{
+  "id" : "1c12921a-19f1-37ae-92d7-b6547820f40e",
+  "request" : {
+    "url" : "/v2/appliance/score_planner",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"target_score\":\"635\",\"duration\":\"6\"}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "ficoapp/body-v2-appliance-score_planner-MS002.json",
+    "headers" : {
+      "Cache-Control" : "no-cache",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Date" : "Thu, 04 Apr 2019 21:15:36 GMT",
+      "Expires" : "-1",
+      "Pragma" : "no-cache",
+      "Server" : "Microsoft-IIS/8.5",
+      "X-AspNet-Version" : "4.0.30319",
+      "X-Powered-By" : "ASP.NET",
+      "Connection" : "keep-alive"
+    }
+  },
+  "uuid" : "1c12921a-19f1-37ae-92d7-b6547820f40e"
+}

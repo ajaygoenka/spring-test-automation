@@ -1,0 +1,15 @@
+{
+  "disputes": [
+    {
+      "cdiId": "0405702821",
+      "reasonCode": "003-E20",
+      "errorCode": "",
+      "ariText": "note",
+      "objectId": "eyJwMnMiOiJzYWx0IiwicDJjIjoxMDI0LCJhbGciOiJQQkVTMi1IUzI1NitBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.tfnqCW6c1ql3FyHkhoGT8Asx1Pz2yq755Wc40Ox-zO5C18-NjGI9UA.1dc2A3iU3TcYZVOFzMLVHA.7HF0YTjtFM91YghpnXfcqM-X_EJOK_pHdiL06zsZ2ZGOE220TYJ1YB9MeB_pUXCr4V0nVvpRM0Nj9vprNUZaom2N887QmuXGD0VYYfILjFviFCXN2UiOVGoqzdbMoHvVoRazy_kGi49NhJ-VEIyok8A6OaOMyLjTpYAYli3qbCDcLJ3WG1SfTaKsE9D7SDe3aEhZY6dpz-vF1MuB5sXTXgbg8ppEKssBO6ZOabN7C-gbv9np221VnI-at5bHXIiLiWxafHV9g1ZQ12fQqsfQ_XnzTaFsSqxlbtnAT8JaREZaIIqV1kzoTfkeFrg43DK5UGJrzrSGVEwDRURJuCxaYg.OopYiwB0s78nhqicgRZ1NA",
+      "objectType": "003",
+      "additionalFields": [],
+      "refId": "11"
+    }
+  ],
+  "statements": []
+}

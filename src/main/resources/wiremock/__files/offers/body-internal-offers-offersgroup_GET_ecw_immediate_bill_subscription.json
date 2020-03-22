@@ -1,0 +1,149 @@
+{
+  "benefits": [
+    {
+      "id": "B2",
+      "name": "Easy-to-Read Credit Overview",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B14",
+      "name": "Experian Credit Monitoring Premium",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B10",
+      "name": "Experian Credit Monitoring and Alerts",
+      "display": true,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B19",
+      "name": "Dormant Account",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B4",
+      "name": "Experian FICO Score Monitoring",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B29",
+      "name": "PreQual with Preference",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B48",
+      "name": "Daily Experian Credit Report and FICO<sup>®</sup> Scores",
+      "display": true,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B5",
+      "name": "Toll-Free Support Available 7 Days a Week",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B8",
+      "name": "FICO<sup>&reg;</sup> Score Simulator",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B12",
+      "name": "Dedicated Fraud Resolution Support",
+      "display": true,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B11",
+      "name": "$50,000 Product Guarantee",
+      "display": true,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B20",
+      "name": "Credit Limit",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B21",
+      "name": "Credit Usage",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B35",
+      "name": "Experian CreditLock with Alerts",
+      "display": true,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B88",
+      "name": "FICO<sup>&reg;</sup> Score Planner",
+      "display": true,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B25",
+      "name": "FICO<sup>®</sup> Score Tracker",
+      "display": true,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B18",
+      "name": "Positive Activity",
+      "display": false,
+      "indexInDisplay": 9999
+    },
+    {
+      "id": "B22",
+      "name": "Credit Balance",
+      "display": false,
+      "indexInDisplay": 9999
+    }
+  ],
+  "terms": [
+    {
+      "trialLength": 7,
+      "price": "0.0",
+      "frequency": "Single",
+      "startDate": "2019-02-18T19:08:34.491Z",
+      "description": "Includes 7-day trial membership in Experian CreditWorks<sup>&#8480;</sup>. You may cancel your trial membership at any time within 7 days without a charge.",
+      "billingPeriod": "Immediate",
+      "tax": "0.0",
+      "total": "0.0",
+      "termType": "Trial",
+      "metadata": {}
+    },
+    {
+      "trialLength": 0,
+      "price": "9.99",
+      "frequency": "Recurring",
+      "startDate": "2019-02-25T19:08:34.492Z",
+      "description": "Your Experian CreditWorks<sup>&#8480;</sup> membership will begin after you complete your 7-day trial. You may cancel your trial membership at any time within 7 days without a charge.",
+      "billingPeriod": "Month",
+      "tax": "0.0",
+      "total": "9.99",
+      "termType": "Membership",
+      "metadata": {}
+    }
+  ],
+  "name": "Experian CreditWorks<sup>&#8480;</sup>",
+  "offerGroupId": "71464702-2eb5-4c77-9446-538499f31e30",
+  "packageName": "subscription.ecw.999.monthly.trial",
+  "id": "77a38c13-681c-4d2f-b616-4aa03158fa14",
+  "termsAndConditions": "<b>IMPORTANT PAYMENT INFORMATION:</b> By placing this order, you are enrolling and beginning your free 7-day trial subscription of Experian CreditWorks<sup>&#8480;</sup>. If you don't cancel your subscription within the 7-day trial period, your subscription will continue and you will be billed at $9.99 for each month that you continue your subscription. You may cancel this subscription at any time by clicking on \"Manage Membership\" in \"Settings - My Account\"; however, you will not be eligible for a prorated refund of the current month's paid subscription fee.",
+  "config": {
+    "cardAuthRequired": true,
+    "authorizationAmt": "0.0"
+  },
+  "paymentRequired": false,
+  "next": "continue"
+}

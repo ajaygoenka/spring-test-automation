@@ -1,0 +1,680 @@
+{
+  "daas_response": {
+    "attributes": {
+      "premiers": {
+        "bureau": "Experian",
+        "ALL0133": "0",
+        "ALL0206": "0",
+        "ALL0300": "12",
+        "ALL0337": "2",
+        "ALL0436": "1",
+        "ALL2106": "0",
+        "ALL2116": "0",
+        "ALL2870": "0",
+        "ALL5020": "5668",
+        "ALL5830": "130",
+        "ALL6220": "1",
+        "ALL7350": "0",
+        "ALL7370": "0",
+        "ALL7937": "100",
+        "ALL8122": "6",
+        "ALL8151": "9996",
+        "ALL8158": "9996",
+        "ALL8321": "57",
+        "ALL8270": "123",
+        "ALL9110": "1",
+        "ALL9219": "30",
+        "ALM2001": "96",
+        "ALM5072": "0",
+        "ALX8220": "181",
+        "AUA0300": "1",
+        "AUA6280": "997",
+        "AUL0300": "1",
+        "AUL0416": "0",
+        "AUL5020": "999999997",
+        "AUL5820": "999999997",
+        "AUT0300": "0",
+        "AUT0416": "98",
+        "AUT5020": "999999998",
+        "AUT5820": "999999998",
+        "AUT8120": "9998",
+        "BCA0300": "6",
+        "BCA0416": "2",
+        "BCA5020": "5668",
+        "BCA8320": "49",
+        "BCC0300": "6",
+        "BCC0400": "2",
+        "BCC0416": "2",
+        "BCC1360": "4",
+        "BCC2356": "0",
+        "BCC5020": "5668",
+        "BCC5030": "5668",
+        "BCC5421": "6500",
+        "BCC5427": "6500",
+        "BCC5520": "4250",
+        "BCC5620": "2832",
+        "BCC5627": "2832",
+        "BCC5830": "130",
+        "BCC7110": "67",
+        "BCX5830": "999999998",
+        "BCX7110": "998",
+        "BRC3425": "1",
+        "BRC5238": "2219",
+        "BUS0416": "98",
+        "COL2750": "0",
+        "COL2758": "0",
+        "COL3238": "0",
+        "HLC0300": "0",
+        "HLC0402": "98",
+        "HLC0436": "98",
+        "HLC5020": "999999998",
+        "ILN5820": "999999997",
+        "ILN7110": "997",
+        "IQB9410": "0",
+        "IQB9415": "0",
+        "IQB9417": "0",
+        "IQF9410": "0",
+        "IQF9415": "0",
+        "IQT9412": "0",
+        "IQT9415": "0",
+        "IQT9417": "1",
+        "MTA0300": "0",
+        "MTA0316": "98",
+        "MTA0400": "98",
+        "MTA0416": "98",
+        "MTA5020": "999999998",
+        "MTA8120": "9998",
+        "MTS0300": "0",
+        "MTS0416": "98",
+        "MTS5020": "999999998",
+        "PIL0300": "0",
+        "PIL0438": "98",
+        "PIL5020": "999999998",
+        "PIL5320": "999999998",
+        "PIL8120": "9998",
+        "REH5020": "5668",
+        "REH7120": "80",
+        "REV0300": "9",
+        "REV2356": "0",
+        "REV3422": "1",
+        "REV5020": "5668",
+        "REV5420": "6500",
+        "REV5830": "130",
+        "REV7110": "63",
+        "REV7112": "55",
+        "REV7420": "22",
+        "REV7430": "100",
+        "REV7801": "999999994",
+        "REV8120": "6",
+        "STU0300": "2",
+        "STU0336": "0",
+        "STU0416": "0",
+        "STU5020": "999999997",
+        "STU5820": "999999997",
+        "STU0802": "98",
+        "STU0807": "98",
+        "STU0812": "98",
+        "STU0837": "98",
+        "STU5092": "999999998",
+        "STU8142": "9998",
+        "USE0300": "6"
+      },
+      "trendview": {
+        "bureau": "Experian",
+        "TAPS4_SPEND": "0",
+        "TAPS4_TRD_CNT_SPEND": "1",
+        "TV_REV_AVG_BAL_6_MON": "0",
+        "TV_REV_AVG_BAL_12_MON": "251",
+        "SEGMENT_ID": "3",
+        "TAPS4_SUMAVE_BAL": "0",
+        "TAUA3702": "999999997",
+        "TBCA2106": "2",
+        "TBCA2265": "3",
+        "TBCA2271": "2",
+        "TBCA2601": "-109",
+        "TBCA2615": "72",
+        "TBCA2616": "70",
+        "TBCA2619": "50",
+        "TBCA3105": "2",
+        "TBCA3301": "75",
+        "TBCA3527": "1563",
+        "TBCA3601": "-109",
+        "TBCA3619": "50",
+        "TRTR2613": "500"
+      },
+      "scores": {
+        "bureau": "Experian",
+        "itmmAU": "676",
+        "itmmBC": "800",
+        "itmmHE": "770",
+        "itmmMTG": "789",
+        "itmmPL": "601",
+        "itmmRET": "728",
+        "itmmSL": "707",
+        "incomeInsight": "62",
+        "debtToIncome": "3",
+        "balTransferIndex": "205"
+      }
+    },
+    "transactionID": "201910012040A00018857  ",
+    "fico08": 664,
+    "assetInsight": null,
+    "xfc01": 0,
+    "xfc02": "Y",
+    "xfc03": " ",
+    "xfc04": " ",
+    "xfc05": " ",
+    "xfc06": 3,
+    "xfc07": 0,
+    "addressMisMatch": "N",
+    "statement": {
+      "consumer_statement": [
+        null,
+        null,
+        null
+      ]
+    },
+    "trades": {
+      "count": 3,
+      "account": [
+        {
+          "terms": "REV",
+          "amount1": "00006500",
+          "amount1qualifier": "L",
+          "amount2": "00006512",
+          "amount2qualifier": "H",
+          "balanceDate": "082419",
+          "balanceAmount": "4066",
+          "openClosed": "O",
+          "revInstall": "R",
+          "monthlyPaymentAmount": "00000081",
+          "monthlyPaymentType": "S",
+          "subscriberName": "JPMCB CARD              ",
+          "accountConditionCode": "A1",
+          "enhancedStatusCode": "11",
+          "enhancedTypeCode": "18",
+          "dateOpen": "0419"
+        },
+        {
+          "terms": "REV",
+          "amount1": "00002000",
+          "amount1qualifier": "L",
+          "amount2": "00001661",
+          "amount2qualifier": "H",
+          "balanceDate": "082319",
+          "balanceAmount": "1602",
+          "openClosed": "O",
+          "revInstall": "R",
+          "monthlyPaymentAmount": "00000049",
+          "monthlyPaymentType": "S",
+          "subscriberName": "BANK CREDIT CARD        ",
+          "accountConditionCode": "A1",
+          "enhancedStatusCode": "11",
+          "enhancedTypeCode": "18",
+          "dateOpen": "0319"
+        },
+        {
+          "terms": "REV",
+          "amount1": "00000500",
+          "amount1qualifier": "L",
+          "amount2": "00000511",
+          "amount2qualifier": "H",
+          "balanceDate": "080519",
+          "balanceAmount": "0",
+          "openClosed": "O",
+          "revInstall": "R",
+          "monthlyPaymentAmount": "        ",
+          "monthlyPaymentType": "E",
+          "subscriberName": "THD/CBNA                ",
+          "accountConditionCode": "A1",
+          "enhancedStatusCode": "11",
+          "enhancedTypeCode": "07",
+          "dateOpen": "1217"
+        }
+      ]
+    },
+    "derogFlag": "N",
+    "mlaFlag": "1204",
+    "offers": {
+      "count": 35,
+      "offer": [
+        {
+          "policyReasonCode": "A005000007",
+          "type": "R",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A005000010",
+          "type": "R",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A009000005",
+          "type": "R",
+          "iFUMflag": "N",
+          "propRank1": "24",
+          "propRank2": "24",
+          "propRank3": "24"
+        },
+        {
+          "policyReasonCode": "A013000001",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "75",
+          "propRank2": "75",
+          "propRank3": "75"
+        },
+        {
+          "policyReasonCode": "A013000002",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "75",
+          "propRank2": "75",
+          "propRank3": "75"
+        },
+        {
+          "policyReasonCode": "A013000003",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "75",
+          "propRank2": "75",
+          "propRank3": "75"
+        },
+        {
+          "policyReasonCode": "A014000001",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A014000002",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "5",
+          "propRank2": "5",
+          "propRank3": "5"
+        },
+        {
+          "policyReasonCode": "A014000003",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "5",
+          "propRank2": "5",
+          "propRank3": "5"
+        },
+        {
+          "policyReasonCode": "A014000004",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "5",
+          "propRank2": "5",
+          "propRank3": "5"
+        },
+        {
+          "policyReasonCode": "A015000005",
+          "type": "R",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A018000001",
+          "type": "R",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A018000002",
+          "type": "R",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A018000003",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A018000004",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "24",
+          "propRank2": "24",
+          "propRank3": "24"
+        },
+        {
+          "policyReasonCode": "A018000008",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A021000004",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "11",
+          "propRank2": "11",
+          "propRank3": "11"
+        },
+        {
+          "policyReasonCode": "A023000005",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "5",
+          "propRank2": "5",
+          "propRank3": "5"
+        },
+        {
+          "policyReasonCode": "A023000006",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "5",
+          "propRank2": "5",
+          "propRank3": "5"
+        },
+        {
+          "policyReasonCode": "A023000007",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "5",
+          "propRank2": "5",
+          "propRank3": "5"
+        },
+        {
+          "policyReasonCode": "A023000008",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "2",
+          "propRank2": "2",
+          "propRank3": "2"
+        },
+        {
+          "policyReasonCode": "A024000001",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "5",
+          "propRank2": "5",
+          "propRank3": "5"
+        },
+        {
+          "policyReasonCode": "A024000002",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A026000002",
+          "type": "R",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A029000001",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "5",
+          "propRank2": "5",
+          "propRank3": "5"
+        },
+        {
+          "policyReasonCode": "A029000002",
+          "type": "P",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0"
+        },
+        {
+          "policyReasonCode": "A035000001",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "11",
+          "propRank2": "11",
+          "propRank3": "11"
+        },
+        {
+          "policyReasonCode": "A038000003",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "75",
+          "propRank2": "75",
+          "propRank3": "75"
+        },
+        {
+          "policyReasonCode": "A045000001",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "75",
+          "propRank2": "75",
+          "propRank3": "75"
+        },
+        {
+          "policyReasonCode": "A045000002",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "75",
+          "propRank2": "75",
+          "propRank3": "75"
+        },
+        {
+          "policyReasonCode": "A045000003",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "75",
+          "propRank2": "75",
+          "propRank3": "75"
+        },
+        {
+          "policyReasonCode": "A045000004",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "75",
+          "propRank2": "75",
+          "propRank3": "75"
+        },
+        {
+          "policyReasonCode": "A045000005",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "75",
+          "propRank2": "75",
+          "propRank3": "75"
+        },
+        {
+          "policyReasonCode": "A050000001",
+          "type": "R",
+          "iFUMflag": "Y",
+          "propRank1": "100",
+          "propRank2": "200",
+          "propRank3": "300"
+        },
+        {
+          "policyReasonCode": "A026F00003",
+          "type": "R",
+          "iFUMflag": "N",
+          "propRank1": "0",
+          "propRank2": "0",
+          "propRank3": "0",
+          "ri_ind": "I",
+          "res_ID": "9",
+          "inq_date": "20181111",
+          "exp_date": "99991231"
+        }
+      ]
+    },
+    "errorCode": null,
+    "exclPolicyReasonCode": null
+  },
+  "vendor_offers": [],
+  "wallet_details": {
+    "customer_id": "3201789a-fd9c-4405-8f0d-5731cb49f9d2",
+    "walletProfile": {
+      "monthlySpending": 2100,
+      "defaultMonthlySpending": false,
+      "spendingByCategory": {
+        "GAS": 200,
+        "GROCERIES": 200,
+        "TRAVEL": 200,
+        "DEPT_STORES": 300,
+        "DINING": 200,
+        "OTHER": 1000
+      }
+    }
+  },
+  "reward_details": {
+    "request": {
+      "id": "3201789a-fd9c-4405-8f0d-5731cb49f9d2",
+      "spend": 2100,
+      "perc": {
+        "gas": 9.52,
+        "grocery": 9.52,
+        "dining": 9.52,
+        "travel": 9.52,
+        "department": 14.29,
+        "other": 47.62
+      }
+    },
+    "meta": {
+      "responseDate": "2019-10-02T01:40:21+00:00",
+      "valuationDate": "2019-09-27T14:43:58+00:00"
+    },
+    "cardValues": {
+      "A006000001": {
+        "policyReasonCode": "A006000001",
+        "cardName": "Secured Visa® Card from Merrick Bank",
+        "firstYearValue": -36,
+        "firstYearPoints": 0,
+        "firstYearForcedIntroValue": -36,
+        "introBonusValue": 0,
+        "introBonusPoints": 0,
+        "introBonusCash": 0,
+        "incrementalFirstYearSpendPointsValue": 0,
+        "incrementalFirstYearSpendPoints": 0,
+        "ongoingValue": -36,
+        "ongoingPoints": 0,
+        "rewardProgram": null,
+        "cpr": 0
+      },
+      "A007000001": {
+        "policyReasonCode": "A007000001",
+        "cardName": "Citi® Secured Mastercard®",
+        "firstYearValue": 0,
+        "firstYearPoints": 0,
+        "firstYearForcedIntroValue": 0,
+        "introBonusValue": 0,
+        "introBonusPoints": 0,
+        "introBonusCash": 0,
+        "incrementalFirstYearSpendPointsValue": 0,
+        "incrementalFirstYearSpendPoints": 0,
+        "ongoingValue": 0,
+        "ongoingPoints": 0,
+        "rewardProgram": null,
+        "cpr": 0
+      },
+      "A013000001": {
+        "policyReasonCode": "A013000001",
+        "cardName": "First Progress Platinum Elite MasterCard Secured Credit Card",
+        "firstYearValue": -29,
+        "firstYearPoints": 0,
+        "firstYearForcedIntroValue": -29,
+        "introBonusValue": 0,
+        "introBonusPoints": 0,
+        "introBonusCash": 0,
+        "incrementalFirstYearSpendPointsValue": 0,
+        "incrementalFirstYearSpendPoints": 0,
+        "ongoingValue": -29,
+        "ongoingPoints": 0,
+        "rewardProgram": null,
+        "cpr": 0
+      },
+      "A013000002": {
+        "policyReasonCode": "A013000002",
+        "cardName": "First Progress Platinum Select MasterCard Secured Credit Card",
+        "firstYearValue": -39,
+        "firstYearPoints": 0,
+        "firstYearForcedIntroValue": -39,
+        "introBonusValue": 0,
+        "introBonusPoints": 0,
+        "introBonusCash": 0,
+        "incrementalFirstYearSpendPointsValue": 0,
+        "incrementalFirstYearSpendPoints": 0,
+        "ongoingValue": -39,
+        "ongoingPoints": 0,
+        "rewardProgram": null,
+        "cpr": 0
+      },
+      "A013000003": {
+        "policyReasonCode": "A013000003",
+        "cardName": "First Progress Platinum Prestige MasterCard Secured Credit Card",
+        "firstYearValue": -49,
+        "firstYearPoints": 0,
+        "firstYearForcedIntroValue": -49,
+        "introBonusValue": 0,
+        "introBonusPoints": 0,
+        "introBonusCash": 0,
+        "incrementalFirstYearSpendPointsValue": 0,
+        "incrementalFirstYearSpendPoints": 0,
+        "ongoingValue": -49,
+        "ongoingPoints": 0,
+        "rewardProgram": null,
+        "cpr": 0
+      },
+      "A018000005": {
+        "policyReasonCode": "A018000005",
+        "cardName": "Discover it® Secured Card",
+        "firstYearValue": 153.61,
+        "firstYearPoints": 15361,
+        "firstYearForcedIntroValue": 153.61,
+        "introBonusValue": 0,
+        "introBonusPoints": 0,
+        "introBonusCash": 0,
+        "incrementalFirstYearSpendPointsValue": 76.81,
+        "incrementalFirstYearSpendPoints": 7681,
+        "ongoingValue": 76.8,
+        "ongoingPoints": 7680,
+        "rewardProgram": "Discover Rewards",
+        "cpr": 1
+      }
+    }
+  },
+  "custom_attributes": {
+    "customer": {
+      "requestId": "c7d95419-b2bf-4e83-a597-63c651ee9f31",
+      "scCustomerId": "3201789a-fd9c-4405-8f0d-5731cb49f9d2",
+      "transTimestamp": "2019-10-02T01:40:21.919Z",
+      "sessionId": "EEAD959F-3DA5-6A16-0F7C-6FEF7CB6607E",
+      "transCounter": 0
+    }
+  },
+  "right_offer_meta_data": {
+    "vendor_offer_request_id": "92da20f4-f7c0-4292-9cfc-4a0defb2108a",
+    "login_state": "No",
+    "consumer_status": "Delayed Auth",
+    "daas_transaction_id": "201910012040A00018857",
+    "partner_metadata": {
+      "membership_type": "fr"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "userName": "puxuyovzga",
+  "customerId": "b62c4b4e3afe4632b9da5f6aecca0467",
+  "passwordValidated": false,
+  "loginStatus": "LOCKED",
+  "pin": "1234",
+  "loginRetry": 3,
+  "lastLoginRetryDt": "2019-03-05T23:21:38.003Z",
+  "passwordResetRetry": 0,
+  "lastPasswordResetDt": "2019-03-05T22:13:27.398Z",
+  "lastLoginDt": "2019-03-05T23:26:47.872Z",
+  "otpAvailable": 5,
+  "securityQuestion": {
+    "id": "1",
+    "answer": "teacher",
+    "description": "What was the name of your favorite teacher?"
+  },
+  "systemPasswordReset": false
+}

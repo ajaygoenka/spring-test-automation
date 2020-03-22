@@ -1,0 +1,17 @@
+{
+  "priority" : 10,
+  "request" : {
+    "urlPattern" : "/internal/profile/customer/([\\w\\d]*)\\?excludeSSN=false",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "profile/body-internal-profile-customer_GET_GLOBAL_CA_exclude_ssn_false.json",
+    "transformers": [
+      "response-template"
+    ],
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  }
+}

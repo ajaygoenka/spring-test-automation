@@ -1,0 +1,23 @@
+{
+  "id" : "aaf4e1d0-bc8a-3d0c-b1fb-52e32082aeaf",
+  "request" : {
+    "url" : "/internal/offers/offersgroup/ff5834de-88ba-4607-bb14-fe195438bce9",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "offers/body-internal-offers-offersgroup_GET_card_not_authorized.json",
+    "headers" : {
+      "Date" : "Thu, 14 Feb 2019 17:52:52 GMT",
+      "Content-Type" : "application/json",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-cache, no-store, max-age=0, must-revalidate",
+      "pragma" : "no-cache",
+      "expires" : "0",
+      "x-application-context" : "eipi-offers:development:8080"
+    }
+  },
+  "uuid" : "aaf4e1d0-bc8a-3d0c-b1fb-52e32082aeaf"
+}

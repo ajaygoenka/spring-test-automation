@@ -1,0 +1,18 @@
+{
+  "userName": "tricia.denesik",
+  "customerId": "4792e2d54c1142a3864d5959e9ab8aa0",
+  "passwordValidated": false,
+  "loginStatus": "Active",
+  "pin": "1234",
+  "loginRetry": 0,
+  "passwordResetRetry": 0,
+  "lastPasswordResetDt": "2019-03-12T17:00:58.951Z",
+  "lastLoginDt": "2019-03-12T17:01:02.521Z",
+  "otpAvailable": 0,
+  "securityQuestion": {
+    "id": "1",
+    "answer": "AQICAHjbprincUzcDvnI6CrcukQKVao48ifoJx6CNiV+hGwTcAEHXwNHgjoxPL1pmWE+w6tmAAAAZTBjBgkqhkiG9w0BBwagVjBUAgEAME8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMfzDlz23mR2hJfQ9YAgEQgCL0pfuynxeVqY2LzCGkIN6e4nHwM62GaGUKAZfDMteNttRs",
+    "description": "What was the name of your favorite teacher?"
+  },
+  "systemPasswordReset": false
+}

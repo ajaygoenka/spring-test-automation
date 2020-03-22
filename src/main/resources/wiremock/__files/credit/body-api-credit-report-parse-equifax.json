@@ -1,0 +1,1135 @@
+{
+  "report_id": "2fd5298b-3dad-4c22-bdf1-e74b44c05580",
+  "order_id": "790c1a7e-b8a5-4c94-8687-c16d9a76349d",
+  "bureau": "equifax",
+  "report_date": "2019-02-01T00:00:00.000+00:00",
+  "view_date": "0001-01-01T00:00:00.000+00:00",
+  "year_of_birth": 0,
+  "names": [
+    {
+      "first_name": "TINA",
+      "middle_name": "M",
+      "last_name": "BRUNNER"
+    }
+  ],
+  "addresses": [
+    {
+      "house_number": "300",
+      "street_name": "IRON",
+      "suffix": "E",
+      "city": "BESSEMER",
+      "state": "MI",
+      "zipcode": "49911",
+      "residence_type": "",
+      "date_last_updated": "2018-10-30T00:00:00.000+00:00"
+    }
+  ],
+  "accounts": [
+    {
+      "name": "CBUSASEARS",
+      "number": "1713-831442464",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Open",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [
+        {
+          "comment_text": "CHARGE"
+        }
+      ],
+      "balance": "19",
+      "balance_date": "2018-11-01T00:00:00.000+00:00",
+      "business_type": "Complete Dept. Stores",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "MAIL ONLY",
+        "name": "CBUSASEARS",
+        "address": "8725 W. SAHARA AVE. MC 02/02/03",
+        "city": "THE LAKES",
+        "state": "NV",
+        "zipcode": "89163"
+      },
+      "date_opened": "1987-01-01T00:00:00.000+00:00",
+      "status_date": "2018-11-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "limit": "5166",
+      "monthly_payment": "10",
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2018",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK"
+        },
+        {
+          "calendar_year": "2017",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2016",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2015",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2014",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Pays account as agreed",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Authorized User",
+      "terms": ""
+    },
+    {
+      "name": "DISCOVER BANK",
+      "number": "6712025606014",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Closed",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [
+        {
+          "comment_text": "ACCOUNT CLOSED BY CONSUMER"
+        },
+        {
+          "comment_text": "PAID ACCOUNT / ZERO BALANCE"
+        }
+      ],
+      "balance": "0",
+      "balance_date": "2018-11-01T00:00:00.000+00:00",
+      "business_type": "All Banks",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "8003472683",
+        "name": "DISCOVER BANK",
+        "address": "PO BOX15316 ATT:CMS/PROD DEVELOP",
+        "city": "WILMINGTON",
+        "state": "DE",
+        "zipcode": "19850-5316"
+      },
+      "date_opened": "2006-09-01T00:00:00.000+00:00",
+      "status_date": "2018-11-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "high_balance": "0",
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2018",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK"
+        },
+        {
+          "calendar_year": "2017",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2016",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2015",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2014",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Pays account as agreed",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Joint Account",
+      "terms": ""
+    },
+    {
+      "name": "FIRST USA BANK, NA",
+      "number": "10167670",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Open",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [],
+      "balance": "0",
+      "balance_date": "2018-11-01T00:00:00.000+00:00",
+      "business_type": "National Credit Card Cos.",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "8009558010",
+        "name": "FIRST USA BANK, NA",
+        "address": "2500 WESTFIELD RD,STE 6",
+        "city": "ELGIN",
+        "state": "IL",
+        "zipcode": "60123"
+      },
+      "date_opened": "2017-12-01T00:00:00.000+00:00",
+      "status_date": "2018-11-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "limit": "5500",
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2018",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK"
+        },
+        {
+          "calendar_year": "2017",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2016",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2015",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2014",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Pays account as agreed",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Joint Account",
+      "terms": ""
+    },
+    {
+      "name": "BK1 CREDIT",
+      "number": "44567901",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Open",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [],
+      "balance": "0",
+      "balance_date": "2018-11-01T00:00:00.000+00:00",
+      "business_type": "All Banks",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "6142488010",
+        "name": "BK1 CREDIT",
+        "address": "DEPT 1014",
+        "city": "COLUMBUS",
+        "state": "OH",
+        "zipcode": "43271"
+      },
+      "date_opened": "2015-05-01T00:00:00.000+00:00",
+      "status_date": "2018-11-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "high_balance": "0",
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2018",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK"
+        },
+        {
+          "calendar_year": "2017",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2016",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2015",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2014",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Pays account as agreed",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Individual Account",
+      "terms": ""
+    },
+    {
+      "name": "FIRST USA BANK, NA",
+      "number": "784500902",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Open",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [],
+      "balance": "138",
+      "balance_date": "2018-11-01T00:00:00.000+00:00",
+      "business_type": "National Credit Card Cos.",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "8009558010",
+        "name": "FIRST USA BANK, NA",
+        "address": "2500 WESTFIELD RD,STE 6",
+        "city": "ELGIN",
+        "state": "IL",
+        "zipcode": "60123"
+      },
+      "date_opened": "2008-04-01T00:00:00.000+00:00",
+      "status_date": "2018-11-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "limit": "9500",
+      "monthly_payment": "10",
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2018",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK"
+        },
+        {
+          "calendar_year": "2017",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2016",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2015",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2014",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Pays account as agreed",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Joint Account",
+      "terms": ""
+    },
+    {
+      "name": "CAPITAL ONE",
+      "number": "4940007812564",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Open",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [
+        {
+          "comment_text": "CREDIT CARD"
+        }
+      ],
+      "balance": "150",
+      "balance_date": "2018-11-01T00:00:00.000+00:00",
+      "business_type": "All Banks",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "8009471000",
+        "name": "CAPITAL ONE",
+        "address": "PO BOX 5253",
+        "city": "CAROL STREAM",
+        "state": "IL",
+        "zipcode": "60197"
+      },
+      "date_opened": "2018-10-01T00:00:00.000+00:00",
+      "status_date": "2018-11-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "limit": "5000",
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2018",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK"
+        },
+        {
+          "calendar_year": "2017",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2016",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2015",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2014",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Pays account as agreed",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Individual Account",
+      "terms": ""
+    },
+    {
+      "name": "FIRST USA BANK, NA",
+      "number": "5601604589902",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Open",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [],
+      "balance": "301",
+      "balance_date": "2018-10-01T00:00:00.000+00:00",
+      "business_type": "National Credit Card Cos.",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "8009558010",
+        "name": "FIRST USA BANK, NA",
+        "address": "2500 WESTFIELD RD,STE 6",
+        "city": "ELGIN",
+        "state": "IL",
+        "zipcode": "60123"
+      },
+      "date_opened": "2008-04-01T00:00:00.000+00:00",
+      "status_date": "2018-10-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "limit": "9500",
+      "monthly_payment": "10",
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2018",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK"
+        },
+        {
+          "calendar_year": "2017",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2016",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2015",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2014",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Pays account as agreed",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Joint Account",
+      "terms": ""
+    },
+    {
+      "name": "GEMB/GE CARD CO.",
+      "number": "5640236023013",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Closed",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [
+        {
+          "comment_text": "PAID ACCOUNT / ZERO BALANCE"
+        }
+      ],
+      "balance": "0",
+      "balance_date": "2016-05-01T00:00:00.000+00:00",
+      "business_type": "All Banks",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "8006771020",
+        "name": "GEMB/GE CARD CO.",
+        "address": "P.O. BOX 981400",
+        "city": "EL PASO",
+        "state": "TX",
+        "zipcode": "79998-1400"
+      },
+      "date_opened": "2013-04-01T00:00:00.000+00:00",
+      "status_date": "2016-05-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "limit": "3500",
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2016",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK"
+        },
+        {
+          "calendar_year": "2015",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2014",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2013",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2012",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Pays account as agreed",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Individual Account",
+      "terms": ""
+    },
+    {
+      "name": "MACYS/FDSB",
+      "number": "78893478565",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Open",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [
+        {
+          "comment_text": "CHARGE"
+        }
+      ],
+      "balance": "0",
+      "balance_date": "2014-01-01T00:00:00.000+00:00",
+      "business_type": "Complete Dept. Stores",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "5135738566",
+        "name": "MACYS/FDSB",
+        "address": "13141 34 ST N",
+        "city": "CLEARWATER",
+        "state": "FL",
+        "zipcode": "34622"
+      },
+      "date_opened": "2007-10-01T00:00:00.000+00:00",
+      "status_date": "2014-01-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "limit": "500",
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2013",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2012",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2011",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2010",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2009",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Pays account as agreed",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Shared, but otherwise undesignated",
+      "terms": ""
+    },
+    {
+      "name": "MCALPINS/LEXINGTON",
+      "number": "7812121267015",
+      "type": "Revolving",
+      "type_definition_flags": {
+        "account_status": "Open",
+        "is_external_collection": false,
+        "industry_and_account_type": "Revolving",
+        "is_trade": true,
+        "historical_derogatory": "AllClear"
+      },
+      "comments": [
+        {
+          "comment_text": "CREDIT CARD"
+        }
+      ],
+      "balance": "0",
+      "balance_date": "2013-10-01T00:00:00.000+00:00",
+      "business_type": "Complete Dept. Stores",
+      "classification": "Revolving",
+      "creditor": {
+        "phone": "5043897370",
+        "name": "MCALPINS/LEXINGTON",
+        "address": "1400 MAIN STREET",
+        "city": "BATON ROUGE",
+        "state": "LA",
+        "zipcode": "70826"
+      },
+      "date_opened": "2013-10-01T00:00:00.000+00:00",
+      "status_date": "2013-10-01T00:00:00.000+00:00",
+      "delinquent_30_days_count": 0,
+      "delinquent_60_days_count": 0,
+      "delinquent_90_days_count": 0,
+      "original_creditor": "",
+      "payment_histories": [
+        {
+          "calendar_year": "2013",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK"
+        },
+        {
+          "calendar_year": "2012",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2011",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2010",
+          "january": "OK",
+          "february": "OK",
+          "march": "OK",
+          "april": "OK",
+          "may": "OK",
+          "june": "OK",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        },
+        {
+          "calendar_year": "2009",
+          "july": "OK",
+          "august": "OK",
+          "september": "OK",
+          "october": "OK",
+          "november": "OK",
+          "december": "OK"
+        }
+      ],
+      "payment_status": "Too new to rate; Approved but not used",
+      "payment_status_class": "CURRENT",
+      "remarks": [],
+      "responsibility": "Joint Account",
+      "terms": ""
+    }
+  ],
+  "inquiries": [
+    {
+      "company_name": "WELLS FARGO",
+      "company_type": "Services, Not Elsewhere, Etc.",
+      "date_of_inquiry": "2019-01-17T00:00:00.000+00:00",
+      "creditor": {}
+    }
+  ],
+  "employers": [
+    {
+      "name": "UHWLUHG"
+    },
+    {
+      "name": "UHWLUHG"
+    }
+  ],
+  "public_records": [],
+  "consumer_statements": [],
+  "process_mode": "RealTime",
+  "score_details": [
+    {
+      "score": "797",
+      "score_model": "FICO8",
+      "score_date": "2019-02-01T00:00:00.000+00:00"
+    }
+  ],
+  "fraud_info": []
+}

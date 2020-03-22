@@ -1,0 +1,243 @@
+{
+  "offers": [
+    {
+      "additionalRequiredFields": "ssn",
+      "agentFriendlyTermsAndConditions": "Not available",
+      "benefits": [
+        {
+          "id": "B2"
+        },
+        {
+          "id": "B3"
+        },
+        {
+          "id": "B4"
+        },
+        {
+          "id": "B5"
+        },
+        {
+          "id": "B8"
+        },
+        {
+          "id": "B12"
+        },
+        {
+          "id": "B17"
+        },
+        {
+          "id": "B18"
+        },
+        {
+          "id": "B19"
+        },
+        {
+          "id": "B22"
+        },
+        {
+          "id": "B25"
+        },
+        {
+          "id": "B29"
+        },
+        {
+          "id": "B31"
+        },
+        {
+          "id": "B35"
+        },
+        {
+          "id": "B48"
+        },
+        {
+          "id": "B54"
+        },
+        {
+          "id": "B55"
+        },
+        {
+          "id": "B56"
+        },
+        {
+          "id": "B57"
+        },
+        {
+          "id": "B58"
+        },
+        {
+          "id": "B59"
+        },
+        {
+          "id": "B60"
+        },
+        {
+          "id": "B61"
+        },
+        {
+          "id": "B67"
+        },
+        {
+          "id": "B68"
+        },
+        {
+          "id": "B85"
+        },
+        {
+          "id": "B88"
+        }
+      ],
+      "cardAuthRequired": false,
+      "client": "web",
+      "createDt": "2017-09-25T00:00:00",
+      "endDt": "2030-05-15T18:47:45.924Z",
+      "hasNegativeOptions": false,
+      "isDefault": false,
+      "isVerificationRequired": true,
+      "offerId": "2eea7a5e865a4a88b06b04a7f4107688",
+      "offerName": "Experian IdentityWorks<sup>&#8480;</sup> Premium",
+      "offerType": "Base",
+      "overrideBenefits": true,
+      "overrideTerms": true,
+      "packageName": "Experian IdentityWorks<sup>&#8480;</sup> Premium",
+      "placements": [
+        {
+          "acceptText": "Submit Secure Order",
+          "description": "Good credit begins with knowing where you credit is today, learning how to make smarter financial decisions tomorrow, and protecting your credit moving forward.",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "id": "default",
+          "taxFreeTermsAndConditions": "<p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS. I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties.  I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+          "termsAndConditions": "<p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>. I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS. I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+        },
+        {
+          "acceptText": "Submit Secure Order",
+          "benefits": [
+            {
+              "id": "B3",
+              "name": "3-Bureau Credit Monitoring and Alerts"
+            },
+            {
+              "id": "B61",
+              "name": "Dark Web Internet Surveillance Alerts"
+            },
+            {
+              "id": "B54",
+              "name": "Financial Account Takeover Alerts"
+            },
+            {
+              "id": "B56",
+              "name": "Social Security Number Trace Alerts"
+            },
+            {
+              "id": "B57",
+              "name": "Change of Address Alerts"
+            },
+            {
+              "id": "B58",
+              "name": "Court Records and Booking Alerts"
+            },
+            {
+              "id": "B59",
+              "name": "Non-Credit Loan Alerts"
+            },
+            {
+              "id": "B60",
+              "name": "Sex Offender Registry Alerts"
+            },
+            {
+              "id": "B55",
+              "name": "Social network Monitoring Alerts"
+            },
+            {
+              "id": "B17",
+              "name": "Identity Validation Alerts"
+            },
+            {
+              "id": "B35",
+              "name": "Experian CreditLock with Alerts"
+            },
+            {
+              "id": "B31",
+              "name": "Up to $1 Million <a href=\"/#/insuranceSummaryOfBenefits\">Identity Theft Insurance</a>"
+            },
+            {
+              "id": "B12",
+              "name": "Dedicated Fraud Resolution Support"
+            },
+            {
+              "id": "B68",
+              "name": "Lost Wallet Assistance"
+            },
+            {
+              "id": "B85",
+              "name": "Quarterly 3-Bureau Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B48",
+              "name": "Daily Experian Credit Report & FICO<sup>&reg;</sup> Scores"
+            },
+            {
+              "id": "B25",
+              "name": "FICO<sup>&reg;</sup> Score Tracker"
+            }
+          ],
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "id": "shoppingCart",
+          "taxFreeTermsAndConditions": "<p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS. I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties.  I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+          "termsAndConditions": "<p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>. I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS. I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+        },
+        {
+          "acceptText": "Yes, start protecting my family",
+          "headline": "Welcome back! Would see that you didn't complete your enrollment in an IdentityWorks<sup>&#8480;</sup> family plan. Would you like to enroll now?",
+          "id": "offerIntercept",
+          "image": "monitoredInfoPreview",
+          "subheader": "Get proactive identity theft protection with 360&deg; monitoring and alerts, control over who can access your credit and dedicated live support.",
+          "taxFreeTermsAndConditions": "<p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS. I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties.  I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+        }
+      ],
+      "population": "acquisition_default",
+      "productKey": "eiw_premium_secondary_identity_subscription",
+      "requiredFieldSet": "Standard Credit",
+      "startDt": "2016-02-03T18:47:45.924Z",
+      "status": "active",
+      "tags": [
+        {
+          "name": "at_eiwpfs100",
+          "type": "acquisition"
+        },
+        {
+          "name": "et_eiwpfs100",
+          "type": "exact_target"
+        },
+        {
+          "name": "ia_eiwpfs100",
+          "type": "in_app"
+        },
+        {
+          "name": "tt_eiwpfs100",
+          "type": "test_n_target"
+        }
+      ],
+      "terms": [
+        {
+          "termId": "0",
+          "description": "No credit card required. Checking your own Credit Report does not hurt your credit.",
+          "percentage": 0,
+          "price": 0.0,
+          "trialLength": 0,
+          "skipDays": 0,
+          "startDays": 0,
+          "termType": "Membership"
+        }
+      ],
+      "updateDt": "2018-01-26T00:00:00.127Z",
+      "restrictions": [
+        "family_plan"
+      ],
+      "additionalProperties": {
+        "description": "Good credit begins with knowing where you credit is today, learning how to make smarter financial decisions tomorrow, and protecting your credit moving forward."
+      },
+      "description": "Good credit begins with knowing where you credit is today, learning how to make smarter financial decisions tomorrow, and protecting your credit moving forward.",
+      "description": "Good credit begins with knowing where you credit is today, learning how to make smarter financial decisions tomorrow, and protecting your credit moving forward."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "1706919e-d40d-31cb-9470-cbeb2a6f9488",
+    "request": {
+        "urlPattern": "/internal/login/activation/([\\w\\d]*)",
+        "method": "PUT",
+        "bodyPatterns": [
+            {
+                "equalToJson": "{}"
+            }
+        ]
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "login/body-internal-login-activation-{customerId}_PUT_active.json",
+        "transformers": [
+            "response-template"
+        ],
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    },
+    "uuid": "1706919e-d40d-31cb-9470-cbeb2a6f9488"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fe94d077-6255-36c5-acb3-638a34adc3c1",
+  "request": {
+    "url": "/internal/offers/offergroup",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"offerIds\":[\"d349dc59612c4b76a83eb6ddc2461c83\"]}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offergroup_POST_mobile_ecw_immediate_bill_subscription_9_99.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "fe94d077-6255-36c5-acb3-638a34adc3c1"
+}

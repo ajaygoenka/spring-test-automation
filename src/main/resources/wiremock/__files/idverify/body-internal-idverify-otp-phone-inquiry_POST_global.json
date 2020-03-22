@@ -1,0 +1,6 @@
+{
+    "supportedMessageTypes": [
+        "TEXT",
+        "VOICE"
+    ]
+}

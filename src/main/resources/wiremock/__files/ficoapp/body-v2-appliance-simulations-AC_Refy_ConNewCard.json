@@ -1,0 +1,21 @@
+{
+  "actions": [
+    {
+      "action_code": "refinance_my_mortgage",
+      "simulation_parameters": []
+    },
+    {
+      "action_code": "consolidate_balances_to_card_with_limit_d",
+      "simulation_parameters": [
+        {
+          "name": "limit",
+          "value": 6000
+        }
+      ]
+    }
+  ],
+  "exclusion_code": "success",
+  "simulated_score_low": 720,
+  "simulated_score_high": 720,
+  "score_rating": "Good"
+}

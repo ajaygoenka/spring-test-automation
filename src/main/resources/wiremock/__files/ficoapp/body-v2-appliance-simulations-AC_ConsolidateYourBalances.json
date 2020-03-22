@@ -1,0 +1,17 @@
+{
+  "actions": [
+    {
+      "action_code": "consolidate_balances_to_card_with_limit_d",
+      "simulation_parameters": [
+        {
+          "name": "limit",
+          "value": 6000
+        }
+      ]
+    }
+  ],
+  "exclusion_code": "success",
+  "simulated_score_low": 725,
+  "simulated_score_high": 725,
+  "score_rating": "Good"
+}

@@ -1,0 +1,13 @@
+{
+  "authPaymentId": "12968",
+  "paymentMethod": {
+    "paymentMethodId": "25411",
+    "last4": "0009",
+    "expMonth": 11,
+    "expYear": 2025,
+    "category": "primary",
+    "brand": "Visa",
+    "type": "Card",
+    "skipCardExpDateValidation": false
+  }
+}

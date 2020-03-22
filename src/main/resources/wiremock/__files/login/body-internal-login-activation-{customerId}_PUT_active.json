@@ -1,0 +1,12 @@
+{
+    "userName": "lkdas142141",
+    "customerId": "{{request.path.[3]}}",
+    "passwordValidated": false,
+    "loginStatus": "ACTIVE",
+    "loginRetry": 0,
+    "passwordResetRetry": 0,
+    "lastPasswordResetDt": "{{now format='yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\''}}",
+    "lastLoginDt": "{{now format='yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\''}}",
+    "otpAvailable": 0,
+    "systemPasswordReset": false
+}

@@ -1,0 +1,17 @@
+{
+  "userName": "mockData",
+  "customerId": "{{jsonPath request.body '$.customerId'}}",
+  "passwordValidated": false,
+  "loginStatus": "ACTIVE",
+  "pin": "1234",
+  "loginRetry": 0,
+  "passwordResetRetry": 0,
+  "lastLoginDt": "{{now format='yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\''}}",
+  "otpAvailable": 0,
+  "securityQuestion": {
+    "id": "1",
+    "answer": "AQICAHjbprincUzcDvnI6CrcukQKVao48ifoJx6CNiV+hGwTcAEHXwNHgjoxPL1pmWE+w6tmAAAAZTBjBgkqhkiG9w0BBwagVjBUAgEAME8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMfzDlz23mR2hJfQ9YAgEQgCL0pfuynxeVqY2LzCGkIN6e4nHwM62GaGUKAZfDMteNttRs",
+    "description": "What was the name of your favorite teacher?"
+  },
+  "systemPasswordReset": false
+}

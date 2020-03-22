@@ -1,0 +1,20 @@
+{
+  "request": {
+    "url": "/internal/applepaymentgateway/checkreceipt",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "matchesJsonPath": "$.customerId",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "applepaymentgateway/body-internal-applepaymentgateway-checkreceipt_POST_GLOBAL_active.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

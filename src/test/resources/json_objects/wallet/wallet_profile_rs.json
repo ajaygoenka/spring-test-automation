@@ -1,0 +1,10 @@
+{
+  "creditScore": "720",
+  "walletProfile": {
+    "monthlySpending": 2500,
+    "defaultMonthlySpending":true,
+    "priority":"CASH_BACK",
+    "rankSource":""
+
+  }
+}

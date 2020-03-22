@@ -1,0 +1,12 @@
+{
+  "actions": [
+    {
+      "action_code": "miss_a_payment_on_a_current_account",
+      "simulation_parameters": []
+    }
+  ],
+  "exclusion_code": "success",
+  "simulated_score_low": 539,
+  "simulated_score_high": 539,
+  "score_rating": "Poor"
+}

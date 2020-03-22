@@ -1,0 +1,15 @@
+{
+  "creditScore": "850",
+  "walletProfile": {
+    "monthlySpending": 3920,
+    "defaultMonthlySpending": false,
+    "spendingByCategory": {
+      "GAS": 240,
+      "DINING": 490,
+      "GROCERIES": 540,
+      "TRAVEL": 270,
+      "DEPT_STORES": 230,
+      "OTHER": 2150
+    }
+  }
+}

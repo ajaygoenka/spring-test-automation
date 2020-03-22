@@ -1,0 +1,22 @@
+{
+  "id": "a12f87ed-713e-3ee6-a41c-44e83ade98fa",
+  "request": {
+    "url": "/internal/offers/offergroup",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"offerIds\":[\"1cdff5a2e7c54a6aa71e92131e42ffb5\"]}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offergroup_POST_eiw_premium_annual_money_back_30_childsecure_identity_subscription_249_99.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "a12f87ed-713e-3ee6-a41c-44e83ade98fa"
+}

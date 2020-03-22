@@ -1,0 +1,26 @@
+{
+  "actions": [
+    {
+      "action_code": "pay_down_n_on_rev_open_accounts",
+      "simulation_parameters": [
+        {
+          "name": "amount",
+          "value": 1870
+        }
+      ]
+    },
+    {
+      "action_code": "apply_and_receive_a_credit_card_with_limit_d",
+      "simulation_parameters": [
+        {
+          "name": "limit",
+          "value": 5000
+        }
+      ]
+    }
+  ],
+  "exclusion_code": "success",
+  "simulated_score_low": 644,
+  "simulated_score_high": 644,
+  "score_rating": "Fair"
+}

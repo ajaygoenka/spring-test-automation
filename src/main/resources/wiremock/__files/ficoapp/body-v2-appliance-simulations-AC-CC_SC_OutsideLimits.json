@@ -1,0 +1,19 @@
+{
+  "actions": [
+    {
+      "action_code": "apply_and_receive_a_credit_card_with_limit_d",
+      "simulation_parameters": [
+        {
+          "name": "limit",
+          "value": 500000
+        }
+      ]
+    },
+    {
+      "action_code": "apply_and_receive_a_department_store_card",
+      "simulation_parameters": []
+    }
+  ],
+  "exclusion_code": "warning",
+  "exclusion_action_code": "apply_and_receive_a_credit_card_with_limit_d"
+}

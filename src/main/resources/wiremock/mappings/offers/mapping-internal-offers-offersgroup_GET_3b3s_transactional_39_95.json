@@ -1,0 +1,15 @@
+{
+  "id": "50a20c5c-ebd4-3427-9a8b-31f14849f220",
+  "request": {
+    "url": "/internal/offers/offersgroup/2b96512e-f300-4d05-9f84-6f8ad308d787",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offersgroup_GET_3b3s_transactional_39_95.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "50a20c5c-ebd4-3427-9a8b-31f14849f220"
+}

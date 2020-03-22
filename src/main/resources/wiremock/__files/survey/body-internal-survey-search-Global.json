@@ -1,0 +1,13 @@
+[
+  {
+    "customerId": "092bed18cb624f19b17667793a32bf08",
+    "questionId": "purchaseIntentQuestion",
+    "answers": [
+      {
+        "id": "3",
+        "answer": "Concerned about identity theft"
+      }
+    ],
+    "updateDt": "2019-03-07T19:12:55.219Z"
+  }
+]

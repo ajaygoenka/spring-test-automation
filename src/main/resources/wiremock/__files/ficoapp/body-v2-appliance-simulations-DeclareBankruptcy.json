@@ -1,0 +1,12 @@
+{
+  "actions": [
+    {
+      "action_code": "declare_bankruptcy",
+      "simulation_parameters": []
+    }
+  ],
+  "exclusion_code": "success",
+  "simulated_score_low": 514,
+  "simulated_score_high": 514,
+  "score_rating": "Poor"
+}

@@ -1,0 +1,3 @@
+{
+    "must match \"^\\d{5}(\\-[0-9]{0,4})?$\"": "currentAddress.zip"
+}

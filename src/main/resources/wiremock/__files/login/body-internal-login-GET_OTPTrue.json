@@ -1,0 +1,14 @@
+{
+  "userName": "delana.oconnell",
+  "customerId": "{{request.path.[2]}}",
+  "passwordValidated": false,
+  "loginStatus": "ACTIVE",
+  "loginRetry": 0,
+  "passwordResetRetry": 0,
+  "lastPasswordResetDt": "2019-03-07T19:14:18.044Z",
+  "lastLoginDt": "2019-03-07T19:14:18.139Z",
+  "otpAvailable": 5,
+  "phxUnmigrated": false,
+  "hasPhxRefId": false,
+  "systemPasswordReset": false
+}

@@ -1,0 +1,175 @@
+{
+  "offers": [
+    {
+      "additionalRequiredFields": "ssn",
+      "agentFriendlyTermsAndConditions": "Not available",
+      "benefits": [
+        {
+          "id": "B1"
+        }
+      ],
+      "cardAuthRequired": true,
+      "client": "web",
+      "endDt": "2020-11-15T18:47:45.924Z",
+      "hasNegativeOptions": false,
+      "isDefault": false,
+      "isVerificationRequired": true,
+      "offerId": "0000000000",
+      "offerName": "Experian Credit Report and FICO<sup>&reg;</sup> Score",
+      "offerType": "Invalid",
+      "overrideBenefits": false,
+      "overrideTerms": false,
+      "packageName": "Experian Credit Report and FICO<sup>&reg;</sup> Score",
+      "placements": [
+        {
+          "description": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $<%immediate_price%>.",
+          "id": "default",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note:  Your credit card will be charged $<%immediate_price%> once your report is ready to view. <strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card.  Please note this transaction is non-refundable.</strong></p><p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note:  Your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>, once your report is ready to view. <strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card.  Please note this transaction is non-refundable.</strong></p><p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+        },
+        {
+          "acceptText": "Yes, Show Me My Experian Credit Report & FICO Score",
+          "declineText": "No, Show Me Only My Experian Credit Report",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your credit report.",
+          "headline": "Welcome back. Get your Experian Credit Report and FICO<sup>&reg;</sup> Score.",
+          "id": "postLogin",
+          "image": "1BScorePreview",
+          "subheader": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $<%immediate_price%>.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you click the \"Yes, Show Me My Experian Credit Report & FICO Score\" button, your credit card will be charged $<%immediate_price%> once we confirm your identity and deliver your report. <strong>If we can't provide this report, we won't charge your credit card. This transaction is nonrefundable.</strong></p><p><strong>Click \"Yes, Show Me My Experian Credit Report & FICO Score\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you click the \"Yes, Show Me My Experian Credit Report & FICO Score\" button, your credit card will be charged $<%immediate_price%>, plus any applicable tax, once we confirm your identity and deliver your report. <strong>If we can't provide this report, we won't charge your credit card. This transaction is nonrefundable.</strong></p><p><strong>Click \"Yes, Show Me My Experian Credit Report & FICO Score\" : I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+        },
+        {
+          "acceptText": "Yes, Show Me My Experian Credit Report & FICO Score",
+          "declineText": "No, Show Me Only My Experian Credit Report",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your credit report.",
+          "id": "orderInterstitial",
+          "image": "1BScorePreview",
+          "subheader": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $<%immediate_price%>.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you click the \"Yes, Show Me My Experian Credit Report & FICO Score\" button, your credit card will be charged $<%immediate_price%> once we confirm your identity and deliver your report. <strong>If we can't provide this report, we won't charge your credit card. This transaction is nonrefundable.</strong></p><p><strong>Click \"Yes, Show Me My Experian Credit Report & FICO Score\" to accept and agree to the <a href=\"#/termsAndConditions\">Terms and Conditions</a>,acknowledge the receipt of <a href=\"#/privacyPolicy\">Privacy Policy</a>, <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a> and confirm your authorization for ConsumerInfo.com, Inc., an Experian<sup>&reg;</sup> company, to obtain your credit score and report and submit your secure order.</strong></p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you click the \"Yes, Show Me My Experian Credit Report & FICO Score\" button, your credit card will be charged $<%immediate_price%>, plus any applicable tax, once we confirm your identity and deliver your report. <strong>If we can't provide this report, we won't charge your credit card. This transaction is nonrefundable.</strong></p><p><strong>Click \"Yes, Show Me My Experian Credit Report & FICO Score\" to accept and agree to the <a href=\"#/termsAndConditions\">Terms and Conditions</a>, acknowledge the receipt of <a href=\"#/privacyPolicy\">Privacy Policy</a>, <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a> and confirm your authorization for ConsumerInfo.com, Inc., an Experian<sup>&reg;</sup> company, to obtain your credit score and report and submit your secure order.</strong></p>"
+        },
+        {
+          "acceptText": "Submit Secure Order",
+          "advertisingTerms": "Order now and get instant access to your Experian<sup>&reg;</sup> Credit Report and FICO<sup>&reg;</sup> Score",
+          "benefits": [
+            {
+              "id": "B1",
+              "name": "Experian Credit Report and FICO<sup>&reg;</sup> Score",
+              "description": "Information on your Credit Report can change daily as creditors and lenders report new information about you. You'll get unlimited access to your complete Experian Credit Report and FICO<sup>&reg;</sup> Score. "
+            }
+          ],
+          "headline": "Upgrade Your Account",
+          "id": "upgrade",
+          "image": "1BScorePreview",
+          "subheader": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $<%immediate_price%>.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note: Your credit card will be charged $<%immediate_price%> once your identity has been confirmed and your report is ready to view.<strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card. Please note this transaction is non-refundable.</strong></p><p><strong>Click \"Submit Secure Order\" to agree to the <a href=\"#/termsAndConditions\">Terms and Conditions</a>, acknowledge the receipt of <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a> and agree to the terms, and confirm your authorization for ConsumerInfo.com, Inc., an Experian<sup>&reg;</sup> company, to obtain your credit report(s) and score(s) and submit your secure order.</strong></p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note: Your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>, once your identity has been confirmed and your report is ready to view.<strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card. Please note this transaction is non-refundable.</strong></p><p><strong>Click \"Submit Secure Order\" to agree to the <a href=\"#/termsAndConditions\">Terms and Conditions</a>, acknowledge the receipt of <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a> and agree to the terms, and confirm your authorization for ConsumerInfo.com, Inc., an Experian<sup>&reg;</sup> company, to obtain your credit report(s) and score(s) and submit your secure order.</strong></p>"
+        },
+        {
+          "benefits": [
+            {
+              "id": "display",
+              "name": "Instant access to your Experian Credit Report and FICO<sup>&reg;</sup> Score"
+            },
+            {
+              "id": "display",
+              "name": "Your credit rating and what factors raise and lower your FICO Score"
+            }
+          ],
+          "id": "shoppingCart",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note:  Your credit card will be charged $<%immediate_price%> once your report is ready to view. <strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card.  Please note this transaction is non-refundable.</strong></p><p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note:  Your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>, once your report is ready to view. <strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card.  Please note this transaction is non-refundable.</strong></p><p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+        },
+        {
+          "acceptText": "Yes, Show Me My Experian Credit Report & FICO Score",
+          "declineText": "No, Show Me Only My Experian Credit Report",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your credit report.",
+          "headline": "Welcome back. Get your Experian Credit Report and FICO<sup>&reg;</sup> Score.",
+          "id": "offerIntercept",
+          "image": "1BScorePreview",
+          "subheader": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $<%immediate_price%>.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you click the \"Yes, Show Me My Experian Credit Report & FICO Score\" button, your credit card will be charged $<%immediate_price%> once we confirm your identity and deliver your report. <strong>If we can't provide this report, we won't charge your credit card. This transaction is nonrefundable.</strong></p><p><strong>Click \"Yes, Show Me My Experian Credit Report & FICO Score\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you click the \"Yes, Show Me My Experian Credit Report & FICO Score\" button, your credit card will be charged $<%immediate_price%>, plus any applicable tax, once we confirm your identity and deliver your report. <strong>If we can't provide this report, we won't charge your credit card. This transaction is nonrefundable.</strong></p><p><strong>Click \"Yes, Show Me My Experian Credit Report & FICO Score\" : I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS.  I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties. I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>"
+        },
+        {
+          "acceptText": "Submit Secure Order",
+          "benefits": [
+            {
+              "id": "B1",
+              "name": "Experian Credit Report and FICO<sup>&reg;</sup> Score",
+              "description": "Information on your Credit Report can change daily as creditors and lenders report new information about you. You'll get unlimited access to your complete Experian Credit Report and FICO<sup>&reg;</sup> Score. "
+            }
+          ],
+          "billingPeriod": "month",
+          "continueText": "Order Now",
+          "disclaimer": "Your card will be immediately charged a non-refundable $<%immediate_price%> fee, plus any applicable sales tax for your Experian membership.",
+          "headline": "Get your Experian Credit Report & FICO Score",
+          "id": "upgradeModal",
+          "subheader": "Understand how your credit can look to lenders by checking your report and score.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note: Your credit card will be charged $<%immediate_price%> once your identity has been confirmed and your report is ready to view.<strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card. Please note this transaction is non-refundable.</strong></p><p><strong>Click \"Submit Secure Order\" to agree to the <a href=\"#/termsAndConditions\">Terms and Conditions</a>, acknowledge the receipt of <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a> and agree to the terms, and confirm your authorization for ConsumerInfo.com, Inc., an Experian<sup>&reg;</sup> company, to obtain your credit report(s) and score(s) and submit your secure order.</strong></p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note: Your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>, once your identity has been confirmed and your report is ready to view.<strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card. Please note this transaction is non-refundable.</strong></p><p><strong>Click \"Submit Secure Order\" to agree to the <a href=\"#/termsAndConditions\">Terms and Conditions</a>, acknowledge the receipt of <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a> and agree to the terms, and confirm your authorization for ConsumerInfo.com, Inc., an Experian<sup>&reg;</sup> company, to obtain your credit report(s) and score(s) and submit your secure order.</strong></p>"
+        },
+        {
+          "acceptText": "Submit Secure Order",
+          "advertisingTerms": "Order now and get instant access to your Experian<sup>&reg;</sup> Credit Report and FICO<sup>&reg;</sup> Score",
+          "benefits": [
+            {
+              "id": "B1",
+              "name": "Experian Credit Report and FICO<sup>&reg;</sup> Score",
+              "description": "Information on your Credit Report can change daily as creditors and lenders report new information about you. You'll get unlimited access to your complete Experian Credit Report and FICO<sup>&reg;</sup> Score. "
+            }
+          ],
+          "declineText": "No, Keep My Current Membership",
+          "headline": "Upgrade Your Account",
+          "id": "loginInterstitial",
+          "image": "1BScorePreview",
+          "subheader": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $<%immediate_price%>.",
+          "taxFreeTermsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note: Your credit card will be charged $<%immediate_price%> once your identity has been confirmed and your report is ready to view.<strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card. Please note this transaction is non-refundable.</strong></p><p><strong>Click \"Submit Secure Order\" to agree to the <a href=\"#/termsAndConditions\">Terms and Conditions</a>, acknowledge the receipt of <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a> and agree to the terms, and confirm your authorization for ConsumerInfo.com, Inc., an Experian<sup>&reg;</sup> company, to obtain your credit report(s) and score(s) and submit your secure order.</strong></p>",
+          "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>Note: Your credit card will be charged $<%immediate_price%> plus $<%immediate_tax%> sales tax for a total of $<%immediate_total%>, once your identity has been confirmed and your report is ready to view.<strong>If, for any reason, we are unable to provide you with this report, we will not charge your credit card. Please note this transaction is non-refundable.</strong></p><p><strong>Click \"Submit Secure Order\" to agree to the <a href=\"#/termsAndConditions\">Terms and Conditions</a>, acknowledge the receipt of <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a> and agree to the terms, and confirm your authorization for ConsumerInfo.com, Inc., an Experian<sup>&reg;</sup> company, to obtain your credit report(s) and score(s) and submit your secure order.</strong></p>"
+        }
+      ],
+      "population": "acquisition_default",
+      "productKey": "1b1s_transactional",
+      "requiredFieldSet": "Standard Credit",
+      "startDt": "2016-02-03T18:47:45.924Z",
+      "status": "active",
+      "tags": [
+        {
+          "name": "at_1b1s100",
+          "type": "acquisition"
+        },
+        {
+          "name": "et_1b1s100",
+          "type": "exact_target"
+        },
+        {
+          "name": "ia_1b1s100",
+          "type": "in_app"
+        },
+        {
+          "name": "tt_1b1s100",
+          "type": "test_n_target"
+        }
+      ],
+      "terms": [
+        {
+          "termId": "0",
+          "billingPeriod": "Immediate",
+          "description": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $9.95.",
+          "frequency": "Single",
+          "percentage": 0,
+          "price": 9.95,
+          "trialLength": 0,
+          "skipDays": 0,
+          "startDays": 0,
+          "termType": "Transactional"
+        }
+      ],
+      "additionalProperties": {
+        "description": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $<%immediate_price%>."
+      },
+      "description": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $<%immediate_price%>.",
+      "description": "One time Experian Credit Report and FICO<sup>&reg;</sup> score for $<%immediate_price%>."
+    }
+  ]
+}

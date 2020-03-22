@@ -1,0 +1,23 @@
+{
+  "id" : "17804338-b045-31ae-a138-e39c70b3a321",
+  "request" : {
+    "url" : "/internal/fulfillment/benefitdefinitions",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "fulfillment/body-internal-fulfillment-benefitdefinitions-cyu4A.json",
+    "headers" : {
+      "Date" : "Thu, 09 May 2019 18:05:46 GMT",
+      "Content-Type" : "application/json",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-cache, no-store, max-age=0, must-revalidate",
+      "pragma" : "no-cache",
+      "expires" : "0",
+      "x-application-context" : "com.experian.eipi.fulfillment:development:8080"
+    }
+  },
+  "uuid" : "17804338-b045-31ae-a138-e39c70b3a321"
+}

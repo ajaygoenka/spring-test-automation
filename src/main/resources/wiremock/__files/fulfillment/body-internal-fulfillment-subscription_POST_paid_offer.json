@@ -1,0 +1,139 @@
+{
+    "benefits": [
+        {
+            "id": "B4",
+            "name": "Experian FICO Score Monitoring",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B2",
+            "name": "Easy-to-Read Credit Overview",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B3",
+            "name": "3-Bureau Credit Monitoring & Alerts",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B5",
+            "name": "Toll-Free Support Available 7 Days a Week",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B8",
+            "name": "FICO<sup>&reg;</sup> Score Simulator",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B11",
+            "name": "$50,000 Product Guarantee",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B18",
+            "name": "Positive Activity",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B48",
+            "name": "Daily Experian Credit Report and FICO<sup>®</sup> Scores",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B68",
+            "name": "Lost Wallet Assistance",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B19",
+            "name": "Dormant Account",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B22",
+            "name": "Credit Balance",
+            "display": false,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B88",
+            "name": "FICO<sup>&reg;</sup> Score Planner",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B25",
+            "name": "FICO<sup>®</sup> Score Tracker",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B35",
+            "name": "Experian CreditLock with Alerts",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B69",
+            "name": "Annual 3-Bureau Report and FICO<sup>®</sup> Scores",
+            "display": true,
+            "indexInDisplay": 9999
+        },
+        {
+            "id": "B29",
+            "name": "PreQual with Preference",
+            "display": false,
+            "indexInDisplay": 9999
+        }
+    ],
+    "terms": [
+        {
+            "trialLength": 0,
+            "price": "14.99",
+            "frequency": "Single",
+            "startDate": "{{now format='yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\''}}",
+            "description": "Just $14.99 each month. You may cancel anytime if not satisfied.",
+            "billingPeriod": "Immediate",
+            "tax": "0.0",
+            "total": "14.99",
+            "termType": "Membership",
+            "metadata": {}
+        },
+        {
+            "trialLength": 0,
+            "price": "14.99",
+            "frequency": "Recurring",
+            "startDate": "{{now offset='1 months' format='yyyy-MM-dd\'T\'08:00:00.000\'Z\''}}",
+            "description": "Just $14.99 each month. You may cancel anytime if not satisfied.",
+            "billingPeriod": "Month",
+            "tax": "0.0",
+            "total": "14.99",
+            "termType": "Membership",
+            "metadata": {}
+        }
+    ],
+    "name": "Experian CreditWorks<sup>&#8480;</sup> Plus",
+    "offerGroupId": "8db0ce18-259e-40d2-b505-78384464cde8",
+    "packageName": "Experian CreditWorks<sup>&#8480;</sup> Plus",
+    "id": "e62b6c52-4704-4cf0-a27b-5f150357a106",
+    "disclaimer": "Your card will be immediately charged a $14.99 fee, plus any applicable sales tax for your Experian membership.",
+    "termsAndConditions": "<h4>PAYMENT INFORMATION</h4><p>When you complete your order here, you will begin your membership in Experian CreditWorks<sup>&#8480;</sup> Plus. Your credit card will be charged $14.99 today and each month that you continue your membership, once you submit your order below. You may cancel your membership and stop the monthly billing by <a href=\"#/contactUs\">contacting us</a> at any time. However, you will not be eligible for a pro-rated refund of your current month's paid membership fee.  </p><p><strong>By clicking \"Submit Secure Order\": I accept and agree to your <a href=\"#/termsAndConditions\">Terms of Use Agreement</a>, as well as acknowledge receipt of your <a href=\"#/privacyPolicy\">Privacy Policy</a> and <a href=\"#/adTargetingPolicy\">Ad Targeting Policy</a>.  I authorize ConsumerInfo.com, Inc., also referred to as Experian Consumer Services (\"ECS\"), to obtain my credit report and/or credit score(s), on a recurring basis to provide them to me for review while I have an account with ECS. I also authorize ECS to obtain and use the information I provide, and my credit report and/or credit score(s), on a recurring basis to notify me of credit opportunities and other products and services that may be available to me through ECS or through unaffiliated third parties.  I understand that I may withdraw this authorization at any time by <a href=\"#/contactUs\">contacting ECS</a>.</strong></p>",
+    "config": {
+        "cardAuthRequired": true,
+        "authorizationAmt": "14.99"
+    },
+    "agentFriendlyTermsAndConditions": "Not available",
+    "paymentRequired": false,
+    "next": "continue"
+}

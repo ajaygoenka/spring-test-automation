@@ -1,0 +1,23 @@
+{
+  "id" : "56e1f0f4-8724-352a-aab6-f27b8110b6d8",
+  "request" : {
+    "url" : "/api/credit/trend",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "credit/body-api-credit-trend-FJwWK.json",
+    "headers" : {
+      "Date" : "Tue, 25 Jun 2019 18:51:45 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "Cache-Control" : "private, no-cache, no-store, must-revalidate",
+      "Expires" : "-1",
+      "Pragma" : "no-cache",
+      "server" : "Kestrel"
+    }
+  },
+  "uuid" : "56e1f0f4-8724-352a-aab6-f27b8110b6d8"
+}

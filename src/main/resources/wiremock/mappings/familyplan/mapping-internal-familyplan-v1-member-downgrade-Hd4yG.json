@@ -1,0 +1,29 @@
+{
+  "id" : "885c27f6-2140-33db-af2b-10a5cec16fd9",
+  "request" : {
+    "url" : "/internal/familyplan/v1/member/downgrade",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "matchesJsonPath" : "$.primaryCustomerId",
+      "matchesJsonPath" : "$.statusReason",
+      "matchesJsonPath" : "$.cancellationReasonCode",
+      "matchesJsonPath" : "$.source",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "familyplan/body-internal-familyplan-v1-member-downgrade-Hd4yG.txt",
+    "headers" : {
+      "Date" : "Thu, 10 Jan 2019 23:23:02 GMT",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-cache, no-store, max-age=0, must-revalidate",
+      "pragma" : "no-cache",
+      "expires" : "0",
+      "x-application-context" : "application:8080"
+    }
+  },
+  "uuid" : "885c27f6-2140-33db-af2b-10a5cec16fd9"
+}

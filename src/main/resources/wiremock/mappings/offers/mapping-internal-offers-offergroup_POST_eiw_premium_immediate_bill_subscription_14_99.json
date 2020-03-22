@@ -1,0 +1,22 @@
+{
+  "id": "bca19077-ad28-30f5-8486-336583850377",
+  "request": {
+    "url": "/internal/offers/offergroup",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{\"offerIds\":[\"faeb23a9555347d087b775f198ce1612\"]}",
+        "ignoreArrayOrder": true,
+        "ignoreExtraElements": true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offergroup_POST_eiw_premium_immediate_bill_subscription_14_99.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "bca19077-ad28-30f5-8486-336583850377"
+}

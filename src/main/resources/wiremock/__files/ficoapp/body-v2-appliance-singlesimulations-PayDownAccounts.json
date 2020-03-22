@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "action_code": "pay_down_n_on_rev_open_accounts",
+      "simulation_parameters": [
+        {
+          "name": "amount",
+          "value": 1870
+        }
+      ]
+    }
+  ],
+  "exclusion_code": "success",
+  "simulated_score_low": 715,
+  "simulated_score_high": 715,
+  "score_rating": "Good",
+  "available_simulations": [
+    {
+      "action_code": "apply_and_receive_a_credit_card_with_limit_d",
+      "account_type": "revolving",
+      "simulation_parameters": [
+        {
+          "name": "limit",
+          "min_value": 1,
+          "max_value": 100000,
+          "slider_min_value": 500,
+          "slider_max_value": 100000,
+          "value": 5000
+        }
+      ]
+    },
+    {
+      "action_code": "apply_and_receive_a_department_store_card",
+      "account_type": "revolving",
+      "simulation_parameters": []
+    },
+    {
+      "action_code": "refinance_my_mortgage",
+      "account_type": "mortgage",
+      "simulation_parameters": []
+    },
+    {
+      "action_code": "apply_and_receive_a_mortgage_of_d",
+      "account_type": "mortgage",
+      "simulation_parameters": [
+        {
+          "name": "amount",
+          "min_value": 1,
+          "max_value": 3000000,
+          "slider_min_value": 10000,
+          "slider_max_value": 3000000,
+          "value": 170000
+        }
+      ]
+    },
+    {
+      "action_code": "apply_and_receive_an_auto_loan_of_d",
+      "account_type": "installment",
+      "simulation_parameters": [
+        {
+          "name": "amount",
+          "min_value": 1,
+          "max_value": 100000,
+          "slider_min_value": 1000,
+          "slider_max_value": 100000,
+          "value": 20000
+        }
+      ]
+    },
+    {
+      "action_code": "request_and_receive_a_limit_increase_of_d_on_card",
+      "account_type": "revolving",
+      "simulation_parameters": [
+        {
+          "name": "amount",
+          "min_value": 1,
+          "max_value": 35000,
+          "slider_min_value": 1,
+          "slider_max_value": 35000,
+          "value": 2500
+        }
+      ]
+    }
+  ],
+  "max_simulation": {
+    "action_code": "request_and_receive_a_limit_increase_of_d_on_card",
+    "simulation_parameters": [
+      {
+        "name": "amount",
+        "value": 30000
+      }
+    ],
+    "simulated_score_high": 745
+  }
+}

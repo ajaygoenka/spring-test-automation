@@ -1,0 +1,14 @@
+{
+  "creditCardResponse": {
+    "lastFourCardNumber": "0003",
+    "expMonth": 2,
+    "expYear": 2023,
+    "cardType": "Discover",
+    "cardRole": "ACTIVE",
+    "paymentMethodId": "36493"
+  },
+  "billingSource": "CreditCard",
+  "nextBillDate": "2019-03-05T08:00:00.000Z",
+  "billingStatus": "DELINQUENT",
+  "accountBalance": 27.21
+}

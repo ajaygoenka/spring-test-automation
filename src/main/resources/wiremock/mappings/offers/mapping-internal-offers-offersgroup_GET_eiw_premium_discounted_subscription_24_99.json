@@ -1,0 +1,15 @@
+{
+  "id": "70b36080-42e5-3c0c-88d4-4ef0a2e75889",
+  "request": {
+    "url": "/internal/offers/offersgroup/2cc7c232-ffa3-4fdc-bf81-8aa557d899a8",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers/body-internal-offers-offersgroup_GET_eiw_premium_discounted_subscription_24_99.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "uuid": "70b36080-42e5-3c0c-88d4-4ef0a2e75889"
+}

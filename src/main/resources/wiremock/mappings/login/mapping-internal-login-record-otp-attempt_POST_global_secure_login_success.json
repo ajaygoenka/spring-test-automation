@@ -1,0 +1,26 @@
+{
+  "id" : "06ac0d77-d752-39ed-b64a-7d1f198df5ab",
+  "request" : {
+    "url" : "/internal/login/record/otp/attempt?async=true",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"attemptType\":\"SecureLoginSuccess\"}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "login/body-internal-login-record-otp-attempt_POST_global_secure_login_success.txt",
+    "headers" : {
+      "Date" : "Tue, 12 Mar 2019 15:33:52 GMT",
+      "Connection" : "keep-alive",
+      "X-Powered-By" : "Express",
+      "cache-control" : "no-cache, no-store, max-age=0, must-revalidate",
+      "pragma" : "no-cache",
+      "expires" : "0",
+      "x-application-context" : "application:8080"
+    }
+  },
+  "uuid" : "06ac0d77-d752-39ed-b64a-7d1f198df5ab"
+}
