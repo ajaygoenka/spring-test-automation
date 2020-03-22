@@ -24,11 +24,13 @@ public class BaseEnvSetup {
 
     private static final Logger log = (Logger) LoggerFactory.getLogger(BaseEnvSetup.class);
 
+/*
     @Autowired
     private DynamoDBUtil dynamoDBUtil;
 
     @Autowired
     private CloudFormationUtil cloudFormationUtil;
+*/
 
 
     @Value("${external.api.base}")
@@ -59,8 +61,8 @@ public class BaseEnvSetup {
             log.info("Running tests against locally running service");
             serviceRegistryTable = apiTestProperties.getProperty("serviceregistry.table");
             configTable = apiTestProperties.getProperty("config.table");
-            dynamoDBUtil.setServiceRegistryTable(serviceRegistryTable);
-            dynamoDBUtil.setConfigTable(configTable);
+//            dynamoDBUtil.setServiceRegistryTable(serviceRegistryTable);
+//            dynamoDBUtil.setConfigTable(configTable);
 
             int port = 9999;
             if (StringUtils.isNotNullOrEmpty(System.getProperty("wiremock.port"))) {
@@ -88,10 +90,10 @@ public class BaseEnvSetup {
 
         } else {
             log.info("Running tests against " + apiTestProperties.getEnvironment() + " environment");
-            serviceRegistryTable = cloudFormationUtil.getPhysicalResourceName(System.getenv("NETWORK_STACK"), "ServiceRegistry");
+            /*serviceRegistryTable = cloudFormationUtil.getPhysicalResourceName(System.getenv("NETWORK_STACK"), "ServiceRegistry");
             configTable = cloudFormationUtil.getPhysicalResourceName(System.getenv("NETWORK_STACK"), "ConfigTable");
             dynamoDBUtil.setServiceRegistryTable(serviceRegistryTable);
-            dynamoDBUtil.setConfigTable(configTable);
+            dynamoDBUtil.setConfigTable(configTable);*/
 
             if (StringUtils.isNotNull(System.getProperty("jumpbox"))) {
                 //secureTokenUrl = "http://localhost:8886";
@@ -106,7 +108,7 @@ public class BaseEnvSetup {
         return apiTestProperties;
     }
 
-    public DynamoDBUtil getDynmamoDBUtil() {
+  /*  public DynamoDBUtil getDynmamoDBUtil() {
         return dynamoDBUtil;
     }
 
@@ -114,7 +116,7 @@ public class BaseEnvSetup {
         return cloudFormationUtil;
     }
 
-
+*/
     public String getBaseUrl() {
         return BaseUrl;
     }

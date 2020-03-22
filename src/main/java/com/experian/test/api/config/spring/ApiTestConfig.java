@@ -26,6 +26,7 @@ public class ApiTestConfig {
         return new BaseEnvSetup(properties());
     }
 
+/*
     @Bean
     public DynamoDBUtil createDynamoDBUtil() {
         return new DynamoDBUtil();
@@ -35,6 +36,7 @@ public class ApiTestConfig {
     public CloudFormationUtil createCloudFormationUtil() {
         return new CloudFormationUtil();
     }
+*/
 
     @Bean
     public static PropertySourcesPlaceholderConfigurer propertyConfig() {
