@@ -1,1 +1,1 @@
-# d2c-integration-test-automation
+spring-test-automation

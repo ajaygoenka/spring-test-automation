@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.automation.ecs.test</groupId>
+    <groupId>com.experian.ecs.test</groupId>
     <artifactId>spring-test-automation</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -16,6 +16,36 @@
             <url>https://jcenter.bintray.com</url>
         </repository>
         
+        <repository>
+            <id>artifactory-auto</id>
+            <name>Artifactory</name>
+            <url>https://ecs.jfrog.io/ecs/corvetteuk-test-automation-common-virtual</url>
+        </repository>
+
+        <repository>
+            <id>artifactory-gradle</id>
+            <name>Artifactory</name>
+            <url>https://ecs.jfrog.io/ecs/corvette-na-gradle-virtual</url>
+        </repository>
+
+        <repository>
+            <id>artifactory-maven</id>
+            <name>Artifactory</name>
+            <url>https://ecs.jfrog.io/ecs/corvetteuk-maven-group</url>
+        </repository>
+
+        <repository>
+            <id>artifactory-plugin</id>
+            <name>Artifactory</name>
+            <url>https://ecs.jfrog.io/ecs/plugins-release</url>
+        </repository>
+
+        <repository>
+            <id>artifactory-remote-cache</id>
+            <name>Artifactory</name>
+            <url>https://ecs.jfrog.io/ecs/corvette-na-gradle-group-remote-cache</url>
+        </repository>
+
     </repositories>
 
     <properties>
@@ -161,7 +191,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <projectName>d2c-integration-test-automation</projectName>
+                            <projectName>spring-test-automation</projectName>
                             <outputDirectory>${project.build.directory}/cucumber-html-reports</outputDirectory>
                             <cucumberOutput>${project.build.directory}/cucumber-parallel</cucumberOutput>
                             <parallelTesting>false</parallelTesting>
