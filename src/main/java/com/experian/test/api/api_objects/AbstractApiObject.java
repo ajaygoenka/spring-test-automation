@@ -106,8 +106,6 @@ public abstract class AbstractApiObject {
             requestHeaders.set("Accept", MediaType.APPLICATION_JSON_VALUE);
         }
         requestHeaders.set("x-api-version", API_VERSION_NUMBER);
-        scenarioSession.putData("sessionId","automation-"+ RandomUtils.randomInt(123456780, 890000000));
-        requestHeaders.set("x-sessionId",scenarioSession.getData("sessionId"));
         requestEntity = new HttpEntity(requestJson, requestHeaders);
     }
 

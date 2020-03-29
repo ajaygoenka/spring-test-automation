@@ -28,24 +28,6 @@
             <url>https://ecs.jfrog.io/ecs/corvette-na-gradle-virtual</url>
         </repository>
 
-        <repository>
-            <id>artifactory-maven</id>
-            <name>Artifactory</name>
-            <url>https://ecs.jfrog.io/ecs/corvetteuk-maven-group</url>
-        </repository>
-
-        <repository>
-            <id>artifactory-plugin</id>
-            <name>Artifactory</name>
-            <url>https://ecs.jfrog.io/ecs/plugins-release</url>
-        </repository>
-
-        <repository>
-            <id>artifactory-remote-cache</id>
-            <name>Artifactory</name>
-            <url>https://ecs.jfrog.io/ecs/corvette-na-gradle-group-remote-cache</url>
-        </repository>
-
     </repositories>
 
     <properties>

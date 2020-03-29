@@ -10,7 +10,6 @@ import com.amazonaws.services.dynamodbv2.document.spec.QuerySpec;
 import com.amazonaws.services.dynamodbv2.document.spec.UpdateItemSpec;
 import com.amazonaws.services.dynamodbv2.document.utils.ValueMap;
 import com.amazonaws.services.dynamodbv2.model.ReturnValue;
-import com.experian.test.api.config.properties.ServiceName;
 import com.experian.test.session.ScenarioSession;
 import com.experian.test.utils.file.FileUtils;
 import com.fasterxml.jackson.core.JsonFactory;
@@ -356,22 +355,6 @@ public class DynamoDBUtil {
         return outcome;
     }
 
-    public String getServiceURL(ServiceName serviceName, String version) throws Exception {
-        log.info(serviceRegistryTable+ " "+serviceName.getLogicalName()+ " " + version );
-        Item item = readItem(serviceRegistryTable, "service", serviceName.getLogicalName(), "version", version);
-
-        if (item == null)
-            throw new Exception("No records found in table " + serviceRegistryTable + " for service=" + serviceName.getLogicalName() + " and version=" + version);
-
-        String url = item.get("url").toString();
-        String port = item.get("port").toString();
-        String status = item.get("status").toString();
-        String apiversion = item.get("version").toString();
-
-        log.info(url + " " + port + " " + status + " " + apiversion);
-
-        return protocol + url;
-    }
 
     //Implemented to allow the hostname to be derived explicitly by the passed in service name string (rather than just enum)
     public String getServiceURL(String serviceName, String version) throws Exception {
@@ -386,51 +369,6 @@ public class DynamoDBUtil {
         String apiversion = item.get("version").toString();
         log.info(url + " " + port + " " + status + " " + apiversion);
         return protocol + url;
-    }
-
-    public String getConfigurationItems(ServiceName serviceName, String version, String configurationName, String filter) throws Exception {
-        Item item = this.readItem(configTable, "service", serviceName.getLogicalName(), "version", version);
-        if(item == null) {
-            throw new Exception("No records found in table " + configTable + " for service=" + serviceName.getLogicalName() + " and version=" + version);
-        } else {
-
-
-            String configString = item.get("config").toString();
-            JSONObject configJSON = new JSONObject(configString);
-            log.info(configJSON.toString());
-
-            String[] splitArray = configurationName.split(Pattern.quote("."));
-            if(splitArray.length == 0){
-                splitArray =  new String []{configurationName};
-            }
-
-            String configItem = "";
-            for(int i = 0; i<configJSON.names().length(); i++){
-
-                if(configJSON.names().getString(i).equalsIgnoreCase(splitArray[0].toString())){
-                    if(configJSON.get(configJSON.names().getString(i)).getClass().getName().contains("String")){
-                        configItem =  configJSON.getString(configJSON.names().getString(i));
-                    }else if(configJSON.get(configJSON.names().getString(i)).getClass().getName().contains("Boolean") || configJSON.get(configJSON.names().getString(i)).getClass().getName().contains("Integer")){
-                        configItem =  configJSON.get(configJSON.names().getString(i)).toString();
-                    }else if(configJSON.get(configJSON.names().getString(i)).getClass().getName().contains("JSONArray")){
-                        JSONArray dynamoDBArray = configJSON.getJSONArray(configJSON.names().getString(i));
-                        configItem = getdynamoDBArray(configJSON,dynamoDBArray ,filter,splitArray);
-                    }else if(configJSON.get(configJSON.names().getString(i)).getClass().getName().contains("JSONObject")){
-                        JSONObject dynamoDBObject = configJSON.getJSONObject(configJSON.names().getString(i));
-                        if(splitArray.length > 2 ) {
-                            configItem =  dynamoDBObject.getJSONObject(splitArray[1].toString()).get(splitArray[2].toString()).toString();
-                        }else{
-                            configItem =  dynamoDBObject.get(splitArray[1].toString()).toString();
-                        }
-
-                    }
-                }
-
-            }
-            log.info("Table name=" + configItem);
-
-            return configItem;
-        }
     }
 
     public String getConfigurationItems(String serviceName, String version, String configurationName, String filter) throws Exception {

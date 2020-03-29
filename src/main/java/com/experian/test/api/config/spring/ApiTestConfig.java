@@ -10,8 +10,7 @@ import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 @Configuration
 @PropertySources({
         @PropertySource(value = {"classpath:properties/${environment}.properties"}),
-        @PropertySource(value = {"classpath:properties/service.properties"}),
-        @PropertySource(value = {"classpath:properties/${properties}.properties"} , ignoreResourceNotFound = true)
+        @PropertySource(value = {"classpath:properties/service.properties"})
 })
 @ComponentScan(basePackages = { "com.experian.test" })
 public class ApiTestConfig {
@@ -21,10 +20,12 @@ public class ApiTestConfig {
         return new ApiTestProperties();
     }
 
+
     @Bean
     public BaseEnvSetup baseEnvSetup() {
         return new BaseEnvSetup(properties());
     }
+
 
 /*
     @Bean

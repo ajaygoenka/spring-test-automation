@@ -43,7 +43,6 @@ public class BaseEnvSetup {
     private String pingRequired;
 
     private ApiTestProperties apiTestProperties;
-    private WireMockServer    wiremockServer;
     private String            serviceRegistryTable;
     private String            configTable;
 
@@ -54,54 +53,11 @@ public class BaseEnvSetup {
 
     @PostConstruct
     private void setup() throws Exception {
-
-        Runtime.getRuntime().addShutdownHook(CLOSE_THREAD);
-
-        if (isLocal()) {
-            log.info("Running tests against locally running service");
-            serviceRegistryTable = apiTestProperties.getProperty("serviceregistry.table");
-            configTable = apiTestProperties.getProperty("config.table");
-//            dynamoDBUtil.setServiceRegistryTable(serviceRegistryTable);
-//            dynamoDBUtil.setConfigTable(configTable);
-
-            int port = 9999;
-            if (StringUtils.isNotNullOrEmpty(System.getProperty("wiremock.port"))) {
-                port = Integer.parseInt(System.getProperty("wiremock.port"));
-            } else {
-                System.setProperty("wiremock.port", Integer.toString(port));
-            }
-
-//            secureTokenUrl += ":" + port;
-//            creditMatcherBaseUrl += ":" + port;
-//            billingrateplansUrl += ":" + port;
-//            experianHomeBaseUrl += ":" + port;
-//            prodMoveBaseUrl += ":" + port;
-
-
-            wiremockServer = new WireMockServer(
-                    options()
-                            .port(port)
-                            .usingFilesUnderClasspath("wiremock")
-                            .notifier(new ConsoleNotifier(false))
-                            .extensions(new ResponseTemplateTransformer(true))
-                            .enableBrowserProxying(true));
-            wiremockServer.start();
-            log.info("******* WIREMOCK SERVER STARTED ON PORT " + port + " *******");
-
-        } else {
-            log.info("Running tests against " + apiTestProperties.getEnvironment() + " environment");
+        log.info("Running tests against " + apiTestProperties.getEnvironment() + " environment");
             /*serviceRegistryTable = cloudFormationUtil.getPhysicalResourceName(System.getenv("NETWORK_STACK"), "ServiceRegistry");
             configTable = cloudFormationUtil.getPhysicalResourceName(System.getenv("NETWORK_STACK"), "ConfigTable");
             dynamoDBUtil.setServiceRegistryTable(serviceRegistryTable);
             dynamoDBUtil.setConfigTable(configTable);*/
-
-            if (StringUtils.isNotNull(System.getProperty("jumpbox"))) {
-                //secureTokenUrl = "http://localhost:8886";
-            } else {
-                //secureTokenUrl = dynamoDBUtil.getServiceURL(ServiceName.SECURE_TOKEN, secureTokenApiVersion);
-            }
-           // billingrateplansUrl = dynamoDBUtil.getServiceURL(ServiceName.BILLINGRATEPLANS, billingrateplansApiVersion);
-        }
     }
 
     public ApiTestProperties getApiTestProperties() {
@@ -134,21 +90,7 @@ public class BaseEnvSetup {
         return apiTestProperties.getEnvironment().equalsIgnoreCase("local");
     }
 
-    private void globalAfterAllHook() {
-        if (wiremockServer != null && wiremockServer.isRunning()) {
-            wiremockServer.stop();
-            wiremockServer.shutdownServer();
-            log.info("******* WIREMOCK SERVER STOPPED *******");
-        }
-    }
 
-    private final Thread CLOSE_THREAD = new Thread() {
-        @Override
-        public void run() {
-            createConsolidatedReport();
-            globalAfterAllHook();
-        }
-    };
 
     public boolean isTheServiceUp(String serviceUrl) {
         int numOfRequiredPings;
@@ -191,36 +133,4 @@ public class BaseEnvSetup {
         }
     }
 
-    private void createConsolidatedReport() {
-        log.info("creating consolidated test report.json");
-        File[] listOfFiles = new File("target/cucumber-parallel").listFiles();
-
-        try {
-            for (int i = 0; i < listOfFiles.length; i++) {
-                if (listOfFiles[i].isFile()) {
-                    org.json.JSONArray json_arr1 = new org.json.JSONArray(org.apache.commons.io.FileUtils.readFileToString(listOfFiles[i], "utf-8"));
-                    String featureName = json_arr1.getJSONObject(0).getString("uri");
-                    File featureReport = new File("target/cucumber-parallel/" + featureName.replaceAll(".+/", "")
-                            .replace(".feature", ".json"));
-                    if (!featureReport.exists()) {
-                        featureReport.createNewFile();
-                        log.info(featureReport.getName() + " created successfully");
-                        org.apache.commons.io.FileUtils.copyFile(listOfFiles[i], featureReport);
-                    } else {
-                        org.json.JSONArray jsonArr_src = new org.json.JSONArray(org.apache.commons.io.FileUtils.readFileToString(listOfFiles[i], "utf-8"));
-                        JSONObject scenario_obj_src = jsonArr_src.getJSONObject(0).getJSONArray("elements").getJSONObject(0);
-                        String temp_file = org.apache.commons.io.FileUtils.readFileToString(featureReport, Charset.forName("UTF-8"));
-                        StringBuilder sb = new StringBuilder(temp_file);
-                        sb.insert(38, scenario_obj_src.toString() + ",");
-                        org.apache.commons.io.FileUtils.writeStringToFile(featureReport, sb.toString(), Charset.forName("UTF-8"));
-                    }
-                    if (listOfFiles[i].delete()) {
-                        log.info(listOfFiles[i].getName() + " deleted successfully");
-                    }
-                }
-            }
-        } catch (Exception io) {
-            io.printStackTrace();
-        }
-    }
 }

@@ -20,12 +20,12 @@ public class LoginApi extends AbstractApiObject {
 
     @Override
     public void setBaseUrl(String endpoint, String intOrExt) {
-        if (intOrExt.equalsIgnoreCase("internal experian") && endpoint.contains("{userName}")){
+        if (intOrExt.equalsIgnoreCase("internal auto") && endpoint.contains("{userName}")){
             endpoint = endpoint.replace("{userName}", scenarioSession.getData("userName"));
             baseUrl = envSetup.getLoginUrl() + "/internal" + endpoint;
-        }else if (intOrExt.equalsIgnoreCase("internal experian")){
+        }else if (intOrExt.equalsIgnoreCase("internal auto")){
             baseUrl = envSetup.getLoginUrl() + "/internal" + endpoint;
-        } else if(intOrExt.equalsIgnoreCase("external experian")){
+        } else if(intOrExt.equalsIgnoreCase("external auto")){
             baseUrl = envSetup.getBaseEnvSetup().getBaseUrl() + endpoint;
         }
 

@@ -33,7 +33,7 @@ public class LoginStepDefinition {
     public JSONUtils jsonUtils;
 
 
-    @Given("^I create a new (internal experian|external experian) login service request to the (.*) endpoint$")
+    @Given("^I create a new (internal auto|external auto) login service request to the (.*) endpoint$")
     public void create_new_api_request(String intOrExt, String endpoint) throws Throwable {
         loginApi.setBaseUrl(endpoint, intOrExt);
         commonStepDefinition.setApiObject(loginApi);
