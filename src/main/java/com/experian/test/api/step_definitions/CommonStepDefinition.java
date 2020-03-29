@@ -45,10 +45,7 @@ public class CommonStepDefinition {
 
     @Autowired
     public ScenarioSession scenarioSession;
-
-    @Autowired
-    public CustomerUtil customerUtil;
-
+    
     @Autowired
     public S3Util s3Util;
 
@@ -189,8 +186,6 @@ public class CommonStepDefinition {
         // Set the query parameter on the request url
         if (value.equals("createdCustomerId"))
             value = scenarioSession.getData(ScenarioKey.CUSTOMER_ID.getKey());
-        if (value.equals("customerId"))
-            value = customerUtil.getCustomer().getCustomerId();
         apiObject.setQueryParameter(key, value);
     }
 
@@ -454,10 +449,7 @@ public class CommonStepDefinition {
         if (attribute.equals(ScenarioKey.BROKER_PAYLOAD.getKey()))
             apiObject.jsonObject = new JSONObject(scenarioSession.getData(ScenarioKey.BROKER_PAYLOAD.getKey()));
         else if (attribute.contains("customerId")) {
-            if (customerUtil.getCustomer() == null)
-                customerUtil.createEmptyIDaaSCustomer();
-            customerUtil.getCustomer().setCustomerId(jsonUtils.getNodeValue(apiObject.getResponseJson(), attribute));
-        }
+                   }
 
         scenarioSession.putData(keyName, jsonUtils.getNodeValue(apiObject.getResponseJson(), attribute));
         log.info(keyName + " = " + scenarioSession.getData(keyName));
