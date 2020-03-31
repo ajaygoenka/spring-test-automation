@@ -35,7 +35,7 @@ public class EnvSetup extends ApiEnvSetupImpl {
         if (!baseEnvSetup.isLocal()) {
             log.info("Running getInternalServiceURLs");
            // loginUrl=baseEnvSetup.getDynmamoDBUtil().getServiceURL("login",getLoginApiVersion());
-            loginUrl="https://www.google.com";
+            loginUrl="http://localhost:8080";
         }
 
     }
