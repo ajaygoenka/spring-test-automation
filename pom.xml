@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.experian.ecs.test</groupId>
-    <artifactId>d2c-integration-test-automation</artifactId>
+    <groupId>com.auto.ecs.test</groupId>
+    <artifactId>spring-test-automation</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
@@ -26,24 +26,6 @@
             <id>artifactory-gradle</id>
             <name>Artifactory</name>
             <url>https://ecs.jfrog.io/ecs/corvette-na-gradle-virtual</url>
-        </repository>
-
-        <repository>
-            <id>artifactory-maven</id>
-            <name>Artifactory</name>
-            <url>https://ecs.jfrog.io/ecs/corvetteuk-maven-group</url>
-        </repository>
-
-        <repository>
-            <id>artifactory-plugin</id>
-            <name>Artifactory</name>
-            <url>https://ecs.jfrog.io/ecs/plugins-release</url>
-        </repository>
-
-        <repository>
-            <id>artifactory-remote-cache</id>
-            <name>Artifactory</name>
-            <url>https://ecs.jfrog.io/ecs/corvette-na-gradle-group-remote-cache</url>
         </repository>
 
     </repositories>
@@ -145,7 +127,7 @@
                             <!-- Mandatory -->
                             <!-- comma separated list of package names to scan for glue code -->
                             <glue>
-                                <package>com.experian.test.api.step_definitions</package>
+                                <package>com.auto.test.api.step_definitions</package>
                             </glue>
                             <!-- Where to output the generated Junit tests -->
                             <outputDirectory>${project.build.directory}/generated-test-sources/cucumber</outputDirectory>
@@ -191,7 +173,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <projectName>d2c-integration-test-automation</projectName>
+                            <projectName>spring-test-automation</projectName>
                             <outputDirectory>${project.build.directory}/cucumber-html-reports</outputDirectory>
                             <cucumberOutput>${project.build.directory}/cucumber-parallel</cucumberOutput>
                             <parallelTesting>false</parallelTesting>
@@ -290,14 +272,7 @@
             <artifactId>wiremock-standalone</artifactId>
             <version>2.14.0</version>
         </dependency>
-
-        <!-- logging libs -->
-        <dependency>
-            <groupId>com.experian.ecs</groupId>
-            <artifactId>common-logging</artifactId>
-            <version>${ecs.lib.version}</version>
-            <scope>compile</scope>
-        </dependency>
+        
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
