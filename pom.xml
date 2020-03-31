@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.experian.ecs.test</groupId>
+    <groupId>com.auto.ecs.test</groupId>
     <artifactId>spring-test-automation</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -274,12 +274,12 @@
         </dependency>
 
         <!-- logging libs -->
-        <dependency>
+       <!-- <dependency>
             <groupId>com.experian.ecs</groupId>
             <artifactId>common-logging</artifactId>
             <version>${ecs.lib.version}</version>
             <scope>compile</scope>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>

@@ -88,7 +88,7 @@ public class CommonStepDefinition {
                 index = "%20index=corvette_stage";
             }
 
-            splunkquery = "<a href=\"https://experiancs.splunkcloud.com/en-US/app/ecs_app/search?q=" + scenarioSession.getData("sessionId") + index + "\">Splunk Query</a>";
+            splunkquery = "<a href=\"https://splunkcloud.com/search?q=" + scenarioSession.getData("sessionId") + index + "\">Splunk Query</a>";
             scenario.write("Error Message : " + ((ScenarioImpl) scenario).getError().getMessage());
             scenario.write("sessionId : " + scenarioSession.getData("sessionId"));
             scenario.embed(splunkquery.getBytes(), "text/html");

@@ -10,9 +10,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.Map;
 
-/**
- * Copyright © 2016, Experian Ltd. All rights reserved.
- */
 
 @Component
 public class SQSUtil {
