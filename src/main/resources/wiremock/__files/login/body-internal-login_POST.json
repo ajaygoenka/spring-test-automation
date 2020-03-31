@@ -1,6 +1,0 @@
-{
-    "customerId": "{{jsonPath request.body '$.customerId'}}",
-    "username": "{{jsonPath request.body '$.username'}}",
-    "isLocked": false,
-    "locked": false
-}

@@ -1,9 +1,0 @@
-{
-  "error": [
-    {
-      "code": 106,
-      "message": "Invalid Action Code Specified - ",
-      "stack_trace": "   at Fico.Appliance.API.Controllers.SimulationsController.RunSimulation(SimulationParamsMulti request)"
-    }
-  ]
-}

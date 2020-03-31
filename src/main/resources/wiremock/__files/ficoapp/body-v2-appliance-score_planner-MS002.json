@@ -1,9 +1,0 @@
-{
-  "original_score":619,
-  "target_score":635,
-  "target_duration":6,
-  "statement":{
-    "code":"MS002",
-    "text":"The target FICO<sup>&reg;</sup> Score 8 entered must be at least 20 points higher than your FICO<sup>&reg;</sup> Score 8 and cannot exceed the maximum score of 850."
-  }
-}

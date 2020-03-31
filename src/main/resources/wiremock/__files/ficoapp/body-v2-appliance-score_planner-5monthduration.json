@@ -1,9 +1,0 @@
-{
-  "original_score": 619,
-  "target_score": 658,
-  "target_duration": 5,
-  "statement": {
-    "code": "MS004",
-    "text": "The target duration entered must be 3, 6, 9 or 12 months."
-  }
-}

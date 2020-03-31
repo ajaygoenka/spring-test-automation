@@ -1,3 +1,0 @@
-{
-    "must match \"^[a-zA-Z]+([ \\-'][a-zA-Z]+)*$\"": "name.first"
-}
