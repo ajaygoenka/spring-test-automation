@@ -272,14 +272,7 @@
             <artifactId>wiremock-standalone</artifactId>
             <version>2.14.0</version>
         </dependency>
-
-        <!-- logging libs -->
-       <!-- <dependency>
-            <groupId>com.experian.ecs</groupId>
-            <artifactId>common-logging</artifactId>
-            <version>${ecs.lib.version}</version>
-            <scope>compile</scope>
-        </dependency>-->
+        
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
