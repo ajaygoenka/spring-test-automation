@@ -127,7 +127,7 @@
                             <!-- Mandatory -->
                             <!-- comma separated list of package names to scan for glue code -->
                             <glue>
-                                <package>com.experian.test.api.step_definitions</package>
+                                <package>com.auto.test.api.step_definitions</package>
                             </glue>
                             <!-- Where to output the generated Junit tests -->
                             <outputDirectory>${project.build.directory}/generated-test-sources/cucumber</outputDirectory>
