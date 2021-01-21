@@ -39,7 +39,7 @@
         <ecs.lib.version>1.8.13</ecs.lib.version>
 
         <selenium.version>3.8.1</selenium.version>
-        <jackson.version>2.7.2</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <httpclient.version>4.5.2</httpclient.version>
         <aws.sdk.version>1.11.157</aws.sdk.version>
     </properties>
