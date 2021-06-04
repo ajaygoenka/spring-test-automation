@@ -40,7 +40,7 @@
 
         <selenium.version>3.8.1</selenium.version>
         <jackson.version>2.7.2</jackson.version>
-        <httpclient.version>4.5.2</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <aws.sdk.version>1.11.157</aws.sdk.version>
     </properties>
 
